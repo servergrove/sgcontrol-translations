@@ -1,0 +1,1088 @@
+'New MongoDB service': 'New MongoDB service'
+'New VPS service': 'New VPS service'
+'New repository': 'New repository'
+'Please, provide an explanation for the cancellation. <br>Feedback is key for us to improve our service': 'Please, provide an explanation for the cancellation. <br>Feedback is key for us to improve our service'
+New: New
+Warning: Warning
+'Select an OS': 'Select an OS'
+Graphical: Graphical
+'ServerGrove Blog': 'ServerGrove Blog'
+'VPS Services': 'VPS Services'
+'Mongo Services': 'Mongo Services'
+History: History
+Server: Server
+Current: Current
+'Your password': 'Your password'
+'Logged in as': 'Logged in as'
+'Overview of': 'Overview of'
+'Connection Files': 'Connection Files'
+'Select operating system': 'Select operating system'
+'All Applications': 'All Applications'
+'Startup at boot-time': 'Startup at boot-time'
+'Copy all settings': 'Copy all settings'
+'Standard Mailbox': 'Standard Mailbox'
+'Forwarding Email': 'Forwarding Email'
+'Post Email': 'Post Email'
+'All Domains': 'All Domains'
+'All Applications': 'All Applications'
+'Contact Support': 'Contact Support'
+'New Collection': 'New Collection'
+'Traffic summary for': 'Traffic summary for'
+'Total alloted': 'Total alloted'
+'Search Knowledge Base / FAQ': 'Search Knowledge Base / FAQ'
+'Feedback &amp; feature requests': 'Feedback &amp; feature requests'
+'Email usage per domain': 'Email usage per domain'
+'Billing Address must match the address on the credit card statement': 'Billing Address must match the address on the credit card statement'
+'New User': 'New User'
+'This server is off. Please boot up to start using it.': 'This server is off. Please boot up to start using it.'
+'spam filter directions': 'This form allows you to adjust the filtering parameters for your anti-spam service. The score filters the content and can be adjusted from 1 to 10, one being the most sensitive. Recomended values are between 5 and 7. Whitelist and blacklists allow you define which emails can and cannot get through the filter. List emails one per line. . To whitelist or blacklist an entire domain use *@domain.com.'
+Help: Help
+'Enter First Name': 'Enter First Name'
+'Enter Last Name': 'Enter Last Name'
+'Enter Email': 'Enter Email'
+'Confirm password': 'Confirm password'
+'Enables API Key': 'Enables API Key'
+'Send an email with password reset': 'Send an email with password reset'
+'Allow access to Billing information': 'Allow access to Billing information'
+'Allow access to Support tickets': 'Allow access to Support tickets'
+'Account Holder': 'Account Holder'
+'is unpaid. In order to upgrade/downgrade your server you must': 'is unpaid. In order to upgrade/downgrade your server you must'
+'pay this invoice': 'pay this invoice'
+Email: Email
+Password: Password
+password: password
+Language: English
+Authenticating: Authenticating
+suspend: suspend
+activate: activate
+Login: Login
+Submit: Submit
+Username: Username
+Name: Name
+Users: Users
+User: User
+Managing: Managing
+Manage: Manage
+info: info
+Info: Info
+Configure: Configure
+services: services
+Services: Services
+service: service
+apps: apps
+Enabled: Enabled
+Status: Status
+'Sync Control': 'Sync Control'
+ReSync: ReSync
+'Last sync': 'Last sync'
+NOTE: NOTE
+Uninstall: Uninstall
+Installed: Installed
+Install: Install
+Version: Version
+Category: Category
+Categories: Categories
+None: None
+Invoice: Invoice
+'Credit card': 'Credit card'
+Invoices: Invoices
+Date: Date
+'Due Date': 'Due Date'
+Total: Total
+Download: Download
+pay: pay
+Attention: Attention
+Update: Update
+dashboard: dashboard
+Dashboard: Dashboard
+Resources: Resources
+Network: Network
+Top: Top
+Connect: Connect
+'free of': 'free of'
+Free: Free
+Memory: Memory
+Used: Used
+'Disk usage': 'Disk usage'
+'Disk Usage': 'Disk Usage'
+'Disk Consumption': 'Disk Consumption'
+'Memory Consumption': 'Memory Consumption'
+'CPU Load': 'CPU Load'
+'Average CPU Load': 'Average CPU Load'
+'Live CPU': 'Live CPU'
+Add: Add
+'Add a server': 'Add a server'
+Active: Active
+active: active
+offline: offline
+All: All
+mem: mem
+disk: disk
+uptime: uptime
+ping: ping
+'MongoDB Server': 'MongoDB Server'
+'VPS Server': 'VPS Server'
+Plan: Plan
+Template: Template
+OS: OS
+'Online Users': 'Online Users'
+'Internal IP': 'Internal IP'
+'Customer Support': 'Customer Support'
+'Knowledge Base': 'Knowledge Base'
+'Web Hosting': 'Web Hosting'
+'Open in Browser': 'Open in Browser'
+Browse: Browse
+Delete: Delete
+delete: delete
+Deleting: Deleting
+'Delete Domain': 'Delete Domain'
+domains: domains
+Domains: Domains
+Path: Path
+Type: Type
+Temporary: Temporary
+Permanent: Permanent
+'Sending request': 'Sending request'
+'Email Hosting': 'Email Hosting'
+'days remaining': 'days remaining'
+'Not available': 'Not available'
+Save: Save
+Cancel: Cancel
+'Current Version': 'Current Version'
+'Are you sure you want to delete': 'Are you sure you want to delete'
+'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.': 'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.'
+'YES, I am sure. Delete': 'YES, I am sure. Delete'
+Settings: Settings
+Disabled: Disabled
+disable: disable
+enable: enable
+'Total records': 'Total records'
+Nameservers: Nameservers
+'Host Name': 'Host Name'
+Address: Address
+Extra: Extra
+Remove: Remove
+remove: remove
+Edit: Edit
+Editing: Editing
+'Enter Value': 'Enter Value'
+'Enter Name': 'Enter Name'
+Priority: Priority
+'For example': 'For example'
+'You have no domains': 'You have no domains'
+'Add one now': 'Add one now'
+Account: Account
+Accounts: Accounts
+'Email accounts': 'Email accounts'
+Webmail: Webmail
+'Secure Webmail': 'Secure Webmail'
+Port: Port
+'SSL enabled': 'SSL enabled'
+'Alternate Port': 'Alternate Port'
+Autoresponder: Autoresponder
+configure: configure
+Alias: Alias
+'remove alias': 'remove alias'
+'Add Alias': 'Add Alias'
+Redirects: Redirects
+'Add Redirect': 'Add Redirect'
+'Configuration for': 'Configuration for'
+'First Name': 'First Name'
+'Last Name': 'Last Name'
+'Full Name': 'Full Name'
+Phone: Phone
+'EPP code / Authorization key': 'EPP code / Authorization key'
+Request: Request
+'Overview of': 'Overview of'
+'Primary Domain': 'Primary Domain'
+'Registration Information': 'Registration Information'
+'Lock Status': 'Lock Status'
+'Registration Status': 'Registration Status'
+'Renewal Cost': 'Renewal Cost'
+Renew: Renew
+Reload: Reload
+loading: loading
+Subdomains: Subdomains
+Check: Check
+'Checking, please wait': 'Checking, please wait'
+'Select Period': 'Select Period'
+'Select Payment': 'Select Payment'
+view: view
+rotate: rotate
+General: General
+Size: Size
+'Select method': 'Select method'
+Auto: Auto
+or: or
+'Total Domains': 'Total Domains'
+'Domains with email enabled': 'Domains with email enabled'
+'Domains with email disabled': 'Domains with email disabled'
+'Total users': 'Total users'
+'used of': 'used of'
+'Email domain usage': 'Email domain usage'
+purchase: purchase
+'contact us': 'contact us'
+'Need more?': 'Need more?'
+'p/ year': 'p/ year'
+'Hosted Email': 'Hosted Email'
+'Client Settings': 'Client Settings'
+Bulk: Bulk
+Upgrade: Upgrade
+Title: Title
+Note: Note
+Client: Client
+Group: Group
+'User Group': 'User Group'
+'Created on': 'Created on'
+'Last Login': 'Last Login'
+Subject: Subject
+Message: Message
+Urgency: Urgency
+Low: Low
+Medium: Medium
+High: High
+'Open Ticket': 'Open Ticket'
+ID: ID
+'Date Submitted': 'Date Submitted'
+Frequency: Frequency
+Destination: Recipients
+monitors: monitors
+Servers: Servers
+'Last Sent': 'Last Sent'
+'Today''s bandwidth': 'Today''s bandwidth'
+bandwidth: bandwidth
+Bandwidth: Bandwidth
+'Total alloted': 'Total alloted'
+monthly: monthly
+daily: daily
+Month: Month
+In: In
+Out: Out
+Day: Day
+Traffic: Traffic
+Summary: Summary
+'Public Network': 'Public Network'
+Today: Today
+Yesterday: Yesterday
+'This month': 'This month'
+'Last 3 months': 'Last 3 months'
+'Last 6 months': 'Last 6 months'
+'This year': 'This year'
+'Last year': 'Last year'
+'No public IP addresses configured': 'No public IP addresses configured'
+'Private/LAN Network': 'Private/LAN Network'
+'No private IP addresses configured': 'No private IP addresses configured'
+RAM: RAM
+Controls: Controls
+'This server is suspended. Please contact Customer Support.': 'This server is suspended. Please contact Customer Support.'
+Reboot: Reboot
+Shutdown: Shutdown
+'Boot up': 'Boot up'
+Tasks: Tasks
+stopped: stopped
+sleeping: sleeping
+running: running
+users: users
+'load average': 'load average'
+Graphic: Graphic
+Text: Text
+'Go to Parent': 'Go to Parent'
+Actions: Actions
+Please: Please
+Rebuild: Rebuild
+'Rebuild Server': 'Rebuild Server'
+'upgrade from the Client Area': 'upgrade from the Client Area'
+'submit a support request': 'submit a support request'
+'so we can update your server billing information': 'so we can update your server billing information'
+'This will cancel your service. All files will be destroyed and your server will cease to exist.': 'This will cancel your service. All files will be destroyed and your server will cease to exist.'
+'If you wish to change your OS or have a clean install, please': 'If you wish to change your OS or have a clean install, you may'
+'rebuild your server': 'rebuild your server'
+'Order process failed to return a valid Invoice': 'Order process failed to return a valid Invoice'
+'The order has been accepted. Your server will be updated shortly.': 'The order has been accepted. Your server will be updated shortly.'
+'Please select a new plan': 'Please select a new plan'
+'You did not change the plan. Are you sure you want to continue with the update plan request?': 'You did not change the plan. Are you sure you want to continue with the update plan request?'
+'Are you sure you want to change the server plan?': 'Are you sure you want to change the server plan?'
+'Changing plan': 'Changing plan'
+'Checking new pricing': 'Checking new pricing'
+'Amount due today': 'Amount due today'
+'Recurring amount': 'Recurring amount'
+'Next due date': 'Next due date'
+'Enter email': 'Enter email'
+'Enter password': 'Enter password'
+'Forgot password?': 'Forgot password?'
+'Reset Password': 'Reset Password'
+'Mobile Version': 'Mobile Version'
+'Enter your email address': 'Enter your email address'
+'Back to login page': 'Back to login page'
+'New Password': 'New Password'
+'Confirm Password': 'Confirm Password'
+'Change Password': 'Change Password'
+'Login to Control Panel': 'Login to Control Panel'
+'A password reset for the ServerGrove VPS Control Panel has been issued for your account': 'A password reset for the ServerGrove VPS Control Panel has been issued for your account'
+'To reset your password please follow this link': 'To reset your password please follow this link'
+'This request will expire in 5 minutes': 'This request will expire in 5 minutes'
+'If you do not wish to reset your password, no action is required': 'If you do not wish to reset your password, no action is required'
+'ServerGrove Team': 'ServerGrove Team'
+'Services will give you a quick overview of all your servers in one place. This is the page you are on right now.': 'Services will give you a quick overview of all your servers in one place. This is the page you are on right now.'
+'This is the name of your server. Mouseover this link to get more information.': 'This is the name of your server. Mouseover this link to get more information.'
+'These graphs offer you a quick overview of the resources available on your system. Mouseover these links to get more information.': 'These graphs offer you a quick overview of the resources available on your system. Mouseover these links to get more information.'
+'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places accross the globe.': 'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places accross the globe.'
+'Click here to start managing your server.': 'Click here to start managing your server.'
+'You may add servers to your account anytime.': 'You may add servers to your account anytime.'
+'Go to your profile page to change your login password to the control panel': 'Go to your profile page to change your login password to the control panel'
+'You may also setup multiple accounts for your developers and specify which servers they have access to.': 'You may also setup multiple accounts for your developers and specify which servers they have access to.'
+'The billing section allows you to update your credit card information, view and pay your invoices and view the archive of past invoices.': 'The billing section allows you to update your credit card information, view and pay your invoices and view the archive of past invoices.'
+'Your server comes with built in basic monitoring. This section allows you to adjust the settings and setup notifications.': 'Your server comes with built in basic monitoring. This section allows you to adjust the settings and setup notifications.'
+'Your inbox collects all your alerts and messages from ServerGrove.': 'Your inbox collects all your alerts and messages from ServerGrove.'
+'Our support section is designed to let you communicate with our support team.': 'Our support section is designed to let you communicate with our support team.'
+'Add a monitor': 'Add a monitor'
+'Event Type': 'Event Type'
+'Reached resource limits (memory, disk, etc.)': 'Reached resource limits (memory, disk, etc.)'
+'ServerGrove announcements': 'ServerGrove announcements'
+'Apply to Servers': 'Apply to Servers'
+'Real time': 'Real time'
+'Once a day': 'Once a day'
+'Once a week': 'Once a week'
+'Once a month': 'Once a month'
+'Monitors keep an eye on your server and send you alerts via email when you reach your limits.': 'Monitors keep an eye on your server and send you alerts via email when you reach your limits.'
+'Disk Storage': 'Disk Storage'
+'Email Storage': 'Email Storage'
+'Current Plan': 'Current Plan'
+/monthly: /monthly
+'Billing Cycle': 'Billing Cycle'
+'No links': 'No links'
+'Console access': 'Console access'
+'SFTP access': 'SFTP access'
+'No IP address': 'No IP address'
+'Request a private IP address': 'Request a private IP address'
+'Current load': 'Current load'
+Processes: Processes
+'Discovery process queued.': 'Discovery process queued.'
+'Sync server': 'Sync server'
+'You only need to sync the control panel if you do manual changes directly to your server using SSH': 'You only need to sync the control panel if you do manual changes directly to your server using SSH'
+'Add a new VPS': 'Add a new VPS'
+Timezone: Timezone
+'%server%''s Alerts': '%server%''s Alerts'
+'Unread Alerts': 'Unread Alerts'
+'Alerts Archive': 'Alerts Archive'
+'Cancel Server': 'Cancel Server'
+'There are no alerts for this server. Alerts are triggered by monitors': 'There are no alerts for this server. Alerts are triggered by monitors'
+'Are you sure you want to CANCEL server': 'Are you sure you want to CANCEL server'
+'All data related to the server (including files, databases, etc) will be permanently lost.': 'All data related to the server (including files, databases, etc) will be permanently lost.'
+'Please be sure to back-up all your files': 'Please be sure to backup all your files'
+'Please, provide an explanation for the cancellation. Feedback is key for us to improve our service': 'Please, provide an explanation for the cancellation. Feedback is key for us to improve our service'
+'YES, I am sure. CANCEL': 'YES, I am sure. CANCEL'
+'Please, confirm once again you would like to cancel this server': 'Please, confirm once again you would like to cancel this server'
+'Submitting cancellation': 'Submitting cancellation'
+'Sending cancellation request': 'Sending cancellation request'
+'%server%''s Diagnostics': '%server%''s Diagnostics'
+'System Diagnostics': 'System Diagnostics'
+'System check': 'System check'
+check: check
+details: details
+'Network Tests': 'Network Tests'
+'Ping your server IP': 'Ping your server IP'
+'Ping your local IP': 'Ping your local IP'
+'%server%''s Monitors': '%server%''s Monitors'
+Monitors: Monitors
+'Are you sure you want to remove this alert?': 'Are you sure you want to remove this alert?'
+'Installing a new image will wipe out all your current files. <u>Please be sure to back-up all your files.</u>': 'Installing a new image will wipe out all your current files. <u>Please be sure to back-up all your files.</u>'
+'Are you sure you want to reset your VPS?': 'Are you sure you want to reset your VPS?'
+'Current Operating System': 'Current Operating System'
+'New root password': 'New root password'
+'Your server will go offline while it is being rebuilt. You will receive an email when the process is complete. It may take between 1 and 15 minutes depending on how busy the deployment servers are. Please do not try to issue multiple "Rebuild" operations.': 'Your server will go offline while it is being rebuilt. You will receive an email when the process is complete. It may take between 1 and 15 minutes depending on how busy the deployment servers are. Please do not try to issue multiple "Rebuild" operations.'
+'%server%''s Terminal': '%server%''s Terminal'
+Terminal: Terminal
+'The SSH terminal is a Java Applet and is a 4MB download.': 'The SSH terminal is a Java Applet and is a 4MB download.'
+'Load SSH Terminal': 'Load SSH Terminal'
+'%server%''s Users': '%server%''s Users'
+'System Users': 'System Users'
+'Home Directory': 'Home Directory'
+'Edit User': 'Edit User'
+'No users': 'No users'
+'New User': 'New User'
+'Change Server Hostname': 'Change Server Hostname'
+'Server Hostname (ie. server.example.com)': 'Server Hostname (ie. server.example.com)'
+'We haven''t heard from you in a while so we stopped the live charts. To reactivate just move your mouse around.': 'We haven''t heard from you in a while so we stopped the live charts. To reactivate just move your mouse around.'
+'The System section allows you to monitor and control your system. This is the section you are on right now.': 'The System section allows you to monitor and control your system. This is the section you are on right now.'
+'The Memory, CPU tab will provide you with information about your system.': 'The Memory, CPU tab will provide you with information about your system.'
+'It also contains the reboot, shutdown and startup controls for your system.': 'It also contains the reboot, shutdown and startup controls for your system.'
+'Use the Sync server button to sync your control panel with your server if you made changes to your server using SSH while also logged in to your control panel': 'Use the Sync server button to sync your control panel with your server if you made changes to your server using SSH while also logged in to your control panel'
+'These graphs are updated every 6 seconds.': 'These graphs are updated every 6 seconds.'
+'The network tab will show you bandwidth consumption information.': 'The network tab will show you bandwidth consumption information.'
+'The top tab gives you a visual representation of your servers processes.': 'The top tab gives you a visual representation of your servers processes.'
+'The connect tab contains easy access to connection information such as SSH and SFTP.': 'The connect tab contains easy access to connection information such as SSH and SFTP.'
+'Our control panel has a simple GUI that allows you to manage the most common applications on your server.': 'Our control panel has a simple GUI that allows you to manage the most common applications on your server.'
+'Go to this section to add domains, manage emails, domain aliases, configure hosting, etc..': 'Go to this section to add domains, manage emails, domain aliases, configure hosting, etc..'
+'Email settings and information': 'Email settings and information'
+'Diagnostics is an easy way to check the status of your server.': 'Diagnostics is an easy way to check the status of your server.'
+'Add, remove and edit system users.': 'Add, remove and edit system users.'
+'Change the timezone on your system.': 'Change the timezone on your system.'
+'Add or remove RAM and disk space to your server.': 'Add or remove RAM and disk space to your server.'
+'Destroy your server and get a new one.': 'Destroy your server and get a new one.'
+'Order New Server': 'Order New Server'
+'new server': 'new server'
+'Add new %typeName% Server': 'Add new %typeName% Server'
+'Plan information': 'Plan information'
+'Select the plan for the new server. You can upgrade / downgrade your plan at any time without even rebooting your VPS.': 'Select the plan for the new server. You can upgrade / downgrade your plan at any time without even rebooting your VPS.'
+'Order new %typeName% Server': 'Order new %typeName% Server'
+'Payment Method': 'Payment Method'
+'App Control': 'App Control'
+Start: Start
+'Are you sure you want to stop this server?': 'Are you sure you want to stop this server?'
+Stop: Stop
+'Are you sure you want to restart this server?': 'Are you sure you want to restart this server?'
+Restart: Restart
+'Updating status, please wait...': 'Updating status, please wait...'
+'You only need to sync the control panel if you do manual changes to %serverApp% using a SSH client.': 'You only need to sync the control panel if you do manual changes to %serverApp% using a SSH client.'
+'Are you sure you want to uninstall %serverApp%?': 'Are you sure you want to uninstall %serverApp%?'
+'Scan the server and detect apps that you installed manually': 'Scan the server and detect apps that you installed manually'
+'%server%''s Applications': '%server%''s Applications'
+'%server%''s Apps': '%server%''s Apps'
+'You have no apps installed.': 'You have no apps installed.'
+'Install apps now': 'Install apps now'
+'Configure %server%''s %serverApp%': 'Configure %server%''s %serverApp%'
+'Retrieving configuration file from server, please wait...': 'Retrieving configuration file from server, please wait...'
+'Saving file on server, please wait...': 'Saving file on server, please wait...'
+'Browsing Available Applications': 'Browsing Available Applications'
+Applications: Applications
+'My Applications': 'My Applications'
+'Sync Apps': 'Sync Apps'
+'New Domain Alias': 'New Domain Alias'
+'Domain name': 'Domain name'
+'Enter Domain Name': 'Enter Domain Name'
+'Enter IP address': 'Enter IP address'
+'Enter mail domain': 'Enter mail domain'
+'Enter mail exchanger': 'Enter mail exchanger'
+'Specify priority of mail exchange server': 'Specify priority of mail exchange server'
+'Enter a canonical name': 'Enter a canonical name'
+'Enter TXT record': 'Enter TXT record'
+'Enter a nameserver': 'Enter a nameserver'
+'Zone is in Read-Only mode': 'Zone is in Read-Only mode'
+'New Redirect': 'New Redirect'
+'New Subdomain': 'New Subdomain'
+Subdomain: Subdomain
+'Edit Virtual Host': 'Edit Virtual Host'
+'Document Root': 'Document Root'
+'Document root (ie. /var/www/html)': 'Document root (ie. /var/www/html)'
+'Access Log': 'Access Log'
+'Path to Access Log(ie. example.com-access_log)': 'Path to Access Log(ie. example.com-access_log)'
+'Error Log': 'Error Log'
+'Path to Error Log(ie. example.com-error_log)': 'Path to Error Log(ie. example.com-error_log)'
+'Index File': 'Index File'
+'Index file(ie. index.php or index.html)': 'Index file(ie. index.php or index.html)'
+'Custom Directives': 'Custom Directives'
+'.htaccess Support': '.htaccess Support'
+'WWW Redirect': 'WWW Redirect'
+'My Domains': 'My Domains'
+'Add Domain': 'Add Domain'
+'Add a domain': 'Add a domain'
+Whois: Whois
+'Get Whois': 'Get Whois'
+'Domain Name': 'Domain Name'
+'Register a Domain': 'Register a Domain'
+'Register a new domain': 'Register a new domain'
+'%domain%''s DNS': '%domain%''s DNS'
+'DNS for': 'DNS for'
+'DNS Records': 'DNS Records'
+'%domain% DNS Settings': '%domain% DNS Settings'
+'DNS Service Status': 'DNS Service Status'
+'Add DNS Record': 'Add DNS Record'
+'Resetting the DNS zone will erase all the current records and create the default ones. Are you sure you want to reset and erase all records?': 'Resetting the DNS zone will erase all the current records and create the default ones. Are you sure you want to reset and erase all records?'
+'Reset DNS Zone': 'Reset DNS Zone'
+'Setup Google Apps DNS': 'Setup Google Apps DNS'
+'DNS service is currently disabled. Please enable the DNS service with the checkbox on the left section in order to manage the DNS records of this domain.': 'DNS service is currently disabled. Please enable the DNS service with the checkbox on the left section in order to manage the DNS records of this domain.'
+Records: Records
+'No records found.': 'No records found.'
+'Are you sure you want to remove this record?': 'Are you sure you want to remove this record?'
+'Are you sure you want to disable the DNS service?': 'Are you sure you want to disable the DNS service?'
+'New DNS Record': 'New DNS Record'
+'Record Type': 'Record Type'
+'Enter TTL (optional)': 'Enter TTL (optional)'
+'Enter Priority (optional)': 'Enter Priority (optional)'
+'%server%''s Domains': '%server%''s Domains'
+'Are you sure you want to remove this domain?': 'Are you sure you want to remove this domain?'
+'%domain%''s Email Accounts': '%domain%''s Email Accounts'
+'Email setup for': 'Email setup for'
+'Email settings for': 'Email settings for'
+'Email Service Status': 'Email Service Status'
+'Add Email Account': 'Add Email Account'
+'Email service is currently disabled. Please enable the Email service with the checkbox on the left section in order to manage the email accounts for this domain': 'Email service is currently disabled. Please enable the Email service with the checkbox on the left section in order to manage the email accounts for this domain'
+'Change avatar': 'Change avatar'
+'POP3 Server': 'POP3 Server'
+'IMAP Server': 'IMAP Server'
+'SMTP Server': 'SMTP Server'
+'Use these setting to configure your email client': 'Use these setting to configure your email client'
+'New Email Account': 'New Email Account'
+'Account Setup': 'Account Setup'
+'Optional Personal Information': 'Optional Personal Information'
+'Manage auto responder': 'Manage auto responder'
+'Enable auto responder': 'Enable auto responder'
+'Autoresponder reply': 'Autoresponder reply'
+'Add Email Alias': 'Add Email Alias'
+'Email alias': 'Email alias'
+'Add email redirect': 'Add email redirect'
+'Destination email address': 'Destination email address'
+'Are you sure you want to remove this email account?': 'Are you sure you want to remove this email account?'
+'Are you sure you want to remove this email alias?': 'Are you sure you want to remove this email alias?'
+'Are you sure you want to remove this email redirect?': 'Are you sure you want to remove this email redirect?'
+'Are you sure you want to reset email routing for this domain?': 'Are you sure you want to reset email routing for this domain?'
+'Are you sure you want to disable the Email service?': 'Are you sure you want to disable the Email service?'
+'Are you sure you want to request the EPP code for this domain?': 'Are you sure you want to request the EPP code for this domain?'
+'Are you sure you want to register this domain?': 'Are you sure you want to register this domain?'
+'Domain Aliases': 'Domain Aliases'
+'Register New Domain': 'Register New Domain'
+'Registering domain, please wait': 'Registering domain, please wait'
+'Registering, please wait': 'Registering, please wait'
+'Domain registration received!': 'Domain registration received!'
+'The domain has been added to the Control Panel': 'The domain has been added to the Control Panel'
+'Attempting to process credit card payment': 'Attempting to process credit card payment'
+'Payment failed': 'Payment failed'
+'Payment accepted!': 'Payment accepted!'
+'%domain%''s Web Hosting': '%domain%''s Web Hosting'
+'Managing Web Hosting for': 'Managing Web Hosting for'
+'The Web Hosting service for this domain is disabled. Turn it on if you want to manage Web Hosting setting for this domain.': 'The Web Hosting service for this domain is disabled. Turn it on if you want to manage Web Hosting setting for this domain.'
+'Preview URL': 'Preview URL'
+'Add Domain Alias': 'Add Domain Alias'
+'No Domain aliases': 'No Domain aliases'
+'Add Subdomain': 'Add Subdomain'
+'No subdomains': 'No subdomains'
+'No redirects': 'No redirects'
+'Add a protected directory': 'Add a protected directory'
+'Requesting rotation of log file': 'Requesting rotation of log file'
+'Are you sure you want to disable the web service?': 'Are you sure you want to disable the web service?'
+'Domain Whois': 'Domain Whois'
+'Whois Result': 'Whois Result'
+'proceed to Paypal': 'proceed to Paypal'
+'to complete the order': 'to complete the order'
+'Please select a plan': 'Please select a plan'
+'Please select the operating system': 'Please select the operating system'
+'Are you sure you want to order this server?': 'Are you sure you want to order this server?'
+'Submitting order': 'Submitting order'
+Upgrade/Downgrade: Upgrade/Downgrade
+'Change Plan': 'Change Plan'
+'You can upgrade / downgrade your plan without even rebooting your VPS. The memory and disk allocation will be updated while your system is online. Your files and settings will not be touched. <u>There will be no downtime</u>': 'You can upgrade / downgrade your plan without even rebooting your VPS. The memory and disk allocation will be updated while your system is online. Your files and settings will not be touched. <u>There will be no downtime</u>'
+'This server has no billing information attached': 'This server has no billing information attached'
+'Your credit card has expired!': 'Your credit card has expired!'
+'Your credit card is about to expire': 'Your credit card is about to expire'
+'Update Credit Card': 'Update Credit Card'
+'update credit card': 'update credit card'
+'Invoices for': 'Invoices for'
+'Unpaid Invoices': 'Unpaid Invoices'
+'Show All Invoices': 'Show All Invoices'
+'Invoice num': 'Invoice #'
+'Date Paid': 'Date Paid'
+'Your account has no access to billing information. Please ask the account owner to allow access.': 'Your account has no access to billing information. Please ask the account owner to allow access.'
+'Your account has no associated billing information. Please open a support ticket so we can correct this issue.': 'Your account has no associated billing information. Please open a support ticket so we can correct this issue.'
+'Credit Card Information': 'Credit Card Information'
+'Current credit card on file': 'Current credit card on file'
+'Card Type': 'Card Type'
+'Card Number': 'Card Number'
+'Expiration Date': 'Expiration Date'
+'Update credit card information': 'Update credit card information'
+'Enter Credit Card Number': 'Enter Credit Card Number'
+'If you want to send bulk emails please use your local email server on your VPS. Here''s how': 'If you want to send bulk emails please use your local email server on your VPS. Here''s how'
+'I want to send email using using': 'I want to send email using'
+'Select a method to send email from the above pulldown': 'Select a method to send email from the above pulldown'
+'If you are using Outlook, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings': 'If you are using Outlook, Entourage, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings'
+'Incomming Mail Server (IMAP)': 'Incoming Mail Server (IMAP)'
+'Go to account settings, create a new account': 'Go to account settings, create a new account'
+'Enter your name, email and password as requested': 'Enter your name, email and password as requested'
+'Select IMAP': 'Select IMAP'
+'full username + domain is requesred': 'full username + domain is required'
+'Outgoing Mail Server (SMTP)': 'Outgoing Mail Server (SMTP)'
+'Select SMTP (or outgoing mailserver)': 'Select SMTP (or outgoing mailserver)'
+'Outgoing mail requires authentication': 'Outgoing mail requires authentication'
+'Same as incoming mailserver': 'Same as incoming mailserver'
+'Purchase more disk space': 'Purchase more disk space'
+'Add Note': 'Add Note'
+Notepad: Notepad
+notepad: notepad
+'No notes': 'No notes'
+'Are you sure you want to delete this note?': 'Are you sure you want to delete this note?'
+'Control Panel Users': 'Control Panel Users'
+'control panel users': 'control panel users'
+'Add User': 'Add User'
+'server monitors': 'server monitors'
+Inbox: Inbox
+'Unread Messages': 'Unread Messages'
+'Messages Archive': 'Messages Archive'
+'mark all as read': 'mark all as read'
+'Mark as read': 'Mark as read'
+'User Profile': 'User Profile'
+'User Profile for': 'User Profile for'
+'My Profile': 'My Profile'
+'Edit Profile': 'Edit Profile'
+'Send Reset Password Email': 'Send Reset Password Email'
+'Access Control': 'Access Control'
+'Billing Access': 'Billing Access'
+'Support Access': 'Support Access'
+'Server Access': 'Server Access'
+'There are no users': 'There are no users'
+'Are you sure you want to remove this user?': 'Are you sure you want to remove this user?'
+'Are you sure you want to reset the password for this user?': 'Are you sure you want to reset the password for this user?'
+'Enable API Key': 'Enable API Key'
+'API Key': 'API Key'
+Key: Key
+Secret: Secret
+'Open New Ticket': 'Open New Ticket'
+'Support Ticket': 'Support Ticket'
+'Support Tickets': 'Support Tickets'
+'support tickets': 'support tickets'
+'Your account has no access to Support Tickets. Please ask the account owner to allow access.': 'Your account has no access to Support Tickets. Please ask the account owner to allow access.'
+'Active Tickets': 'Active Tickets'
+'All Tickets': 'All Tickets'
+'There are no active support tickets.': 'There are no active support tickets.'
+'There are no support tickets.': 'There are no support tickets.'
+ticket: ticket
+'View Ticket': 'View Ticket'
+'Add reply': 'Add reply'
+'Close Ticket': 'Close Ticket'
+'ServerGrove Staff': 'ServerGrove Staff'
+'Add Reply to Ticket': 'Add Reply to Ticket'
+'Are you sure you want to close this ticket?': 'Are you sure you want to close this ticket?'
+'UI tour': 'UI tour'
+'My Servers': 'My Servers'
+Support: Support
+Logout: Logout
+Profile: Profile
+'API Docs': 'API Docs'
+Billing: Billing
+Blog: Blog
+'ServerGrove Website': 'ServerGrove Website'
+Search: Search
+'View Messages (%messages% new messages)': 'View Messages (%messages% new messages)'
+'Search Support': 'Search Support'
+'View Active': 'View Active'
+'View All': 'View All'
+'VPS Services': 'VPS Services'
+Refreshing...: Refreshing...
+manage: manage
+'Add a MongoDB server': 'Add a MongoDB server'
+'Learn more about our MongoDB hosting service': 'Learn more about our MongoDB hosting service'
+here: here
+'MongoDB Services': 'MongoDB Services'
+Shortcuts: Shortcuts
+Disk: Disk
+edit: edit
+'Add System User': 'Add System User'
+'Change timezone': 'Change timezone'
+'Set time zone': 'Set time zone'
+LOADING: LOADING
+Change: Change
+'you should': 'you should'
+'configure your monitors': 'configure your monitors'
+'Alerts History': 'Alerts History'
+'Monitors List': 'Monitors List'
+'Are you sure you want to': 'Are you sure you want to'
+Information: Information
+Diagnostics: Diagnostics
+diagnostics: diagnostics
+'Real Time': 'Real Time'
+'Every Hour': 'Every Hour'
+Announcements: Announcements
+Alerts: Alerts
+'Critical Alerts': 'Critical Alerts'
+Reports: Reports
+'There are no messages in your inbox': 'There are no messages in your inbox'
+'There are no new messages in your inbox': 'There are no new messages in your inbox'
+'Give us some feedback!': 'Give us some feedback!'
+'Open a ticket': 'Open a ticket'
+System: System
+Monitoring: Monitoring
+'There are no invoices': 'There are no invoices'
+'There are no unpaid invoices': 'There are no unpaid invoices'
+Unpaid: Unpaid
+Paid: Paid
+Cancelled: Cancelled
+Stopped: Stopped
+Running: Running
+N/A: N/A
+'Web Servers': 'Web Servers'
+'DNS Servers': 'DNS Servers'
+'Unix Services': 'Unix Services'
+'Database Servers': 'Database Servers'
+'Programming Languages': 'Programming Languages'
+Frameworks: Frameworks
+'Apache Modules': 'Apache Modules'
+'Virtual Hosts': 'Virtual Hosts'
+'Virtual Host': 'Virtual Host'
+'File Name': 'File Name'
+'Reset Root Password': 'Reset Root Password'
+'Enter new MySQL root password': 'Enter new MySQL root password'
+'Confirm new password': 'Confirm new password'
+'Force reset - stop the server and start it with the init-file option': 'Force reset - stop the server and start it with the init-file option'
+'The temporary file will be deleted as soon as the reset process is done': 'The temporary file will be deleted as soon as the reset process is done'
+'Store password in': 'Store password in'
+'this allows our CP to access MySQL for management purposes only': 'this allows our CP to access MySQL for management purposes only'
+'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.': 'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.'
+'Please enter a password': 'Please enter a password'
+'Password does not match': 'Password does not match'
+'You are about to change the MySQL root password. Are you sure this is what you want to do?': 'You are about to change the MySQL root password. Are you sure this is what you want to do?'
+'Read more': 'Read more'
+Saving: Saving
+'Extended Status': 'Extended Status'
+'Process List': 'Process List'
+'Server Variables': 'Server Variables'
+'All current and future servers': 'All current and future servers'
+Monthly: Monthly
+Semiannually: Semiannually
+Annually: Annually
+online: online
+system: system
+memory: memory
+'disk space': 'disk space'
+Back: Back
+'Live Stats': 'Live Stats'
+'Adding domain': 'Adding domain'
+'Enable Services': 'Enable Services'
+'DNS Service': 'DNS Service'
+'Enail Service': 'Enail Service'
+Domain: Domain
+Expiration: Expiration
+Emails: Emails
+'Add an email account': 'Add an email account'
+'6 characters minimum': '6 characters minimum'
+Off: Off
+On: On
+'CLI path': 'CLI path'
+'ServerGrove Control Panel Mobile': 'ServerGrove Mobile Control Panel'
+'An internal system error has occurred. We have been notified and we will resolve this problem as soon as possible. Feel free to open a support ticket to follow up with us.': 'An internal system error has occurred. We have been notified and we will resolve this problem as soon as possible. Feel free to open a support ticket to follow up with us.'
+'Invalid invoice number': 'Invalid invoice number'
+'There is no credit card on file. Please enter one now so we can process your credit card.': 'There is no credit card on file. Please enter one now so we can process your credit card.'
+'Your payment has been processed!': 'Your payment has been processed!'
+'An error ocurred while processing your payment': 'An error occurred while processing your payment'
+'An error occurred while updating the credit card.': 'An error occurred while updating the credit card.'
+'Invalid expiration date': 'Invalid expiration date'
+'Please enter only numbers. No spaces, dashes, etc.': 'Please enter only numbers. No spaces, dashes, etc.'
+'Invalid credit card number. Please check the number and try again.': 'Invalid credit card number. Please check the number and try again.'
+'Credit card has been updated. You are being redirected to the invoices list': 'Credit card has been updated. You are being redirected to the invoices list'
+'The Email service on this domain is disabled and you have email accounts which means that the email accounts will not receive or send any messages. To enable the Email service, click on the On/Off switch.': 'The Email service on this domain is disabled and you have email accounts which means that the email accounts will not receive or send any messages. To enable the Email service, click on the On/Off switch.'
+'Note could not be saved': 'Note could not be saved'
+'Note has been saved': 'Note has been saved'
+'Note not found.': 'Note not found.'
+'Could not find product pricing information': 'Could not find product pricing information'
+'Your server has been suspended. Please contact Customer Support.': 'Your server has been suspended. Please contact Customer Support.'
+'There is a problem with your server. Please contact Customer Support': 'There is a problem with your server. Please contact Customer Support'
+'Authentication failed': 'Authentication failed'
+'Anti-CSRF protection triggered. Please reload the page and try again.': 'Anti-CSRF protection triggered. Please reload the page and try again.'
+'Account is suspended. Please contact customer support.': 'Account is suspended. Please contact customer support.'
+'Password request not found. Please check the link that was sent. The request may have expired so try requesting a new one.': 'Password request not found. Please check the link that was sent. The request may have expired so try requesting a new one.'
+'An error has occured.': 'An error has occurred.'
+'This password reset has been already used.': 'This password reset has been already used.'
+'This password reset has expired.': 'This password reset has expired.'
+'Password confirmation does not match.': 'Password confirmation does not match.'
+'Password length must be at least 6 characters.': 'Password length must be at least 6 characters.'
+'Username is not correct for this password request.': 'Username is not correct for this password request.'
+'This message is to confirm that your password has been changed.': 'This message is to confirm that your password has been changed.'
+'ServerGrove Control Panel Password Changed': 'ServerGrove Control Panel Password Changed'
+'A new password has been set Please proceed to the login page.': 'A new password has been set. Please proceed to the login page.'
+'User not found': 'User not found'
+'User has no valid email. Please contact Customer Support for assistance.': 'User has no valid email. Please contact Customer Support for assistance.'
+'ServerGrove Control Panel Password Reset': 'ServerGrove Control Panel Password Reset'
+'A new password has been sent to the email address on file.': 'A new password has been sent to the email address on file.'
+'Feedback has been submitted. Thank you very much!': 'Feedback has been submitted. Thank you very much!'
+'An error occurred while processing your reply.': 'An error occurred while processing your reply.'
+'Please enter a reply message.': 'Please enter a reply message.'
+'Reply received.': 'Reply received.'
+'The ticket has been closed, thank you!': 'The ticket has been closed, thank you!'
+'Please enter a message.': 'Please enter a message.'
+'Please enter a subject.': 'Please enter a subject.'
+'Invalid Urgency': 'Invalid Urgency'
+'The ticket has been received.': 'The ticket has been received.'
+'App not found': 'App not found'
+'App not installed': 'App not installed'
+'has been uninstalled.': 'has been uninstalled.'
+'has been installed.': 'has been installed.'
+'Call not allowed': 'Call not allowed'
+'Request has been queued.': 'Request has been queued.'
+'Status updated successfully.': 'Status updated successfully.'
+'File saved.': 'File saved.'
+'Not authenticated': 'Not authenticated'
+'Account is disabled.': 'Account is disabled.'
+'Client not found': 'Client not found'
+'Unauthorized access.': 'Unauthorized access.'
+'Client already has server': 'Client already has server'
+'Client does not have server': 'Client does not have server'
+'Must provide name': 'Must provide name'
+'Client already exists.': 'Client already exists.'
+'DNS service is not enabled for this domain. Please enable DNS service before trying to manage DNS records.': 'DNS service is not enabled for this domain. Please enable DNS service before trying to manage DNS records.'
+'Record not found': 'Record not found'
+'DNS record has been removed': 'DNS record has been removed'
+'Zone is in read-only mode.': 'Zone is in read-only mode.'
+'SOA record cannot be deleted': 'SOA record cannot be deleted'
+'Host Name and value cannot be the same': 'Host Name and value cannot be the same'
+'Address cannot be empty.': 'Address cannot be empty.'
+'Host Name must be a valid IP4 or IP6 address': 'Host Name must be a valid IP4 or IP6 address'
+'Address must be a valid IP4 address': 'Address must be a valid IP4 address'
+'Address must be a valid IP6 address': 'Address must be a valid IP6 address'
+'TTL must be an number': 'TTL must be an number'
+'Priority can only be configured for mail exchanger DNS records': 'Priority can only be configured for mail exchange DNS records'
+'Priority must be an number': 'Priority must be an number'
+'MX DNS records must have a priority': 'MX DNS records must have a priority'
+'DNS record has been added': 'DNS record has been added'
+'DNS record has been updated': 'DNS record has been updated'
+'No zone found for service.': 'No zone found for service.'
+'Invalid nameserver': 'Invalid nameserver'
+'Domain not found': 'Domain not found'
+'Domain is an alias. Please use domain/deleteAlias': 'Domain is an alias. Please use domain/deleteAlias'
+'Domain is a subdomain. Please use domain/deleteSubdomain': 'Domain is a subdomain. Please use domain/deleteSubdomain'
+'Domain has been removed': 'Domain has been removed'
+'Invalid format for name': 'Invalid format for name'
+'Domain already exists in system.': 'Domain already exists in system.'
+'Domain has been added': 'Domain has been added'
+'Domain has been updated': 'Domain has been updated'
+'Domain name not valid.': 'Domain name not valid.'
+'Parent domain not found': 'Parent domain not found'
+'Domain alias has been added': 'Domain alias has been added'
+'Domain alias has been updated': 'Domain alias has been updated'
+'Alias not found': 'Alias not found'
+'Alias has been removed': 'Alias has been removed'
+'Domain is not an alias': 'Domain is not an alias'
+'Alias has no parent': 'Alias has no parent'
+'Subdomain has been added': 'Subdomain has been added'
+'Subdomain has been updated': 'Subdomain has been updated'
+'A subdomain must match the main domain base name (ie. test.example.com matches example.com)': 'A subdomain must match the main domain base name (ie. test.example.com matches example.com)'
+'Subdomain not found': 'Subdomain not found'
+'Subdomain has been removed': 'Subdomain has been removed'
+'Domain is not an subdomain': 'Domain is not an subdomain'
+'Subdomain has no parent': 'Subdomain has no parent'
+'Server not found': 'Server not found'
+'Service updated successfully.': 'Service updated successfully.'
+'Could not configure email server': 'Could not configure email server'
+'Domain is not registered with ServerGrove or has no billing information attached. Please contact Customer support.': 'Domain is not registered with ServerGrove or has no billing information attached. Please contact Customer support.'
+'The EPP code has been requested. A email message will be sent to the domain administrator email address.': 'The EPP code has been requested. An email message will be sent to the domain administrator email address.'
+'An error occurred while requesting the EPP code. Please contact Customer support if this problem persists.': 'An error occurred while requesting the EPP code. Please contact Customer support if this problem persists.'
+'The domain has been locked': 'The domain has been locked'
+'The domain has been unlocked': 'The domain has been unlocked'
+'To purchase a domain you require Billing access rights. Please contact the account owner.': 'To purchase a domain you require billing access rights. Please contact the account owner.'
+'Could not determine Client Billing ID. Please contact customer support.': 'Could not determine Client Billing ID. Please contact customer support.'
+'tld cannot be empty': 'TLD cannot be empty'
+'name cannot be empty': 'name cannot be empty'
+'Invalid period. Must be betwen 1 and 5.': 'Invalid period. Must be between 1 and 5.'
+'Domain is available': 'Domain is available'
+'Domain is already taken': 'Domain is already taken'
+'There is no pricing information for this TLD and period.': 'There is no pricing information for this TLD and period.'
+'Email service is not enabled. Please enable Email service before trying to manage email accounts.': 'Email service is not enabled. Please enable email service before trying to manage email accounts.'
+'Username not found': 'Username not found'
+'Email Account has been removed': 'Email Account has been removed'
+'Autoresponder has been enabled': 'Autoresponder has been enabled'
+'Autoresponder has been disabled': 'Autoresponder has been disabled'
+'Email Account has been enabled': 'Email Account has been enabled'
+'Email Account has been disabled': 'Email Account has been disabled'
+'Email Account has been added': 'Email Account has been added'
+'Email Account has been updated': 'Email Account has been updated'
+'Password confirmation does not match': 'Password confirmation does not match'
+'New password must be at least 6 characters long.': 'Must be at least 6 characters long.'
+'Must provide a password.': 'Must provide a password.'
+'Username must contain letters, numbers or dot only.': 'Username must contain letters, numbers or dot only.'
+'Username already exists.': 'Username already exists.'
+'Redirect has been added': 'Redirect has been added'
+'Redirect has been removed': 'Redirect has been removed'
+'Alias has been added': 'Alias has been added'
+'An address %name% already exists': 'An address %name% already exists'
+'Alias %name% already exists': 'Alias %name% already exists'
+'Alias %name% does not exist': 'Alias %name% does not exist'
+'API Key is disabled': 'API Key is disabled'
+'Invalid API Key': 'Invalid API Key'
+'Message not found': 'Message not found'
+'Must specify a database name': 'Must specify a database name'
+'Database named "%name%" created successfully!': 'Database named "%name%" created successfully!'
+'Database named "%name%" dropped successfully!': 'Database named "%name%" dropped successfully!'
+'Collection named "%name%" created successfully!': 'Collection named "%name%" created successfully!'
+'Collection named "%name%" dropped successfully!': 'Collection named "%name%" dropped successfully!'
+'Cloned collection named "%name%" to "%new%" successfully!': 'Cloned collection named "%name%" to "%new%" successfully!'
+'Index named "%name%" created successfully!': 'Index named "%name%" created successfully!'
+'Index named "%name%" deleted successfully!': 'Index named "%name%" deleted successfully!'
+'Must specify a username': 'Must specify a username'
+'Must specify a password': 'Must specify a password'
+'Created %readonly% user named "%name%" successfully!': 'Created %readonly% user named "%name%" successfully!'
+'Updated %readonly% user named "%name%" successfully!': 'Updated %readonly% user named "%name%" successfully!'
+'Deleted user named "%name%" successfully!': 'Deleted user named "%name%" successfully!'
+'Created document in "%dbname%.%collname%" successfully!': 'Created document in "%dbname%.%collname%" successfully!'
+'Updated document in "%dbname%.%collname%" with an id of "%id%" successfully!': 'Updated document in "%dbname%.%collname%" with an ID of "%id%" successfully!'
+'Deleted document in "%dbname%.%collname%" with an id of "%id%" successfully!': 'Deleted document in "%dbname%.%collname%" with an ID of "%id%" successfully!'
+'Cloned document in "%dbname%.%collname%" with an id of "%id%" successfully!': 'Cloned document in "%dbname%.%collname%" with an id of "%id%" successfully!'
+'Client has not access to server': 'Client does not have access to server'
+'Server no longer valid': 'Server no longer valid'
+'Server is not online. It cannot be restarted.': 'Server is not online. It cannot be restarted.'
+'This server type cannot be rebooted.': 'This server type cannot be rebooted.'
+'Server is being restarted.': 'Server is being restarted.'
+'Server is not offline. It cannot be started.': 'Server is not offline. It cannot be started.'
+'Server is being started.': 'Server is being started.'
+'Server is being stopped. This may take a few minutes due to load.': 'Server is being stopped. This may take a few minutes due to load.'
+'To change the server plan you require Billing access rights. Please contact the account owner.': 'To change the server plan you require billing access rights. Please contact the account owner.'
+'Could not determine Server Billing ID. Please contact customer support.': 'Could not determine server billing ID. Please contact customer support.'
+'Invalid VPS Plan': 'Invalid VPS Plan'
+'Server not found in billing system. Please contact customer support.': 'Server not found in billing system. Please contact customer support.'
+'Invoice %num% is unpaid. Please pay this invoice before attempting to change the server plan.': 'Invoice %num% is unpaid. Please pay this invoice before attempting to change the server plan.'
+'Plan not found in billing system. Please contact customer support.': 'Plan not found in billing system. Please contact customer support.'
+'Server already has plan %name%': 'Server already has plan %name%'
+'Cannot change plan of server.': 'Cannot change plan of server.'
+'The request to change the server plan has been queued.': 'The request to change the server plan has been queued.'
+'MongoDB Hosting': 'MongoDB Hosting'
+'Failed to fetch invoice.': 'Failed to fetch invoice.'
+'Please confirm request by setting confirm=yes': 'Please confirm request by setting confirm=yes'
+'The cancellation request has been received.': 'The cancellation request has been received.'
+'There is another server with hostname %name%': 'There is another server with hostname %name%'
+'Cannot change hostname of server.': 'Cannot change hostname of server.'
+'The request to change the hostname has been queued.': 'The request to change the hostname has been queued.'
+'Server is being provisioned already. Please wait for this process to finish.': 'Server is being provisioned. Please wait for this process to finish.'
+'Invalid template': 'Invalid template'
+'Server Ready': 'Server Ready'
+'Invalid template.': 'Invalid template.'
+'Invalid template. This template has been deprecated. Please select a new template.': 'Invalid template. This template has been deprecated, please select a new template.'
+'Your server has been rebuilt and it is ready.': 'Your server has been rebuilt and it is ready.'
+'Server information:': 'Server information:'
+'Server IP''s: %ip%': 'Server IP: %ip%'
+'Hostname: %hostname%': 'Hostname: %hostname%'
+'SSH Port %port%': 'SSH Port: %port%'
+'Cannot change template for server.': 'Cannot change template for server.'
+'The Reset request has been queued. You will receive an email when the process is complete.': 'The reset request has been queued. You will receive an email when the process is complete.'
+'This server type cannot be upgraded.': 'This server type cannot be upgraded.'
+'This server type cannot accept commands.': 'This server type cannot accept commands.'
+'Invalid date': 'Invalid date'
+'The timezone for this server type cannot be changed.': 'The timezone for this server type cannot be changed.'
+'Timezone not supported': 'Timezone not supported'
+'Timezone change has been queued.': 'Timezone change has been queued.'
+'Server already has a private IP address': 'Server already has a private IP address'
+'No available private IP address was found. Please contact customer support.': 'No available private IP address was found. Please contact customer support.'
+'Private IP address added.': 'Private IP address added.'
+'User has been removed.': 'User has been removed.'
+'User root cannot be removed': 'User root cannot be removed'
+'User root username cannot be changed': 'User root username cannot be changed'
+'User has been added': 'User has been added'
+'User has been updated': 'User has been updated'
+'Username must be at least 3 characters long.': 'Username must be at least 3 characters long.'
+'Username must contain letters and numbers only.': 'Username must contain letters and numbers only.'
+'You cannot delete yourself.': 'You cannot delete yourself.'
+'User has no valid email. Please update the user to set an email address.': 'User has no valid email. Please update the user to set an email address.'
+'A password reset for the ServerGrove VPS Control Panel has been issued for this user.': 'A password reset for the ServerGrove VPS Control Panel has been issued for this user.'
+'Invalid email address format.': 'Invalid email address format.'
+'A user with this email address already exists in the system.': 'A user with this email address already exists in the system.'
+'Invalid user group': 'Invalid user group'
+'Not allowed to set this group.': 'Not allowed to set this group.'
+'Cannot setup billing access': 'Cannot setup billing access'
+'Cannot setup Billing settings. Please contact customer support and provide a copy of this message.': 'Cannot setup billing settings. Please contact customer support and provide a copy of this message.'
+'Invalid email address destination': 'Invalid email address destination'
+'destination not found': 'destination not found'
+'Alert configuration not found': 'Alert configuration not found'
+'Invalid token': 'Invalid token'
+'VirtualHost not found': 'VirtualHost not found'
+'A redirect for path %path% already exists': 'A redirect for path %path% already exists'
+'Invalid type.': 'Invalid type.'
+'Redirect not found': 'Redirect not found'
+Hostname: Hostname
+'An unexpected error occured performing this task': 'An unexpected error occurred performing this task'
+'Switch Domain': 'Switch Domain'
+Transfer: Transfer
+'Log Viewer': 'Log Viewer'
+'Web Hosting Status': 'Web Hosting Status'
+'We love feedback!': 'We love feedback!'
+Comments: Comments
+Send: Send
+'Connect DSN': 'Connect DSN'
+'MongoDB Backups': 'MongoDB Backups'
+Backups: Backups
+Previous: Previous
+Next: Next
+'manage indexes': 'manage indexes'
+'add document': 'add document'
+'Title Field (name, title, etc.)': 'Title Field (name, title, etc.)'
+Action: Action
+clone: clone
+'No documents have been created yet, get started by adding a new document.': 'No documents have been created yet, get started by adding a new document.'
+Create: Create
+Databases: Databases
+statistics: statistics
+'Create Index': 'Create Index'
+'Add Index': 'Add Index'
+Indexes: Indexes
+'Index Name': 'Index Name'
+optional: optional
+'Unique Index': 'Unique Index'
+'Drop Duplicates': 'Drop Duplicates'
+Keys: Keys
+'add key': 'add key'
+ASC: ASC
+DESC: DESC
+'Back to Collection': 'Back to Collection'
+Unique: Unique
+no: no
+yes: yes
+'No indexes have been created yet, get started by adding a new index.': 'No indexes have been created yet, get started by adding a new index.'
+Collections: Collections
+Import/Export: Import/Export
+Operations: Operations
+'Connection Codes': 'Connection Codes'
+'Sample Connection Codes': 'Sample Connection Codes'
+'I want to connect to my database using': 'I want to connect to my database using'
+'Select a method to connect from the above pulldown.': 'Select a method to connect from the above pulldown.'
+'add collection': 'add collection'
+drop: drop
+'No collections have been created yet. Get started by adding a new collection.': 'No collections have been created yet. Get started by adding a new collection.'
+'Add Collection': 'Add Collection'
+'add database': 'Add Database'
+connect: Connect
+'No databases have been created yet. You can get started by adding a new database': 'No databases have been created yet. You can get started by adding a new database'
+'Add Database': 'Add Database'
+'Database Name': 'Database Name'
+'Read Only': 'Read Only'
+'Setup Shared MongoDB Hosting': 'Setup Shared MongoDB Hosting'
+'In order to begin using your shared MongoDB hosting account you must setup a database and user!': 'In order to begin using your shared MongoDB hosting account you must setup a database and user!'
+Setup: Setup
+Switch: Switch
+in: in
+database: database
+'Browse References': 'Browse References'
+'Export Collections': 'Export Collections'
+'Import Collections': 'Import Collections'
+'Import From MySQL': 'Import From MySQL'
+'Choose collection you wish to export': 'Choose collection you wish to export'
+Export: Export
+'Choose collection you wish to import to': 'Choose collection you wish to import to'
+Import: Import
+'Enter the information for your MySQL to MongoDB import below': 'Enter the information for your MySQL to MongoDB import below'
+'MySQL Host': 'MySQL Host'
+'MySQL Port': 'MySQL Port'
+'Name of MySQL database to import': 'Name of MySQL database to import'
+'Are you sure you want to import from this MySQL database?': 'Are you sure you want to import from this MySQL database?'
+'Cursor information': 'Cursor information'
+Build: Build
+'System Information': 'System Information'
+Master: Master
+'Database Statistics': 'Database Statistics'
+'Build Information': 'Build Information'
+'Plan Info': 'Plan Info'
+'MongoDB Version': 'MongoDB Version'
+change: change
+'IP Address': 'IP Address'
+'connection info': 'connection info'
+'Current Load': 'Current Load'
+'Edit MongoDB User': 'Edit MongoDB User'
+'MongoDB Users': 'MongoDB Users'
+'add user': 'add user'
+'No users have been created yet.': 'No users have been created yet.'
+'Add a new user': 'Add a new user'
+'This record already exists as %type% record': 'This record already exists as %type% record'
+'The value must be a valid A record': 'The value must be a valid A record'
+'Secure Site / SSL': 'Secure Site / SSL'
+'A CNAME record must point to an existing DNS record': 'A CNAME record must point to an existing DNS record'
+'Mail server': 'Mail Server'
+'The mail server host': 'The mail server host'
+'The connection port': 'The connection port'
+'Your email account username': 'Your email account username'
+'Your email account password': 'Your email account password'
+'Import Email Account': 'Import Email Account'
+'Import process has started.': 'Import process has started.'
+'An error occurred trying to connect to the remote host (%host%): %message%': 'An error occurred trying to connect to the remote host (%host%): %message%'
+'Invalid path': 'Invalid path'
+'Invalid URL': 'Invalid URL'
+'Loading more messages': 'Loading more messages'
+'There are no more messages in your inbox': 'There are no more messages in your inbox'
+'The settings has been copied to your clipboard': 'The settings has been copied to your clipboard'
+'New password must contain at least 1 number or symbol.': 'Must contain at least 1 number or symbol.'
+'New password must contain at least 1 uppercase character.': 'Must contain at least 1 uppercase character.'
+'New password and confirmation must be the same.': 'Password and confirmation must be the same.'
+'Are you sure you want to unlock this domain?': 'Are you sure you want to unlock this domain?'
+'Are you sure you want to lock this domain?': 'Are you sure you want to lock this domain?'
