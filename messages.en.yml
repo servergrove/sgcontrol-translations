@@ -28,14 +28,14 @@ Current: Current
 'Contact Support': 'Contact Support'
 'New Collection': 'New Collection'
 'Traffic summary for': 'Traffic summary for'
-'Total alloted': 'Total alloted'
+'Total allocated': 'Total allocated'
 'Search Knowledge Base / FAQ': 'Search Knowledge Base / FAQ'
 'Feedback &amp; feature requests': 'Feedback &amp; feature requests'
 'Email usage per domain': 'Email usage per domain'
 'Billing Address must match the address on the credit card statement': 'Billing Address must match the address on the credit card statement'
 'New User': 'New User'
 'This server is off. Please boot up to start using it.': 'This server is off. Please boot up to start using it.'
-'spam filter directions': 'This form allows you to adjust the filtering parameters for your anti-spam service. The score filters the content and can be adjusted from 1 to 10, one being the most sensitive. Recomended values are between 5 and 7. Whitelist and blacklists allow you define which emails can and cannot get through the filter. List emails one per line. . To whitelist or blacklist an entire domain use *@domain.com.'
+'spam filter directions': 'This form allows you to adjust the filtering parameters for your anti-spam service. The score filters the content and can be adjusted from 1 to 10, one being the most sensitive. Recommended values are between 5 and 7. Whitelist and blacklists allow you define which emails can and cannot get through the filter. List emails one per line. . To whitelist or blacklist an entire domain use *@domain.com.'
 Help: Help
 'Enter First Name': 'Enter First Name'
 'Enter Last Name': 'Enter Last Name'
@@ -252,7 +252,7 @@ Servers: Servers
 'Today''s bandwidth': 'Today''s bandwidth'
 bandwidth: bandwidth
 Bandwidth: Bandwidth
-'Total alloted': 'Total alloted'
+'Total allocated': 'Total allocated'
 monthly: monthly
 daily: daily
 Month: Month
@@ -326,7 +326,7 @@ Rebuild: Rebuild
 'Services will give you a quick overview of all your servers in one place. This is the page you are on right now.': 'Services will give you a quick overview of all your servers in one place. This is the page you are on right now.'
 'This is the name of your server. Mouseover this link to get more information.': 'This is the name of your server. Mouseover this link to get more information.'
 'These graphs offer you a quick overview of the resources available on your system. Mouseover these links to get more information.': 'These graphs offer you a quick overview of the resources available on your system. Mouseover these links to get more information.'
-'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places accross the globe.': 'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places accross the globe.'
+'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places across the globe.': 'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places across the globe.'
 'Click here to start managing your server.': 'Click here to start managing your server.'
 'You may add servers to your account anytime.': 'You may add servers to your account anytime.'
 'Go to your profile page to change your login password to the control panel': 'Go to your profile page to change your login password to the control panel'
@@ -585,11 +585,11 @@ Upgrade/Downgrade: Upgrade/Downgrade
 'I want to send email using using': 'I want to send email using'
 'Select a method to send email from the above pulldown': 'Select a method to send email from the above pulldown'
 'If you are using Outlook, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings': 'If you are using Outlook, Entourage, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings'
-'Incomming Mail Server (IMAP)': 'Incoming Mail Server (IMAP)'
+'Incoming Mail Server (IMAP)': 'Incoming Mail Server (IMAP)'
 'Go to account settings, create a new account': 'Go to account settings, create a new account'
 'Enter your name, email and password as requested': 'Enter your name, email and password as requested'
 'Select IMAP': 'Select IMAP'
-'full username + domain is requesred': 'full username + domain is required'
+'full username + domain is required': 'full username + domain is required'
 'Outgoing Mail Server (SMTP)': 'Outgoing Mail Server (SMTP)'
 'Select SMTP (or outgoing mailserver)': 'Select SMTP (or outgoing mailserver)'
 'Outgoing mail requires authentication': 'Outgoing mail requires authentication'
@@ -737,7 +737,7 @@ Back: Back
 'Adding domain': 'Adding domain'
 'Enable Services': 'Enable Services'
 'DNS Service': 'DNS Service'
-'Enail Service': 'Enail Service'
+'Email Service': 'Email Service'
 Domain: Domain
 Expiration: Expiration
 Emails: Emails
@@ -751,7 +751,7 @@ On: On
 'Invalid invoice number': 'Invalid invoice number'
 'There is no credit card on file. Please enter one now so we can process your credit card.': 'There is no credit card on file. Please enter one now so we can process your credit card.'
 'Your payment has been processed!': 'Your payment has been processed!'
-'An error ocurred while processing your payment': 'An error occurred while processing your payment'
+'An error occurred while processing your payment': 'An error occurred while processing your payment'
 'An error occurred while updating the credit card.': 'An error occurred while updating the credit card.'
 'Invalid expiration date': 'Invalid expiration date'
 'Please enter only numbers. No spaces, dashes, etc.': 'Please enter only numbers. No spaces, dashes, etc.'
@@ -768,7 +768,7 @@ On: On
 'Anti-CSRF protection triggered. Please reload the page and try again.': 'Anti-CSRF protection triggered. Please reload the page and try again.'
 'Account is suspended. Please contact customer support.': 'Account is suspended. Please contact customer support.'
 'Password request not found. Please check the link that was sent. The request may have expired so try requesting a new one.': 'Password request not found. Please check the link that was sent. The request may have expired so try requesting a new one.'
-'An error has occured.': 'An error has occurred.'
+'An error has occurred.': 'An error has occurred.'
 'This password reset has been already used.': 'This password reset has been already used.'
 'This password reset has expired.': 'This password reset has expired.'
 'Password confirmation does not match.': 'Password confirmation does not match.'
@@ -859,7 +859,7 @@ On: On
 'Could not determine Client Billing ID. Please contact customer support.': 'Could not determine Client Billing ID. Please contact customer support.'
 'tld cannot be empty': 'TLD cannot be empty'
 'name cannot be empty': 'name cannot be empty'
-'Invalid period. Must be betwen 1 and 5.': 'Invalid period. Must be between 1 and 5.'
+'Invalid period. Must be between 1 and 5.': 'Invalid period. Must be between 1 and 5.'
 'Domain is available': 'Domain is available'
 'Domain is already taken': 'Domain is already taken'
 'There is no pricing information for this TLD and period.': 'There is no pricing information for this TLD and period.'
@@ -973,7 +973,7 @@ On: On
 'Invalid type.': 'Invalid type.'
 'Redirect not found': 'Redirect not found'
 Hostname: Hostname
-'An unexpected error occured performing this task': 'An unexpected error occurred performing this task'
+'An unexpected error occurred performing this task': 'An unexpected error occurred performing this task'
 'Switch Domain': 'Switch Domain'
 Transfer: Transfer
 'Log Viewer': 'Log Viewer'
