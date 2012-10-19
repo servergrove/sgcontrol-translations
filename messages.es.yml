@@ -203,7 +203,7 @@ Servers: Servidores
 'Today''s bandwidth': 'Transferencia de Hoy'
 bandwidth: transferencia
 Bandwidth: Transferencia
-'Total alloted': 'Total asignado'
+'Total allotted': 'Total asignado'
 monthly: mensual
 daily: diario
 Month: Mes
@@ -277,7 +277,7 @@ Rebuild: Reconstruir
 'Services will give you a quick overview of all your servers in one place. This is the page you are on right now.': 'Servicios te dará una rápida visión general de todos tus servidores en un solo lugar. Esta es la página en la que estás ubicado ahora.'
 'This is the name of your server. Mouseover this link to get more information.': 'Este es el nombre de tu servidor. En el mouseover del enlace obtendrás más información.'
 'These graphs offer you a quick overview of the resources available on your system. Mouseover these links to get more information.': 'Estas gráficas te ofrecen una  rápida visión general de los recursos disponibles en tu sistema. En el mouseover de estos enlaces obtendrás más información.'
-'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places accross the globe.': 'Esta es una forma sencilla de comprobar la conectividad de tu servidor. Te permite hacer ping al servidor desde múltiples lugares alrededor del mundo.'
+'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places across the globe.': 'Esta es una forma sencilla de comprobar la conectividad de tu servidor. Te permite hacer ping al servidor desde múltiples lugares alrededor del mundo.'
 'Click here to start managing your server.': 'Has click aquí para empezar a gestionar tu servidor.'
 'You may add servers to your account anytime.': 'Puedes agregar servidores a tu cuenta en cualquier momento.'
 'Go to your profile page to change your login password to the control panel': 'Ve a la página de tu perfil para cambiar tu contraseña de inicio de sesión del panel de control'
@@ -535,11 +535,11 @@ Upgrade/Downgrade: Upgradear/Downgradear
 'I want to send email using using': 'Quiero enviar los emails de la siguiente forma'
 'Select a method to send email from the above pulldown': 'Seleccione el método de envío de emails'
 'If you are using Outlook, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings': 'Si utiliza Outlook, Thunderbird, Mac Mail, Sparrow o algún cliente de email similar puede utilizar esta configuración'
-'Incomming Mail Server (IMAP)': 'Servidor de Email Entrante (IMAP)'
+'Incoming Mail Server (IMAP)': 'Servidor de Email Entrante (IMAP)'
 'Go to account settings, create a new account': 'Diríjase a la sección de configuración de la cuenta, cree una cuenta nueva'
 'Enter your name, email and password as requested': 'Ingrese su nombre, email y contraseña'
 'Select IMAP': 'Seleccione IMAP'
-'full username + domain is requesred': 'es necesario nombre de usuario completo (usuario + dominio)'
+'full username + domain is required': 'es necesario nombre de usuario completo (usuario + dominio)'
 'Outgoing Mail Server (SMTP)': 'Servidor de Email Saliente (SMTP)'
 'Select SMTP (or outgoing mailserver)': 'Seleccione SMTP'
 'Outgoing mail requires authentication': 'El servidor de Email Saliente requiere autenticación con usuario y contraseña'
@@ -688,7 +688,7 @@ Back: Volver
 'Adding domain': 'Agregando dominio'
 'Enable Services': 'Activar Servicios'
 'DNS Service': 'Servicio de DNS'
-'Enail Service': 'Servicio de Email'
+'Email Service': 'Servicio de Email'
 Domain: Dominio
 Expiration: Expiración
 Emails: 'Cuentas de Email'
@@ -702,7 +702,7 @@ On: Activado
 'Invalid invoice number': 'Número de factura inválido'
 'There is no credit card on file. Please enter one now so we can process your credit card.': 'No hay una tarjeta de crédito registrada. Por favor ingresa una ahora así podremos procesar la tarjeta de crédito.'
 'Your payment has been processed!': 'Tu pago ha sido procesado!'
-'An error ocurred while processing your payment': 'Se ha producido un error mientras se procesaba tu pago'
+'An error occurred while processing your payment': 'Se ha producido un error mientras se procesaba tu pago'
 'An error occurred while updating the credit card.': 'Se ha producido un error mientras se actualizaba tu tarjeta de crédito.'
 'Invalid expiration date': 'Fecha de expiración inválida'
 'Please enter only numbers. No spaces, dashes, etc.': 'Por favor ingresa solo números, sin espacios, guiones, etc.'
@@ -719,7 +719,7 @@ On: Activado
 'Anti-CSRF protection triggered. Please reload the page and try again.': 'Se lanzó la protección Anti-CSRF. Por favor recarga la página en intentalo de nuevo.'
 'Account is suspended. Please contact customer support.': 'La cuenta está suspendida. Por favor contacta a Soporte al Cliente.'
 'Password request not found. Please check the link that was sent. The request may have expired so try requesting a new one.': 'Solicitud de contraseña no encontrada. Por favor comprueba el enlace enviado. La solicitud puede haber expirado así que intenta solicitar una nueva.'
-'An error has occured.': 'Un error ha ocurrido.'
+'An error has occurred.': 'Un error ha ocurrido.'
 'This password reset has been already used.': 'Esta solicitud de reinicio de contraseña ya ha sido utilizada.'
 'This password reset has expired.': 'Esta solicitud de reinicio de contraseña ya ha expirado.'
 'Password confirmation does not match.': 'La confirmación y la contraseña no coinciden.'
@@ -810,7 +810,7 @@ On: Activado
 'Could not determine Client Billing ID. Please contact customer support.': 'No se pudo determinar el Client Billing ID. Por favor contacta a Soporte al Cliente.'
 'tld cannot be empty': 'el TLD no puede ser vacío'
 'name cannot be empty': 'el nombre no puede ser vacío'
-'Invalid period. Must be betwen 1 and 5.': 'Período inválido. Debe ser entre 1 y 5'
+'Invalid period. Must be between 1 and 5.': 'Período inválido. Debe ser entre 1 y 5'
 'Domain is available': 'El dominio está disponible'
 'Domain is already taken': 'El dominio ya está siendo utilizado'
 'There is no pricing information for this TLD and period.': 'No hay información de precio y período para este TLD'
@@ -927,7 +927,7 @@ On: Activado
 'Server IP': 'IP del servidor'
 Hostname: Hostname
 'Your account has no associated billing information. Please open a support ticket so we can correct this issue.': 'Tu cuenta no tiene información de facturación asociada. Por favor abre un ticket de soporte así podemos solucionar este problema.'
-'An unexpected error occured performing this task': 'Se ha generado un error no previsto.'
+'An unexpected error occurred performing this task': 'Se ha generado un error no previsto.'
 'Switch Domain': 'Cambiar Dominio'
 Transfer: Transferir
 'Log Viewer': 'Ver Logs'

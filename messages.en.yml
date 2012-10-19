@@ -28,7 +28,7 @@ Current: Current
 'Contact Support': 'Contact Support'
 'New Collection': 'New Collection'
 'Traffic summary for': 'Traffic summary for'
-'Total allocated': 'Total allocated'
+'Total allotted': 'Total allotted'
 'Search Knowledge Base / FAQ': 'Search Knowledge Base / FAQ'
 'Feedback &amp; feature requests': 'Feedback &amp; feature requests'
 'Email usage per domain': 'Email usage per domain'
@@ -252,7 +252,6 @@ Servers: Servers
 'Today''s bandwidth': 'Today''s bandwidth'
 bandwidth: bandwidth
 Bandwidth: Bandwidth
-'Total allocated': 'Total allocated'
 monthly: monthly
 daily: daily
 Month: Month
