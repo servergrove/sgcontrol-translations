@@ -221,7 +221,7 @@ Yesterday: Ontem
 'Last year': 'Ano passado'
 'No public IP addresses configured': 'Nenhum IP público configurado'
 'Private/LAN Network': 'Rede privada / LAN'
-'No private IP addresses configured': 'Nemum IP privado configurado'
+'No private IP addresses configured': 'Nenhum IP privado configurado'
 RAM: Memória
 Controls: Controles
 'This server is suspended. Please contact Customer Support.': 'Este servidor está suspenso. Entre em contato com o departamento de atendimento ao cliente.'
@@ -269,7 +269,7 @@ Rebuild: Reconstruir
 'Change Password': 'Alterar senha'
 'Login to Control Panel': 'Acesso ao Painel de Controle'
 'A password reset for the ServerGrove VPS Control Panel has been issued for your account': 'Um link com instruções de como recuperar sua senha foi enviada para você.'
-'To reset your password please follow this link': 'Para recuperar sua senha, siga este link.'
+'To reset your password please follow this link': 'Para reinicializar sua senha, siga este link.'
 'This request will expire in 5 minutes': 'Este pedido expirará em 5 minutos'
 'If you do not wish to reset your password, no action is required': 'Se você não quiser redefinir sua senha, nenhuma ação é necessária.'
 'ServerGrove Team': 'Equipe ServerGrove'
@@ -548,7 +548,7 @@ Upgrade/Downgrade: Upgrade/Downgrade
 'Add Note': 'Adicionar Nota'
 Notepad: Notas
 notepad: Notas
-'No notes': 'Nemuma nota'
+'No notes': 'Nenhuma nota'
 'Are you sure you want to delete this note?': 'Tem certeza de que deseja excluir esta nota?'
 'Control Panel Users': 'Usuários do Painel de Controle'
 'control panel users': 'Usuários do painel de controle'
