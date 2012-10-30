@@ -1,0 +1,1089 @@
+'New MongoDB service': 'Nieuwe MongoDB service'
+'New VPS service': 'Nieuwe VPS service'
+'New repository': 'Nieuwe repository'
+'Please, provide an explanation for the cancellation. <br>Feedback is key for us to improve our service': 'Indien u wilt, kunt u een reden voor annulatie opgeven. <br>Deze informatie is zeer waardevol voor ons om onze service te verbeteren'
+New: Nieuw
+Warning: Waarschuwing
+'Select an OS': 'Selecteer een OS'
+Graphical: Grafisch
+'ServerGrove Blog': 'ServerGrove Blog'
+'VPS Services': 'VPS Services'
+'Mongo Services': 'Mongo Services'
+History: Geschiedenis
+Server: Server
+Current: Huidig
+'Your password': 'Uw wachtwoord'
+'Logged in as': 'Ingelogd als'
+'Overview of': 'Overzicht van'
+'Connection Files': 'Connectie Bestanden'
+'Select operating system': 'Selecteer besturings systeem'
+'All Applications': 'Alle Applicaties'
+'Startup at boot-time': 'Opstarten tijdens boot-time'
+'Copy all settings': 'Kopieer alle instellingen'
+'Standard Mailbox': 'Standaard Mailbox'
+'Forwarding Email': 'Doorgestuurde Email'
+'Post Email': 'Verstuur Email'
+'All Domains': 'Alle Domeinen'
+'All Applications': 'Alle Applicaties'
+'Contact Support': 'Neem contact met support op'
+'New Collection': 'Nieuwe Collectie'
+'Traffic summary for': 'Dataverkeer overzicht voor'
+'Total allotted': 'Totaal toegestaan'
+'Search Knowledge Base / FAQ': 'Doorzoek Knowledge Base / FAQ'
+'Feedback &amp; feature requests': 'Terugkoppeling &amp; feature requests'
+'Email usage per domain': 'Email gebruik per domein'
+'Billing Address must match the address on the credit card statement': 'Factuur adres moet gelijk zijn aan het adres op de creditkaart'
+'New User': 'Nieuwe Gebruiker'
+'This server is off. Please boot up to start using it.': 'Deze server staat uit. Start deze server om ermee te kunnen werken.'
+'spam filter directions': 'Dit forumlier staat je toe om de filter instellingen aan te passen voor uw anti-spam service. De score filtert de inhoud en kan worden ingesteld van 1 tot 10, waar 1 de meest gevoelige waarde is. De aangerade waardes zijn tussen de 5 en 7. Whitelist en blacklists stelt u in staat om emails door het filter door te laten of tegen te houden. Geef 1 email per regel op. Om een heel domein te whitelisten of te blacklisten kunt u gebruik maken van *@domein.com.'
+Help: Help
+'Enter First Name': 'Geef uw voornaam'
+'Enter Last Name': 'Geef uw achternaam'
+'Enter Email': 'Geef uw Email'
+'Confirm password': 'Bevestig wachtwoord'
+'Enables API Key': 'Activeer API sleutel'
+'Send an email with password reset': 'Stuur een bericht met een wachtwoord herstel'
+'Allow access to Billing information': 'Sta toegang tot factuur informatie toe'
+'Allow access to Support tickets': 'Sta toegang tot support vragen toe'
+'Account Holder': 'Account houder'
+'is unpaid. In order to upgrade/downgrade your server you must':'is onbetaald. Om uw server te up- of downgraden, moet u'
+'pay this invoice': 'deze factuur betalen'
+Email: Email
+Password: Wachtwoord
+password: wachtwoord
+Language: Engels
+Authenticating: Authenticeren
+suspend: non-actief
+activate: activeren
+Login: Inloggen
+Submit: Submit
+Username: Gebruikersnaam
+Name: Naam
+Users: Gebruikers
+User: Gebruiker
+Managing: Beheren
+Manage: Beheer
+info: info
+Info: Info
+Configure: Configureren
+services: services
+Services: Services
+service: service
+apps: apps
+Enabled: Ingeschakeld
+Status: Status
+'Sync Control': 'Sync Control'
+ReSync: ReSync
+'Last sync': 'Laatste sync'
+NOTE: NOTITIE
+Uninstall: Deinstalleer
+Installed: Geinstalleerd
+Install: Installeer
+Version: Versie
+Category: Categorie
+Categories: Categorien
+None: Geen
+Invoice: Factuur
+'Credit card': 'Creditkaart'
+Invoices: Facturen
+Date: Datum
+'Due Date': 'Vervaldatum'
+Total: Totaal
+Download: Download
+pay: betaal
+Attention: Attentie
+Update: Update
+dashboard: dashboard
+Dashboard: Dashboard
+Resources: Resources
+Network: Netwerk
+Top: Boven
+Connect: Connect
+'free of': 'vrij van'
+Free: Vrij
+Memory: Geheugen
+Used: Gebruikt
+'Disk usage': 'Disk verbruik'
+'Disk Usage': 'Disk Verbruik'
+'Disk Consumption': 'Disk Verbruik'
+'Memory Consumption': 'Geheugen Verbruik'
+'CPU Load': 'CPU Load'
+'Average CPU Load': 'Gemiddelde CPU Load'
+'Live CPU': 'Live CPU'
+Add: Toevoegen
+'Add a server': 'Voeg een server toe'
+Active: Actief
+active: actief
+offline: offline
+All: Alle
+mem: mem
+disk: disk
+uptime: uptime
+ping: ping
+'MongoDB Server': 'MongoDB Server'
+'VPS Server': 'VPS Server'
+Plan: Plan
+Template: Sjabloon
+OS: OS
+'Online Users': 'Gebruikers Online'
+'Internal IP': 'Interne IP'
+'Customer Support': 'Klantenservice'
+'Knowledge Base': 'Kennisbank'
+'Web Hosting': 'Web Hosting'
+'Open in Browser': 'Open in Browser'
+Browse: Browse
+Delete: Verwijder
+delete: verwijder
+Deleting: Verwijderen
+'Delete Domain': 'Verwijder Domein'
+domains: domeinen
+Domains: Domeinen
+Path: Pad
+Type: Type
+Temporary: Tijdelijk
+Permanent: Permanent
+'Sending request': 'Aanvraag verzenden'
+'Email Hosting': 'Email Hosting'
+'days remaining': 'dagen over'
+'Not available': 'Niet beschikbaar'
+Save: Bewaar
+Cancel: Annuleer
+'Current Version': 'Huidige Versie'
+'Are you sure you want to delete': 'Weet u zeker dat u wilt verwijderen'
+'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.': 'Alle data gerelateerd aan het domein (inclusief bestanden, e-mailaccounts, email berichten etc) zullen permanent verloren raken.'
+'YES, I am sure. Delete': 'JA, ik weet het zeker. Verwijder'
+Settings: Instellingen
+Disabled: Gedeactiveerd
+disable: deactiveer
+enable: activeer
+'Total records': 'Totaal aantal records'
+Nameservers: Nameservers
+'Host Name': 'Host Naam'
+Address: Adres
+Extra: Extra
+Remove: Verwijder
+remove: verwijder
+Edit: Bewerk
+Editing: Bewerken
+'Enter Value': 'Geef Waarde'
+'Enter Name': 'Geef Naam'
+Priority: Prioriteit
+'For example': 'Bijvoorbeeld'
+'You have no domains': 'U heeft geen domeinen'
+'Add one now': 'Voeg nu een toe'
+Account: Account
+Accounts: Accounts
+'Email accounts': 'E-mailaccount'
+Webmail: Webmail
+'Secure Webmail': 'Beveiligde Webmail'
+Port: Poort
+'SSL enabled': 'SSL ingeschakeld'
+'Alternate Port': 'Alternatieve Poort'
+Autoresponder: Autoresponder
+configure: configureer
+Alias: Alias
+'remove alias': 'verwijder alias'
+'Add Alias': 'Voeg Alias'
+Redirects: Omleidingen
+'Add Redirect': 'Voeg omleiding toe'
+'Configuration for': 'Configuratie voor'
+'First Name': 'Voornaam'
+'Last Name': 'Achternaam'
+'Full Name': 'Volledige Naam'
+Phone: Telefoon
+'EPP code / Authorization key': 'EPP code / Authorizatie sleutel'
+Request: Verzoeken
+'Overview of': 'Overzicht van'
+'Primary Domain': 'Primair Domein'
+'Registration Information': 'Registratie Informatie'
+'Lock Status': 'Lock Status'
+'Registration Status': 'Registratie Status'
+'Renewal Cost': 'Hernieuw kosten'
+Renew: hernieuw
+Reload: Reload
+loading: laden
+Subdomains: Subdomeinen
+Check: Check
+'Checking, please wait': 'Checking, even geduld alstublieft'
+'Select Period': 'Selecteer Periode'
+'Select Payment': 'Selecteer Betaling'
+view: bekijk
+rotate: roteer
+General: Algemeen
+Size: Grootte
+'Select method': 'Selecteer methode'
+Auto: Auto
+or: of
+'Total Domains': 'Totaal Aantal Domeinen'
+'Domains with email enabled': 'Domeinen with email geactiveerd'
+'Domains with email disabled': 'Domeinen with email gedeactiveerd'
+'Total users': 'Totaal aantal gebruikers'
+'used of': 'gebruikt'
+'Email domain usage': 'Email domein verbruik'
+purchase: aanschaffen
+'contact us': 'neem contact met ons op'
+'Need more?': 'Meer nodig?'
+'p/ year': 'p/ jaar'
+'Hosted Email': 'Hosted Email'
+'Client Settings': 'Client Instellingen'
+Bulk: Bulk
+Upgrade: Upgrade
+Title: Titel
+Note: Notitie
+Client: Client
+Group: Groep
+'User Group': 'Gebruiker Groep'
+'Created on': 'Aangemaakt op'
+'Last Login': 'Laatste Login'
+Subject: Onderwerp
+Message: Bericht
+Urgency: Spoed
+Low: Laag
+Medium: Gemiddeld
+High: Hoog
+'Open Ticket': 'Open Ticket'
+ID: ID
+'Date Submitted': 'Datum ingestuurd'
+Frequency: Frequentie
+Destination: Recipients
+monitors: monitors
+Servers: Servers
+'Last Sent': 'Laatst Verzonden'
+'Today''s bandwidth': 'Bandbreedte Vandaag'
+bandwidth: bandbreedte
+Bandwidth: Bandbreedte
+monthly: maandelijks
+daily: dagelijks
+Month: Maand
+In: In
+Out: Uit
+Day: Dag
+Traffic: Verkeer
+Summary: Overzicht
+'Public Network': 'Publiek Netwerk'
+Today: Vandaag
+Yesterday: Gisteren
+'This month': 'Deze maand'
+'Last 3 months': 'Laatste 3 maanden'
+'Last 6 months': 'Laatste 6 maanden'
+'This year': 'Dit jaar'
+'Last year': 'Afgelopen jaar'
+'No public IP addresses configured': 'Geen publieke IP addressen geconfigureerd'
+'Private/LAN Network': 'Prive/LAN Netwerk'
+'No private IP addresses configured': 'Geen prive IP addressen geconfigureerd'
+RAM: RAM
+Controls: Controls
+'This server is suspended. Please contact Customer Support.': 'Deze server is opgeschort. Neem contact op met Customer Support.'
+Reboot: Herstart
+Shutdown: Stop
+'Boot up': 'Boot up'
+Tasks: Taken
+stopped: gestopt
+sleeping: slapen
+running: draaiend
+users: gebruikers
+'load average': 'load average'
+Graphic: Grafisch
+Text: Tekst
+'Go to Parent': 'Ga naar vorige'
+Actions: Acties
+Please: Alstublieft
+Rebuild: Herbouw
+'Rebuild Server': 'Herbouw Server'
+'upgrade from the Client Area': 'upgrade vanuit de Client Area'
+'submit a support request': 'verzend een support aanvraag'
+'so we can update your server billing information': 'zodat we uw servers factuuradres kunnen bijwerken'
+'This will cancel your service. All files will be destroyed and your server will cease to exist.': 'Dit zal uw service annuleren. Alle bestanden zullen worden verwijderd, en uw server zal niet meer bestaan.'
+'If you wish to change your OS or have a clean install, please': 'Als u het OS wilt veranderen, of een schone installatie wilt heruitvoeren, kunt u'
+'rebuild your server': 'uw server herbouwen'
+'Order process failed to return a valid Invoice': 'Het order process heeft geen geldige Factuur teruggestuurd'
+'The order has been accepted. Your server will be updated shortly.': 'De order is geacepteerd. Uw server zal zodirect worden geupdate.'
+'Please select a new plan': 'Selecteer een nieuw plan'
+'You did not change the plan. Are you sure you want to continue with the update plan request?': 'U heeft geen nieuw plan uitgekozen. Weet u zeker dat u door wilt gaan met het updaten van uw plan?'
+'Are you sure you want to change the server plan?': 'Weet u zeker dat u uw server plan wilt wijzigen?'
+'Changing plan': 'Wijzigen van plan'
+'Checking new pricing': 'Controleren van nieuwe prijs'
+'Amount due today': 'Bedrag '
+'Recurring amount': 'Herhaal bedrag'
+'Next due date': 'Volgende factuur datum'
+'Enter email': 'Geef email'
+'Enter password': 'Geef wachtwoord'
+'Forgot password?': 'Uw wachtwoord vergeten?'
+'Reset Password': 'Reset Wachtwoord'
+'Mobile Version': 'Mobile Versie'
+'Enter your email address': 'Geef uw email adres'
+'Back to login page': 'Terug naar de inlog pagina'
+'New Password': 'Nieuw Wachtwoord'
+'Confirm Password': 'Bevestig Wachtwoord'
+'Change Password': 'Verander Wachtwoord'
+'Login to Control Panel': 'Log in het Controle Paneel'
+'A password reset for the ServerGrove VPS Control Panel has been issued for your account': 'Een verzoek om uw wachtwoord voor het ServerGrove VPS Controle Paneel te wijzigen is aangevraag voor uw account'
+'To reset your password please follow this link': 'Om uw wachtwoord te wijzigen, klik op deze link'
+'This request will expire in 5 minutes': 'Dit verzoek is geldig tot over 5 minuten'
+'If you do not wish to reset your password, no action is required': 'Indien u niet uw wachtwoord wilt wijzigen, hoeft u niets te doen'
+'ServerGrove Team': 'ServerGrove Team'
+'Services will give you a quick overview of all your servers in one place. This is the page you are on right now.': 'Services geeft u een globaal overzicht van al uw servers. Dat is deze pagina.'
+'This is the name of your server. Mouseover this link to get more information.': 'Dit is de naam van uw server. Beweeg met de muis over de link om meer informatie te zien.'
+'These graphs offer you a quick overview of the resources available on your system. Mouseover these links to get more information.': 'Deze grafieken tonen een overzicht van de bronnen beschikbaar op uw systeem. Beweeg met de muis over de link voor meer informatie.'
+'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places across the globe.': 'Dit is een eenvoudige manier om connectie met uw server te controleren. Het stelt u in staat om vanuit verschillende punten op de wereld uw server te pingen.'
+'Click here to start managing your server.': 'Klik hier om te beginnen met het beheren van uw server.'
+'You may add servers to your account anytime.': 'U kunt ten alle tijden meerdere servers toevoegen aan uw account.'
+'Go to your profile page to change your login password to the control panel': 'Ga naar uw profiel pagina om uw login wachtwoord voor het controle paneel te wijzigen'
+'You may also setup multiple accounts for your developers and specify which servers they have access to.': 'U mag meerdere accounts aanmaken voor ontwikkelaars en aangeven voor welke servers ze toegang hebben.'
+'The billing section allows you to update your credit card information, view and pay your invoices and view the archive of past invoices.': 'In de factuur sectie kunt u uw creditkaart informatie bijwerken, bekijken. Ook kunt u hier uw facturen betalen en een overzicht bekijken van voorgaande facturen.'
+'Your server comes with built in basic monitoring. This section allows you to adjust the settings and setup notifications.': 'Uw server komt met standaard monitoring. In dit onderdeel kunt u de instellingen en meldingen wijzingen.'
+'Your inbox collects all your alerts and messages from ServerGrove.': 'Your inbox collects all your alarmen and messages from ServerGrove.'
+'Our support section is designed to let you communicate with our support team.': 'Onze support sectie is ontworpen om te communiceren met ons support team.'
+'Add a monitor': 'Voeg een monitor toe'
+'Event Type': 'Event Type'
+'Reached resource limits (memory, disk, etc.)': 'Bereikte bron limieten (geheugen, schijf, etc.)'
+'ServerGrove announcements': 'ServerGrove mededelingen'
+'Apply to Servers': 'Toepassen bij Servers'
+'Real time': 'Real time'
+'Once a day': 'Een keer per dag'
+'Once a week': 'Een keer per week'
+'Once a month': 'Een keer per maand'
+'Monitors keep an eye on your server and send you alerts via email when you reach your limits.': 'Monitoren houden uw server in de gaten en alarmeren u per email wanneer uw uw limieten heeft bereikt.'
+'Disk Storage': 'Disk Opslag'
+'Email Storage': 'Email Opslag'
+'Current Plan': 'Huidig Plan'
+/monthly: /maandelijks
+'Billing Cycle': 'Facturatie ronde'
+'No links': 'Geen links'
+'Console access': 'Console toegang'
+'SFTP access': 'SFTP toegang'
+'No IP address': 'geen IP adres'
+'Request a private IP address': 'Verzoek een prive IP adres'
+'Current load': 'Hudige load'
+Processes: Processen
+'Discovery process queued.': 'Ontdek proces toegevoegd aan de wachtrij.'
+'Sync server': 'Synchroniseer server'
+'You only need to sync the control panel if you do manual changes directly to your server using SSH': 'U hoeft alleen het controle paneel te synchronizeren indien u handmatig wijzigngen toebrengt aan uw server via SSH'
+'Add a new VPS': 'Voeg een nieuwe VPS toe'
+Timezone: Tijdzone
+'%server%''s Alerts': '%server%''s Alarmeringen'
+'Unread Alerts': 'Ongelezen Alarmeringen'
+'Alerts Archive': 'Alarmeringen Archief'
+'Cancel Server': 'Annuleer Server'
+'There are no alerts for this server. Alerts are triggered by monitors': 'Er zijn geen alarmeringen actief voor deze server. Alarmeringen worden door monitors uitgegeven'
+'Are you sure you want to CANCEL server': 'Weet u zeker dat u deze server wilt ANNULEREN'
+'All data related to the server (including files, databases, etc) will be permanently lost.': 'Alle data gerelateerd aan deze server (inclusief bestanden, databases etc) zullen permanent worden gewist.'
+'Please be sure to back-up all your files': 'Zorg voor een backup van al uw bestanden'
+'Please, provide an explanation for the cancellation. Feedback is key for us to improve our service':  'Voer alstublieft een reden in voor uw annuleren. Deze terugkoppeling zorgt ervoor dat wij onze service kunnen verbeteren'
+'YES, I am sure. CANCEL': 'JA, ik ben zeker. ANNULEER'
+'Please, confirm once again you would like to cancel this server': 'Bevestig nogmaals dat u deze server wilt annuleren'
+'Submitting cancellation': 'Annulering verzoeken doorgezet'
+'Sending cancellation request': 'Verzenden van het annulerings verzoek'
+'%server%''s Diagnostics': '%server%''s Diagnostiek'
+'System Diagnostics': 'System Diagnostiek'
+'System check': 'Systeem check'
+check: check
+details: details
+'Network Tests': 'Network Tests'
+'Ping your server IP': 'Ping uw server IP'
+'Ping your local IP': 'Ping uw local IP'
+'%server%''s Monitors': '%server%''s Monitors'
+Monitors: Monitors
+'Are you sure you want to remove this alert?': 'Weet u zeker dat u deze alarmering wilt verwijderen?'
+'Installing a new image will wipe out all your current files. <u>Please be sure to back-up all your files.</u>':  'Installatie van een nieuwe image zal alle bestanden verloren doen gaan. <u>Maak er zeker van dat u al uw bestanden heeft geback-upped.</u>'
+'Are you sure you want to reset your VPS?': 'Weet u zeker dat u uw VPS wilt herstarten?'
+'Current Operating System': 'Huidige Besturings Systeem'
+'New root password': 'Nieuw root wachtwoord'
+'Your server will go offline while it is being rebuilt. You will receive an email when the process is complete. It may take between 1 and 15 minutes depending on how busy the deployment servers are. Please do not try to issue multiple "Rebuild" operations.': 'Uw server zal offline gaan tijdens de herbouw. U ontvangt een email zodra het process klaar is. Dit kan tussen de 1 en 15 minuten duren afhankelijk van hoe druk onze servers zijn. Probeer niet meerdere 'herbouw' operaties te starten tijdens dit process.'
+'%server%''s Terminal': '%server%''s Terminal'
+Terminal: Terminal
+'The SSH terminal is a Java Applet and is a 4MB download.': 'De SSH terminal is een Java Applet en is een 4MB grote download.'
+'Load SSH Terminal': 'Laad SSH Terminal'
+'%server%''s Users': '%server%''s Gebruikers'
+'System Users': 'Systeem Gebruikers'
+'Home Directory': 'Home Directory'
+'Edit User': 'Wijzig Gebruiker'
+'No users': 'Geen gebruikers'
+'New User': 'Nieuwe Gebruiker'
+'Change Server Hostname': 'Wijzig Server Hostnaam'
+'Server Hostname (ie. server.example.com)': 'Server Hostnaam (bv. server.example.com)'
+'We haven''t heard from you in a while so we stopped the live charts. To reactivate just move your mouse around.': 'We hebben al een tijdje niets meer van u gehoord, dus we hebben onze live updates stopgezet. Beweeg met uw muis om deze opnieuw te activeren.'
+'The System section allows you to monitor and control your system. This is the section you are on right now.':  'Via het systeem selectie kunt u uw system monitoring en controleren.'
+'The Memory, CPU tab will provide you with information about your system.': 'Het Geheugen & CPU tabblad bied informatie over uw systeem.'
+'It also contains the reboot, shutdown and startup controls for your system.': 'Het bevat tevens de herstart, in- en uitschakel functionaliteit voor uw systeem.'
+'Use the Sync server button to sync your control panel with your server if you made changes to your server using SSH while also logged in to your control panel': 'Gebruikt de Synchronizeer knop om het controle paneel te synchronizeren met uw server indien uw veranderingen heeft aangebracht via SSH terwijl u ook in het controle paneel bent ingelogd'
+'These graphs are updated every 6 seconds.': 'De grafieken worden elke 6 seconden ververst.'
+'The network tab will show you bandwidth consumption information.': 'Het netwerk tabblad bevat informatie over uw bandbreedte verbruik.'
+'The top tab gives you a visual representation of your servers processes.': 'Het Top tabblad geeft een visuele representatie van de processen op uw server.'
+'The connect tab contains easy access to connection information such as SSH and SFTP.': 'Het Verbindings tabblad bevat informatie om te verbinden via SSH en SFTP.'
+'Our control panel has a simple GUI that allows you to manage the most common applications on your server.': 'Onze controle paneel heeft een simpele interface waardoor u de standaard applicaties makkelijk kunt beheren op uw server.'
+'Go to this section to add domains, manage emails, domain aliases, configure hosting, etc..': 'Ga naar deze sectie om domeinen toe te voegen, emails te beheren, hosting te configureren etc..'
+'Email settings and information': 'Email instellingen en informatie'
+'Diagnostics is an easy way to check the status of your server.': 'Diagnostiek is een eenvoudige manier om de status van uw server te controleren.'
+'Add, remove and edit system users.': 'Voeg nieuwe systeem gebruikers toe, verwijder of bewerk deze.'
+'Change the timezone on your system.': 'Pas de tijdzone van uw systeem aan.'
+'Add or remove RAM and disk space to your server.': 'Verhoog of verlaag RAM en schijfruimte op uw server.'
+'Destroy your server and get a new one.': 'Vernietig uw server en krijg een nieuwe.'
+'Order New Server': 'Bestel Nieuwe Server'
+'new server': 'nieuwe server'
+'Add new %typeName% Server': 'Voeg een nieuwe %typeName% Server toe'
+'Plan information': 'Plan informatie'
+'Select the plan for the new server. You can upgrade / downgrade your plan at any time without even rebooting your VPS.': 'Selecteer een plan voor de neiuwe server. U kunt uw plan altijd verhogen of verlagen zonder uw VPS te herstarten.'
+'Order new %typeName% Server': 'Bestel een nieuwe %typeName% Server'
+'Payment Method': 'Betaalwijze'
+'App Control': 'App Control'
+Start: Start
+'Are you sure you want to stop this server?': 'Weet u zeker dat u deze server wilt stoppen?'
+Stop: Stop
+'Are you sure you want to restart this server?': 'Weet u zeker dat u deze server wilt herstarten?'
+Restart: Herstart
+'Updating status, please wait...': 'Status wordt bijgewerkt. Een moment geduld...'
+'You only need to sync the control panel if you do manual changes to %serverApp% using a SSH client.': 'U hoeft alleen maar het controle paneel te synchroniseren als u handmatig aanpassingen maakt aan %serverApp% via een SSH client.'
+'Are you sure you want to uninstall %serverApp%?': 'Weet u zeker dat u %serverApp% wilt verwijderen?'
+'Scan the server and detect apps that you installed manually': 'Scan de server en vind applicaties die u handmatig wilt installeren'
+'%server%''s Applications': '%server%''s Applicaties'
+'%server%''s Apps': '%server%''s Apps'
+'You have no apps installed.': 'U heeft geen applicaties geinstalleerd.'
+'Install apps now': 'Installeer nu applicaties'
+'Configure %server%''s %serverApp%': 'Configueren van %server%''s %serverApp%'
+'Retrieving configuration file from server, please wait...': 'Configuratie bestand wordt van de server opgevraagd. Een moment geduld...'
+'Saving file on server, please wait...': 'Bestand wordt weggeschreven naar de server. Een moment geduld...'
+'Browsing Available Applications': 'Doorzoek Beschikbare Applicaties'
+Applications: Applicaties
+'My Applications': 'Mijn Applicaties'
+'Sync Apps': 'Sync Apps'
+'New Domain Alias': 'Nieuwe Domein Alias'
+'Domain name': 'Domein naam'
+'Enter Domain Name': 'Geef Domein Naam'
+'Enter IP address': 'Geef IP adres'
+'Enter mail domain': 'Geef mail domein'
+'Enter mail exchanger': 'Geef mail exchanger'
+'Specify priority of mail exchange server': 'Specifeer prioriteit van de mail exchange server'
+'Enter a canonical name': 'Geef een canonical naam'
+'Enter TXT record': 'Geef TXT record'
+'Enter a nameserver': 'Geef een naamserver'
+'Zone is in Read-Only mode': 'Zone is in alleen-lezen modus'
+'New Redirect': 'Nieuwe Omleiding'
+'New Subdomain': 'Nieuw Subdomein'
+Subdomain: Subdomein
+'Edit Virtual Host': 'Bewerk Virtual Host'
+'Document Root': 'Document Root'
+'Document root (ie. /var/www/html)': 'Document root (bv. /var/www/html)'
+'Access Log': 'Toegangs Log'
+'Path to Access Log(ie. example.com-access_log)': 'Pad naar uw Toegangs Log (bv. example.com-access_log)'
+'Error Log': 'Fout Log'
+'Path to Error Log(ie. example.com-error_log)': 'Pad naar uw Fout Log (bv. example.com-error_log)'
+'Index File': 'Index Bestand'
+'Index file(ie. index.php or index.html)': 'Index Bestand (bv. index.php of index.html)'
+'Custom Directives': 'Overige Instellingen'
+'.htaccess Support': '.htaccess ondersteuning'
+'WWW Redirect': 'WWW Omleiding'
+'My Domains': 'Mijn Domeinen'
+'Add Domain': 'Voeg domein toe'
+'Add a domain': 'Voeg een domein toe'
+Whois: Whois
+'Get Whois': 'Get Whois'
+'Domain Name': 'Domein Naam'
+'Register a Domain': 'Registreer een Domein'
+'Register a new domain': 'Registereer een new domein'
+'%domain%''s DNS': '%domain%''s DNS'
+'DNS for': 'DNS voor '
+'DNS Records': 'DNS Records'
+'%domain% DNS Settings': '%domain% DNS Instellingen'
+'DNS Service Status': 'DNS Service Status'
+'Add DNS Record': 'Voeg DNS Record toe'
+'Resetting the DNS zone will erase all the current records and create the default ones. Are you sure you want to reset and erase all records?':'Herstellen van de DNS zone zal alle huidige records verwijderen en vervangen voor de standaard instellingen. Weet u zeker dat u dit wilt doen?'
+'Reset DNS Zone': 'Herstel DNS Zone'
+'Setup Google Apps DNS': 'Setup Google Apps DNS'
+'DNS service is currently disabled. Please enable the DNS service with the checkbox on the left section in order to manage the DNS records of this domain.':'DNS service is op dit moment uitgeschakeld. Schakel de DNS service in via de checkbox aan de linkerkant om DNS records voor dit domein te beheren.'
+Records: Records
+'No records found.': 'Geen records gevonden.'
+'Are you sure you want to remove this record?': 'Weet u zeker dat u dit record wilt verwijderen?'
+'Are you sure you want to disable the DNS service?': 'Weet u zeker dat u de DNS service wilt uitschakelen?'
+'New DNS Record': 'Nieuw DNS Record'
+'Record Type': 'Record Type'
+'Enter TTL (optional)': 'Geef TTL (optioneel)'
+'Enter Priority (optional)': 'Geef Prioriteit (optioneel)'
+'%server%''s Domains': '%server%''s Domeinen'
+'Are you sure you want to remove this domain?': 'Weet u zeker dat u dit domein wilt verwijderen?'
+'%domain%''s Email Accounts': '%domain%''s E-mailaccounts'
+'Email setup for': 'Email instellingen voor'
+'Email settings for': 'Email instellingen voor'
+'Email Service Status': 'Email Service Status'
+'Add Email Account': 'Voeg E-mailaccount toe'
+'Email service is currently disabled. Please enable the Email service with the checkbox on the left section in order to manage the email accounts for this domain': 'Email service is op dit moment uitgeschakeld. Schakel de email service in aan de linkerkant om E-mailaccounts voor dit domein te beheren'
+'Change avatar': 'Wijzig  avatar'
+'POP3 Server': 'POP3 Server'
+'IMAP Server': 'IMAP Server'
+'SMTP Server': 'SMTP Server'
+'Use these setting to configure your email client': 'Gebruikt deze instellingen om uw email client te configureren'
+'New Email Account': 'Nieuw E-mailaccount'
+'Account Setup': 'Account Setup'
+'Optional Personal Information': 'Optionele Persoonlijke Informatie'
+'Manage auto responder': 'Beheer auto responder'
+'Enable auto responder': 'Schakel auto responder in'
+'Autoresponder reply': 'Autoresponder antwoord'
+'Add Email Alias': 'Voeg Email Alias toe'
+'Email alias': 'Email alias'
+'Add email redirect': 'Voeg email omleiding toe'
+'Destination email address': 'Bestemmings email adres'
+'Are you sure you want to remove this email account?': 'Weet u zeker dat u dit e-mailaccount wilt verwijderen?'
+'Are you sure you want to remove this email alias?': 'Weet u zeker dat u deze email alias wilt verwijderen?'
+'Are you sure you want to remove this email redirect?': 'Weet u zeker dat u deze email omleiding wilt verwijderen?'
+'Are you sure you want to reset email routing for this domain?': 'Weet u zeker at u de email routering voor dit domein wil herstellen?'
+'Are you sure you want to disable the Email service?': 'Weet u zeker dat u de Email service wilt uitschakelen?'
+'Are you sure you want to request the EPP code for this domain?': 'Weet u zeker dat u de EPP code voor dit domein wil aanvragen?'
+'Are you sure you want to register this domain?': 'Weet u zeker dat u dit domein wilt registreren?'
+'Domain Aliases': 'Domein Aliases'
+'Register New Domain': 'Registreer Nieuw Domein'
+'Registering domain, please wait': 'Registratie domein, een moment geduld'
+'Registering, please wait': 'Registratie, een moment geduld'
+'Domain registration received!': 'Domein registratie ontvangen!'
+'The domain has been added to the Control Panel': 'Het domein is toegevoegd aan het controle paneel'
+'Attempting to process credit card payment': 'Bezig met het uitvoeren van de creditkaart betaling'
+'Payment failed': 'Betaling mislukt'
+'Payment accepted!': 'Betaling geaccepteerd!'
+'%domain%''s Web Hosting': '%domain%''s Web Hosting'
+'Managing Web Hosting for': 'Beheer Web Hosting for'
+'The Web Hosting service for this domain is disabled. Turn it on if you want to manage Web Hosting setting for this domain.': 'Web hosting service is voor dit domein uitgeschakeld. U dient deze eerst te activeren voordat u web hosting instellingen voor dit domein kunt beheren.'
+'Preview URL': 'Preview URL'
+'Add Domain Alias': 'Domein Alias toevoegen'
+'No Domain aliases': 'Geen Domein aliases'
+'Add Subdomain': 'Toevoegen Subdomein'
+'No subdomains': 'Geen subdomeinen'
+'No redirects': 'Geen omleiding'
+'Add a protected directory': 'Voeg een afgeschermde folder toe'
+'Requesting rotation of log file': 'Rotatie van uw log bestanden aangevraagd'
+'Are you sure you want to disable the web service?': 'Weet u zeker dat u de web service wilt uitschakelen?'
+'Domain Whois': 'Domain Whois'
+'Whois Result': 'Whois Result'
+'proceed to Paypal': 'doorgaan met Paypal'
+'to complete the order': 'om de order af te maken'
+'Please select a plan': 'Selecteer een plan'
+'Please select the operating system': 'Selecteer een besturingssysteem'
+'Are you sure you want to order this server?': 'Weet u zeker dat u deze server wilt bestellen?'
+'Submitting order': 'Order wordt ingedient'
+Upgrade/Downgrade: Upgrade/Downgrade
+'Change Plan': 'Verander Plan'
+'You can upgrade / downgrade your plan without even rebooting your VPS. The memory and disk allocation will be updated while your system is online. Your files and settings will not be touched. <u>There will be no downtime</u>':'U kunt uw plan up- of downgraden zonder uw VPS te herstarten. Geheugen en schijfruimte zullen worden geupdate terwijl uw systeem online is. Uw bestanden en instellingen zullen niet worden gewijzigd. <u>Er is geen downtime</u>'
+'This server has no billing information attached': 'Deze server is niet gekoppeld aan factuur informatie'
+'Your credit card has expired!': 'Uw creditkaart is verlopen!'
+'Your credit card is about to expire': 'Uw creditkaart staat op het punt om te verlopen'
+'Update Credit Card': 'Hernieuw Creditkaart'
+'update credit card': 'hernieuw creditkaart'
+'Invoices for': 'Facturen voor'
+'Unpaid Invoices': 'Onbepaalde Facturen'
+'Show All Invoices': 'Bekijk Alle Facturen'
+'Invoice num': 'Factuur #'
+'Date Paid': 'Datum Betaald'
+'Your account has no access to billing information. Please ask the account owner to allow access.': 'Uw account heeft geen toegang tot factuur informatie. Vraag de account eigenaar voor toegang.'
+'Your account has no associated billing information. Please open a support ticket so we can correct this issue.': 'Uw account is niet gekoppeld aan factuur informatie. Open een support ticket zodat we dit probleem kunnen verhelpen.'
+'Credit Card Information': 'Creditkaart Informatie'
+'Current credit card on file': 'Huidige creditkaart in ons bestand'
+'Card Type': 'Kaart Type'
+'Card Number': 'Kaart Nummer'
+'Expiration Date': 'Verloop Datum'
+'Update credit card information': 'Hernieuw creditkaart informatie'
+'Enter Credit Card Number': 'Geef Creditkaart nummer'
+'If you want to send bulk emails please use your local email server on your VPS. Here''s how':
+'Indien u bulk email wilt versturen, gebruik dan uw lokale email server op uw VPS. Hier is hoe u dat doet'
+'I want to send email using using': 'Ik wil email verzenden via'
+'Select a method to send email from the above pulldown': 'Selecteer een methode om email te verzenden in bovenstaand menu'
+'If you are using Outlook, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings': 'Indien u Outlook, Thunderbird, Mac Mail App, Sparrow of een soortgelijke email client gebruikt, dan zijn dit uw email configuratie instellingen'
+'Incoming Mail Server (IMAP)': 'Inkomende Mail Server (IMAP)'
+'Go to account settings, create a new account': 'Ga naar uw account instellingen, creeer nieuwe account'
+'Enter your name, email and password as requested': 'Geef uw naam, email en wachtwoord zoals gevraagd'
+'Select IMAP': 'Selecteer IMAP'
+'full username + domain is required': 'volledige gebruikersnaam + domein is noodzakelijk'
+'Outgoing Mail Server (SMTP)': 'Uitgaande Mail Server (SMTP)'
+'Select SMTP (or outgoing mailserver)': 'Selecteer SMTP (of uitgaande mailserver)'
+'Outgoing mail requires authentication': 'Uitgaande mail gebruikt authenticatie'
+'Same as incoming mailserver': 'Hetzelfde als inkomende mailserver'
+'Purchase more disk space': 'Koop meer disk ruimte'
+'Add Note': 'Voeg notitie toe'
+Notepad: Notitieblok
+notepad: notitieblok
+'No notes': 'Geen notities'
+'Are you sure you want to delete this note?': 'Weet u zeker dat u deze notitie wilt verwijderen?'
+'Control Panel Users': 'Controle Paneel Gebruikers'
+'control panel users': 'controle paneel gebruikers'
+'Add User': 'Voeg Gebruiker Toe'
+'server monitors': 'server monitors'
+Inbox: Inbox
+'Unread Messages': 'Ongelezen Berichten'
+'Messages Archive': 'Berichten Archief'
+'mark all as read': 'markeer alles als gelezen'
+'Mark as read': 'Markeer als gelezen'
+'User Profile': 'Gebruikers Profiel'
+'User Profile for': 'Gebruikers Profiel voor'
+'My Profile': 'Mijn Profiel'
+'Edit Profile': 'Bewerk Profiel'
+'Send Reset Password Email': 'Zend Reset Wachtwoord Email'
+'Access Control': 'Access Control'
+'Billing Access': 'Billing Access'
+'Support Access': 'Support Access'
+'Server Access': 'Server Access'
+'There are no users': 'Er zijn geen gebruikers'
+'Are you sure you want to remove this user?': 'Weet u zeker dat u deze gebruiker wilt verwijderen?'
+'Are you sure you want to reset the password for this user?': 'Weet u zeker dat u het wachtwoord voor deze gebruiker opnieuw wilt instellen?'
+'Enable API Key': 'Schakel API sleutel in'
+'API Key': 'API Sleutel'
+Key: Sleutel
+Secret: Geheim
+'Open New Ticket': 'Open Nieuw Ticket'
+'Support Ticket': 'Support Ticket'
+'Support Tickets': 'Support Tickets'
+'support tickets': 'support tickets'
+'Your account has no access to Support Tickets. Please ask the account owner to allow access.': 'Uw account heeft geen toegang tot support tickets. Vraag de account eigenaar voor toegang.'
+'Active Tickets': 'Actieve Tickets'
+'All Tickets': 'Alle Tickets'
+'There are no active support tickets.': 'Er zijn geen actieve support tickets.'
+'There are no support tickets.': 'Er zijn geen support tickets.'
+ticket: ticket
+'View Ticket': 'Bekijk Ticket'
+'Add reply': 'Voeg antwoord toe'
+'Close Ticket': 'Sluit Ticket'
+'ServerGrove Staff': 'ServerGrove Staff'
+'Add Reply to Ticket': 'Voeg antwoord aan ticket toe'
+'Are you sure you want to close this ticket?': 'Weet u zeker dat u dit ticket wilt sluiten?'
+'UI tour': 'UI tour'
+'My Servers': 'Mijn Servers'
+Support: Support
+Logout: Uitloggen
+Profile: Profile
+'API Docs': 'API Docs'
+Billing: Facturatie
+Blog: Blog
+'ServerGrove Website': 'ServerGrove Website'
+Search: Zoeken
+'View Messages (%messages% new messages)': 'Bekijk berichten (%messages% nieuwe berichten)'
+'Search Support': 'Doorzoek Support'
+'View Active': 'Bekijk actieve'
+'View All': 'Bekijk alle'
+'VPS Services': 'VPS Services'
+Refreshing...: Vernieuwen...
+manage: beheer
+'Add a MongoDB server': 'Toevoegen MongoDB server'
+'Learn more about our MongoDB hosting service': 'Leer meer over MongoDB hosting service'
+here: hier
+'MongoDB Services': 'MongoDB Services'
+Shortcuts: Shortcuts
+Disk: Disk
+edit: bewerk
+'Add System User': 'Toevegen System Gebruiker'
+'Change timezone': 'Verander tijdzone'
+'Set time zone': 'Zet tijd zone'
+LOADING: LADEN
+Change: Verander
+'you should': 'u moet'
+'configure your monitors': 'uw monitors configureren'
+'Alerts History': 'Alarm Geschiedenis'
+'Monitors List': 'Monitors Lijst'
+'Are you sure you want to': 'Weet u zeker dat u'
+Information: Informatie
+Diagnostics: Diagnostiek
+diagnostics: diagnostiek
+'Real Time': 'Real Time'
+'Every Hour': 'Elk uur'
+Announcements: Mededeling
+Alerts: Alarm
+'Critical Alerts': 'Kritisch Alarm'
+Reports: Rapportages
+'There are no messages in your inbox': 'Er zijn geen berichten in uw inbox'
+'There are no new messages in your inbox': 'Er zijn geen nieuwe berichten in uw inbox'
+'Give us some feedback!': 'Geef ons feedback!'
+'Open a ticket': 'Open een ticket'
+System: Systeem
+Monitoring: Monitoring
+'There are no invoices': 'Er zijn geen facturen'
+'There are no unpaid invoices': 'Er zijn geen onbetaalde facturen'
+Unpaid: Onbetaald
+Paid: Betaald
+Cancelled: Geanulleerd
+Stopped: Gestopt
+Running: Draaiend
+N/A: N/A
+'Web Servers': 'Web Servers'
+'DNS Servers': 'DNS Servers'
+'Unix Services': 'Unix Services'
+'Database Servers': 'Database Servers'
+'Programming Languages': 'Programmeer Talen'
+Frameworks: Frameworks
+'Apache Modules': 'Apache Modules'
+'Virtual Hosts': 'Virtuele Hosts'
+'Virtual Host': 'Virtuele Host'
+'File Name': 'Bestandsnaam'
+'Reset Root Password': 'Herstel Root Wachtwoord'
+'Enter new MySQL root password': 'Voer een nieuwe MySQL root wachtwoord in'
+'Confirm new password': 'Bevestig nieuwe wachtwoord'
+'Force reset - stop the server and start it with the init-file option': 'Geforceerde herstart - stop de server en start met de init-file optie'
+'The temporary file will be deleted as soon as the reset process is done': 'Het tijdelijk bestand zal verwijderd worden zodra de reset-procedure is afgerond'
+'Store password in': 'Bewaar wachtwoord in '
+'this allows our CP to access MySQL for management purposes only': 'hierdoor kan ons controle paneel MySQL bereiken voor beheer redenen'
+'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.': 'Indien uw applicaties met de MySQL server verbind via het root wachtwoord, dan zullen deze niet meer werken. U dient uw applicatie configuratie aan te passen met het nieuwe wachtwoord.'
+'Please enter a password': 'Geef een wachtwoord'
+'Password does not match': 'Wachtwoorden komen niet overeen'
+'You are about to change the MySQL root password. Are you sure this is what you want to do?':  'U staat op het punt om het MySQL root wachtwoord te veranderen. Weet u zeker dat u dit wilt doen?'
+'Read more': 'Lees meer'
+Saving: Opslaan
+'Extended Status': 'Uitgebreide Status'
+'Process List': 'Process Lijst'
+'Server Variables': 'Server Variabelen'
+'All current and future servers': 'Alle huidigen en toekomstige servers'
+Monthly: Maandelijks
+Semiannually: Halfjaarlijks
+Annually: Jaarlijks
+online: online
+system: systeem
+memory: geheugen
+'disk space': 'disk ruimte'
+Back: Terug
+'Live Stats': 'Live Stats'
+'Adding domain': 'Toevoegen domein'
+'Enable Services': 'Inschakelen Services'
+'DNS Service': 'DNS Service'
+'Email Service': 'Email Service'
+Domain: Domein
+Expiration: Expiration
+Emails: Emails
+'Add an email account': 'Add an e-mailaccount'
+'6 characters minimum': 'minimaal 6 karakters'
+Off: Uit
+On: Aan
+'CLI path': 'CLI pad'
+'ServerGrove Control Panel Mobile': 'ServerGrove Mobiel Controle Paneel'
+'An internal system error has occurred. We have been notified and we will resolve this problem as soon as possible. Feel free to open a support ticket to follow up with us.': 'Er heeft zich een interne systeem fout opgetreden. We zijn hiervan op de hoogte en zullen dit probleem zo snel mogelijk proberen op te lossen. U kunt indien nodig een support ticket openen om hierover vragen te stellen.'
+'Invalid invoice number': 'Ongeldig factuur nummer'
+'There is no credit card on file. Please enter one now so we can process your credit card.': 'Er zijn geen creditkaart gegevens bekend. Voer deze gegevens in.'
+'Your payment has been processed!': 'Uw betaling is verwerkt!'
+'An error occurred while processing your payment': 'Er is een fout opgetreden tijdens de verwerking van uw betaling'
+'An error occurred while updating the credit card.': 'Er is een fout opgetreden tijdens het bijwerken van uw creditkaart.'
+'Invalid expiration date': 'Ongeldige verval datum'
+'Please enter only numbers. No spaces, dashes, etc.': 'Voer alleen nummer in. Geen spaties, streepjes, etc.'
+'Invalid credit card number. Please check the number and try again.': 'Ongeldig creditkaart nummer. Controleer het nummer en probeer opnieuw.'
+'Credit card has been updated. You are being redirected to the invoices list': 'Creditkaart gegevens zijn bijgewerkt. U wordt nu doorgestuurd naar de factuur lijst'
+'The Email service on this domain is disabled and you have email accounts which means that the email accounts will not receive or send any messages. To enable the Email service, click on the On/Off switch.': 'De Email service voor dit domein is uitgeschakeld maar u heeft actieve email accounts. Dit betekend dat deze email accounts geen berichten kunnen ontvangen of versturen. Om de email service in te schakelen, klik op de Aan/Uit knop.'
+'Note could not be saved': 'Notitie kan niet bewaard worden'
+'Note has been saved': 'Notitie is bewaard'
+'Note not found.': 'Notitie niet gevonden.'
+'Could not find product pricing information': 'Product informatie niet gevonden'
+'Your server has been suspended. Please contact Customer Support.': 'Uw server is tijdelijk uitgeschakeld. Neem contact op met de klantenservice.'
+'There is a problem with your server. Please contact Customer Support': 'Er heeft zich een probleem opgetreden met uw server. Neem contact op met de klantenservice'
+'Authentication failed': 'Authenticatie is mislukt'
+'Anti-CSRF protection triggered. Please reload the page and try again.': 'Anti-CSRF beveiliging is actief. Herlaad de pagina en probeer opnieuw.'
+'Account is suspended. Please contact customer support.': 'Account is tijdelijk uitgeschakeld. Neem contact op met de klantenservice.'
+'Password request not found. Please check the link that was sent. The request may have expired so try requesting a new one.': 'Wachtwoord herstel verzoek is niet. gevonden Controleer de link. Het verzoek kan verlopen zijn. In dat geval kunt u een nieuw wachtwoord reset verzoek indienen.'
+'An error has occurred.': 'Er is een fout opgetreden.'
+'This password reset has been already used.': 'Dit wachtwoord herstel verzoek is al gebruikt.'
+'This password reset has expired.': 'Dit wachtwoord herstel verzoek is verlopen.'
+'Password confirmation does not match.': 'Wachtwoorden zijn niet gelijk.'
+'Password length must be at least 6 characters.': 'De lengte van een wachtwoord moet ten minste 6 karakters zijn.'
+'Username is not correct for this password request.': 'De gebruikersnaam voor dit wachtwoord herstel verzoek is foutief.'
+'This message is to confirm that your password has been changed.': 'Uw wachtwoord is aangepast.'
+'ServerGrove Control Panel Password Changed': 'Het ServerGrove Controle Paneel Wachtwoord is veranderd.'
+'A new password has been set Please proceed to the login page.': 'Een nieuw wachtwoord is ingesteld. Ga door om opnieuw hiermee in te loggen.'
+'User not found': 'Gebruiker niet gevonden'
+'User has no valid email. Please contact Customer Support for assistance.': 'Gebruker heeft geen geldige email adres. Neem contact op met de klantenservice voor hulp.'
+'ServerGrove Control Panel Password Reset': 'ServerGrove Controle Paneel Wachtwoord Herstel'
+'A new password has been sent to the email address on file.': 'Een nieuw wachtwoord is verzonden naar het email adres dat bij ons bekend is.'
+'Feedback has been submitted. Thank you very much!': 'Uw feedback is verzonden. Dank hiervoor!'
+'An error occurred while processing your reply.': 'Er is een fout opgetreden tijdens het verwerken van uw antwoord.'
+'Please enter a reply message.': 'Geef een bericht.'
+'Reply received.': 'Antwoord ontvangen.'
+'The ticket has been closed, thank you!': 'Dit ticket is gesloten. Dank u!'
+'Please enter a message.': 'Geef een bericht.'
+'Please enter a subject.': 'Geef een onderwerp.'
+'Invalid Urgency': 'Ongeldige prioriteit'
+'The ticket has been received.': 'Het ticket is ontvangen.'
+'App not found': 'App niet gevonden'
+'App not installed': 'App niet geinstalleerd'
+'has been uninstalled.': 'is verwijderd.'
+'has been installed.': 'is geinstalleerd.'
+'Call not allowed': 'Call niet toegestaan'
+'Request has been queued.': 'Verzoek is verzonden.'
+'Status updated successfully.': 'Status is correct verwerkt.'
+'File saved.': 'Bestand opgeslagen.'
+'Not authenticated': 'Niet geauthenticeerd'
+'Account is disabled.': 'Account is uitgeschakeld.'
+'Client not found': 'Client niet gevonden'
+'Unauthorized access.': 'Ongeauthoriseerde toegang.'
+'Client already has server': 'Client heeft al server'
+'Client does not have server': 'Client heeft geen server'
+'Must provide name': 'Moet naam geven'
+'Client already exists.': 'Client bestaat reeds.'
+'DNS service is not enabled for this domain. Please enable DNS service before trying to manage DNS records.': 'DNS service is niet ingeschakeld voor dit domein. Schakel deze in alvorens u de DNS records wilt beheren.'
+'Record not found': 'Record niet gevonden'
+'DNS record has been removed': 'DNS record is verwijderd'
+'Zone is in read-only mode.': 'Zone is in alleen-lezen modus.'
+'SOA record cannot be deleted': 'SOA record kan niet worden verwijderd'
+'Host Name and value cannot be the same': 'Host Name en waarde kunnen niet gelijk zijn'
+'Address cannot be empty.': 'Adres kan niet leeg zijn.'
+'Host Name must be a valid IP4 or IP6 address': 'Host Name moet een geldig IP4 of IP6 adres zijn'
+'Address must be a valid IP4 address': 'Adres moet een geldig IP4 adres zijn'
+'Address must be a valid IP6 address': 'Adres moet een geldig IP6 adres zijn'
+'TTL must be an number': 'TTL moet een nummer zijn'
+'Priority can only be configured for mail exchanger DNS records': 'Prioriteit kan alleen maar worden gegeven voor mail exchange DNS records'
+'Priority must be an number': 'Prioriteit dient een nummer te zijn'
+'MX DNS records must have a priority': 'MX DNS records moet een prioriteit hebben'
+'DNS record has been added': 'DNS record is toegevoegd'
+'DNS record has been updated': 'DNS record is bewerkt'
+'No zone found for service.': 'geen zone gevonden voor service.'
+'Invalid nameserver': 'Ongeldige nameserver'
+'Domain not found': 'Domein niet gevonden'
+'Domain is an alias. Please use domain/deleteAlias': 'Domain is een alias. Gebruik hiervoor domein/verwijderAlias'
+'Domain is a subdomain. Please use domain/deleteSubdomain': 'Domein is een subdomein. Gebruik hiervoor domein/verwijderSubdomein'
+'Domain has been removed': 'Domein is verwijderd'
+'Invalid format for name': 'Ongeldig formaat voor naam'
+'Domain already exists in system.': 'Domein bestaat reeds in het systeem.'
+'Domain has been added': 'Domein is toegevoegd'
+'Domain has been updated': 'Domein is bewerkt'
+'Domain name not valid.': 'Domein naam is niet geldig.'
+'Domain name not valid.': 'Domein naam is niet geldig.'
+'Parent domain not found': 'Ouder domein niet gevonden'
+'Domain alias has been added': 'Domein alias is toegevoegd'
+'Domain alias has been updated': 'Domein alias is bewerkt'
+'Alias not found': 'Alias niet gevonden'
+'Alias has been removed': 'Alias is niet verwijderd'
+'Domain is not an alias': 'Domein is geen alias'
+'Alias has no parent': 'Alias heeft geen ouder'
+'Subdomain has been added': 'Subdomein is toegevoegd'
+'Subdomain has been updated': 'Subdomein is vernieuwd'
+'A subdomain must match the main domain base name (ie. test.example.com matches example.com)': 'Een subdomein moet gelijk zijn aan de basis van het hoofddomein naam (bv. test.example.com en example.com)'
+'Subdomain not found': 'Subdomein niet gevonden'
+'Subdomain has been removed': 'Subdomein is verwijderd'
+'Domain is not an subdomain': 'Domein is geen subdomein'
+'Subdomain has no parent': 'Subdomein heeft geen ouder'
+'Server not found': 'Server niet gevonden'
+'Service updated successfully.': 'Service succesvol bewerkt.'
+'Could not configure email server': 'Kan de email server niet configureren'
+'Domain is not registered with ServerGrove or has no billing information attached. Please contact Customer support.': 'Domein is niet geregistreerd via ServerGrove of heeft geen toegevoegde factuur informatie. Neem contact op met de klantenservice.'
+'The EPP code has been requested. A email message will be sent to the domain administrator email address.': 'De EPP code is aangevraagd. Een email zal worden verzonden naar het email adres van de domein beheerder.'
+'An error occurred while requesting the EPP code. Please contact Customer support if this problem persists.': 'Er is een fout opgetreden tijdens het aanvragen van de EPP code. Neem contact op met de klantenservice indien dit probleem blijft voordoen.'
+'The domain has been locked': 'Het domein is vergrendeld'
+'The domain has been unlocked': 'Het domein is ontgrendeld'
+'To purchase a domain you require Billing access rights. Please contact the account owner.': 'Om dit domein aan te schaffen dient u toegang te hebben tot facturatie. Neem contact op met de account eigenaar.'
+'Could not determine Client Billing ID. Please contact customer support.': 'Kan de Client Facturatie ID niet vinden. Neem contact op met de klantenservice'
+'tld cannot be empty': 'TLD kan niet leeg zijn'
+'name cannot be empty': 'naam kan niet leeg zijn'
+'Invalid period. Must be between 1 and 5.': 'Ongeldige periode. Deze dient tussen 1 en 5 te liggen.'
+'Domain is available': 'Domein is beschikbaar'
+'Domain is already taken': 'Domein is al bezet'
+'There is no pricing information for this TLD and period.': 'Er is geen prijs informatie voor deze TLS en periode.'
+'Email service is not enabled. Please enable Email service before trying to manage email accounts.': 'Email service is niet ingeschakeld. Schakel deze in voordat u e-mailaccounts gaat beheren.'
+'Username not found': 'Gebruikersnaam niet gevonden'
+'Email Account has been removed': 'E-mailaccount is verwijderd'
+'Autoresponder has been enabled': 'Autoresponder is ingeschakeld'
+'Autoresponder has been disabled': 'Autoresponder is uitgeschakeld'
+'Email Account has been enabled': 'E-mailaccount is ingeschakeld'
+'Email Account has been disabled': 'E-mailaccount is uitgeschakeld'
+'Email Account has been added': 'E-mailaccount is toegevoegd'
+'Email Account has been updated': 'E-mailaccount is bijgewerkt'
+'Password confirmation does not match': 'Wachtwoorden komen niet overeen'
+'New password must be at least 6 characters long.': 'Moet ten minste 6 karakters zijn.'
+'Must provide a password.': 'Moet een wachwoord opgeven.'
+'Username must contain letters, numbers or dot only.': 'Gebruikersnaam moet bestaan uit letter, nummers of een punt.'
+'Username already exists.': 'Gebruikersnaam bestaat reeds.'
+'Redirect has been added': 'Omleiding is toegevoegd'
+'Redirect has been removed': 'Omleiding is verwijderd'
+'Alias has been added': 'Alias is toegevoegd'
+'An address %name% already exists': 'Een adres genaamd %name% bestaat reeds'
+'Alias %name% already exists': 'Alias %name% bestaat reeds'
+'Alias %name% does not exist': 'Alias %name% bestaat niet'
+'API Key is disabled': 'API sleutel is uitgeschakeld'
+'Invalid API Key': 'Ongeldige API sleutel'
+'Message not found': 'Bericht niet gevonden'
+'Must specify a database name': 'Moet een database naam opgeven'
+'Database named "%name%" created successfully!': 'Database genaamd "%name%" is succesvol aangemaakt!'
+'Database named "%name%" dropped successfully!': 'Database genaamd "%name%" is succesvol verwijderd!'
+'Collection named "%name%" created successfully!': 'Collectie genaamd "%name%" is succesvol aangemaakt!'
+'Collection named "%name%" dropped successfully!': 'Collectie genaamd "%name%" is succesvol verwijderd!'
+'Cloned collection named "%name%" to "%new%" successfully!': 'Collectie genaamd "%name%" is succesvol gecloned naar "%new%"!'
+'Index named "%name%" created successfully!': 'Index genaamd "%name%" successvol aangemaakt!'
+'Index named "%name%" deleted successfully!': 'Index genaamd "%name%" successvol verwijderd!'
+'Must specify a username': 'Moet een gebruikersnaam opgeven'
+'Must specify a password': 'Moet een wachtwoord opgeven'
+'Created %readonly% user named "%name%" successfully!': '%readonly% gebruiker genaamd "%name%" succesvol aangemaakt!'
+'Updated %readonly% user named "%name%" successfully!': '%readonly% gebruiker genaamd "%name%" succesvol bewerkt!'
+'Deleted user named "%name%" successfully!': 'Gebruiker "%name%" succesvol verwijderd!'
+'Created document in "%dbname%.%collname%" successfully!': 'Document in "%dbname%.%collname%" succesvol aangemaakt!'
+'Updated document in "%dbname%.%collname%" with an id of "%id%" successfully!': 'Document in "%dbname%.%collname%" met ID "%id%" succesvol bewerkt!'
+'Deleted document in "%dbname%.%collname%" with an id of "%id%" successfully!': 'Document in "%dbname%.%collname%" met ID "%id%" succesvol verwijderd!'
+'Cloned document in "%dbname%.%collname%" with an id of "%id%" successfully!': 'Document in "%dbname%.%collname%" met ID "%id%" succesvol gecloned!'
+'Client has not access to server': 'Client heeft geen toegang tot de server'
+'Server no longer valid': 'Server is niet meer geldig'
+'Server is not online. It cannot be restarted.': 'Server is niet online. Hij kan niet herstart worden.'
+'This server type cannot be rebooted.': 'Deze server kan niet herstart worden.'
+'Server is being restarted.': 'Server wordt herstart.'
+'Server is not offline. It cannot be started.': 'Server is not offline. Hij kan niet gestart worden.'
+'Server is being started.': 'Server wordt gestart.'
+'Server is being stopped. This may take a few minutes due to load.': 'Server wordt gestopt. Dit kan een aantal minuten duren.'
+'To change the server plan you require Billing access rights. Please contact the account owner.': 'Om het server plan te wijziging heeft u facturatie toegang nodig. Neem contact op met de account eigenaar.'
+'Could not determine Server Billing ID. Please contact customer support.': 'Kan geen server facturatie ID vinden. Neem contact op met klantenservice.'
+'Invalid VPS Plan': 'Ongeldig VPS Plan'
+'Server not found in billing system. Please contact customer support.': 'Server niet gevonden in facturatie systeem. Neem contact op met de klantenservice.'
+'Invoice %num% is unpaid. Please pay this invoice before attempting to change the server plan.': 'Factuur %num% is niet betaald. Deze factuur dient betaald te worden alvorens het server plan kan worden gewijzigd.'
+'Plan not found in billing system. Please contact customer support.': 'Plan niet gevonden in het factuursysteem. Neem contact op met de klantenservice.'
+'Server already has plan %name%': 'Server valt al onder plan %name%'
+'Cannot change plan of server.': 'Kan niet het plan van de server wijzigen.'
+'The request to change the server plan has been queued.': 'Het verzoeken om de server plan te wijzigen is ontvangen.'
+'MongoDB Hosting': 'MongoDB Hosting'
+'Failed to fetch invoice.': 'Factuur niet kunnen opvragen.'
+'Please confirm request by setting confirm=yes': 'Bevestig uw aanvraag door confirm=yes'
+'The cancellation request has been received.': 'Uw annuleringsverzoek is ontvangen.'
+'There is another server with hostname %name%': 'Er is al een andere server met hostnaam %name%'
+'Cannot change hostname of server.': 'Kan de hostnaam van de server niet wijzigen.'
+'The request to change the hostname has been queued.': 'Het verzoek om de hostnaam te veranderen is verzonden.'
+'Server is being provisioned already. Please wait for this process to finish.': 'De server word klaargemaakt. Wacht u even totdat dit klaar is.'
+'Invalid template': 'Ongeldig sjabloon'
+'Server Ready': 'Server Klaar'
+'Invalid template.': 'Ongeldig sjabloon.'
+'Invalid template. This template has been deprecated. Please select a new template.': 'Ongeldig sjabloon. Selecteer een nieuw sjabloon.'
+'Your server has been rebuilt and it is ready.': 'Uw server is herbouwt en staat klaar.'
+'Server information:': 'Server informatie:'
+'Server IP''s: %ip%': 'Server IP: %ip%'
+'Hostname: %hostname%': 'Hostnaam: %hostname%'
+'SSH Port %port%': 'SSH Poort: %port%'
+'Cannot change template for server.': 'Kan de sjabloon voor deze server niet wijzigen.'
+'The Reset request has been queued. You will receive an email when the process is complete.': 'Uw reset verzoeken is verzonden. U krijgt een email wanneer het proces is uitgevoerd.'
+'This server type cannot be upgraded.': 'Deze server type kan niet worden geupgrade.'
+'This server type cannot accept commands.': 'Deze server type accepteerd geen opdrachten.'
+'Invalid date': 'Ongeldige datum'
+'The timezone for this server type cannot be changed.': 'De tijdzone voor deze server type kan niet worden gewijzigd.'
+'Timezone not supported': 'Tijdzone is niet ondersteund'
+'Timezone change has been queued.': 'Tijdzone verandering is toegevoegd aan de wachtrij.'
+'Server already has a private IP address': 'Server is al voorzien van een prive IP adres.'
+'No available private IP address was found. Please contact customer support.': 'Er zijn geen beschikbare prive IP addresses gevonden. Neem contact op met de klanten service.'
+'Private IP address added.': 'Prive IP address toegevoegd.'
+'User has been removed.': 'Gebruiker is verwijderd.'
+'User root cannot be removed': 'Gebruiker root kan niet worden verwijderd'
+'User root username cannot be changed': 'Gebruiker root kan niet worden gewijzigd'
+'User has been added': 'Gebruiker is toegevoegd'
+'User has been updated': 'Gebruiker is bijgewerkt'
+'Username must be at least 3 characters long.': 'Gebruikersnaam moet ten minste 3 karakters lang zijn.'
+'Username must contain letters and numbers only.': 'Gebruikersnaam kan alleen maar letter en cijfers bevatten.'
+'You cannot delete yourself.': 'U kunt uwzelf niet verwijderen.'
+'User has no valid email. Please update the user to set an email address.': 'Gebruiker heeft geen geldig email adres. Update het email adres voor deze gebruiker.'
+'A password reset for the ServerGrove VPS Control Panel has been issued for this user.': 'Een wachtwoord herstel voor het ServerGrove VPS Control Panel is voor deze gebruiker aangevraagd.'
+'Invalid email address format.': 'Ongeldig email adres formaat.'
+'A user with this email address already exists in the system.': 'Een gebruiker met dit email adres bestaat al in het systeem.'
+'Invalid user group': 'Ongeldige gebruikers groep'
+'Not allowed to set this group.': 'Het is niet toegestaan om deze groep aan te zetten.'
+'Cannot setup billing access': 'Kan de factuur toegang niet creeeren'
+'Cannot setup Billing settings. Please contact customer support and provide a copy of this message.': 'Kan de factuur instellingen niet creeeren. Neem contact op met de klantenservice en stuur een kopie van dit bericht mee.'
+'Invalid email address destination': 'Ongeld email adres bestemming'
+'destination not found': 'bestemming niet gevonden'
+'Alert configuration not found': 'Alert configuratie niet gevonden'
+'Invalid token': 'Ongeldig token'
+'VirtualHost not found': 'VirtualHost niet gevonden'
+'A redirect for path %path% already exists': 'Een redirect voor pad %path% bestaat reeds'
+'Invalid type.': 'Ongeldig type.'
+'Redirect not found': 'Redirect niet gevonden'
+Hostname: Hostnaam
+'An unexpected error occurred performing this task': 'Er heeft zich een fout voorgedaan tijdens het uitvoeren van deze taak'
+'Switch Domain': 'Wijzig Domein'
+Transfer: Transfer
+'Log Viewer': 'Log Viewer'
+'Web Hosting Status': 'Web Hosting Status'
+'We love feedback!': 'Wij houden van feedback!'
+Comments: Comments
+Send: Verzend
+'Connect DSN': 'Connect DSN'
+'MongoDB Backups': 'MongoDB Backups'
+Backups: Backups
+Previous: Vorige
+Next: Volgende
+'manage indexes': 'beheer indexes'
+'add document': 'document toevoegen'
+'Title Field (name, title, etc.)': 'Titel Veld (naam, titel, etc)'
+Action: Actie
+clone: kloon
+'No documents have been created yet, get started by adding a new document.': 'Er zijn nog geen documenten aangemaakt. U kunt nu beginnen met het aanmaken van een nieuw document.'
+Create: Creeer
+Databases: Databases
+statistics: statistieken
+'Create Index': 'Maak Index'
+'Add Index': 'Index toevoegen'
+Indexes: Indexen
+'Index Name': 'Index Naam'
+optional: optioneen
+'Unique Index': 'Unieke Index'
+'Drop Duplicates': 'Ontdubbel'
+Keys: Sleutels
+'add key': 'sleutel toevegen'
+ASC: ASC
+DESC: DESC
+'Back to Collection': 'Terug naar Collectie'
+Unique: Uniek
+no: nee
+yes: ja
+'No indexes have been created yet, get started by adding a new index.': 'Er zijn nog geen indexes aangemaakt. U kunt beginnen met het aanmaken van een nieuwe index.'
+Collections: Collecties
+Import/Export: Importeer/Exporteer
+Operations: Operaties
+'Connection Codes': 'Connectie Codes'
+'Sample Connection Codes': 'Voorbeeld Connectie Codes'
+'I want to connect to my database using': 'Ik will naar mijn database verbinden via '
+'Select a method to connect from the above pulldown.': 'Selecteer een methode om te verbinden vanuit het veld hierboven.'
+'add collection': 'collectie toevoegen'
+drop: verwijder
+'No collections have been created yet. Get started by adding a new collection.': 'Er zijn nog geen collecties aangemaakt. U kunt beginnen met het aanmaken van een nieuwe collectie.'
+'Add Collection': 'Collectie toevoegen'
+'add database': 'Database toevoegen'
+connect: Verbind
+'No databases have been created yet. You can get started by adding a new database': 'Er zijn nog geen databases aangemaakt. U kunt beginnen met het toevoegen van een nieuwe database'
+'Add Database': 'Database Toevoegen'
+'Database Name': 'Database Naam'
+'Read Only': 'Alleen Lezen'
+'Setup Shared MongoDB Hosting': 'Opzetten Gedeelde MongoDB Hosting'
+'In order to begin using your shared MongoDB hosting account you must setup a database and user!': 'Als u uw gedeelde MongoDB hosting account wilt gebruiken, dient u een database en een gebruiker aan te maken!'
+Setup: Setup
+Switch: Wissel
+in: in
+database: database
+'Browse References': 'Bekjk Referenties'
+'Export Collections': 'Exporteer Collecties'
+'Import Collections': 'Importeer Collecties'
+'Import From MySQL': 'Importeer vanuit MySQL'
+'Choose collection you wish to export': 'Kies de collectie die u wenst te exporteren'
+Export: Exporteer
+'Choose collection you wish to import to': 'Kies de collectie die u wenst te importeren'
+Import: Importeer
+'Enter the information for your MySQL to MongoDB import below': 'Vul de informatie van uw MySQL naar MongoDB import hieronder in'
+'MySQL Host': 'MySQL Host'
+'MySQL Port': 'MySQL Poort'
+'Name of MySQL database to import': 'Naam van de MySQL data die u wilt importeren'
+'Are you sure you want to import from this MySQL database?': 'Weet u zeker dat u wilt importeren vanaf deze MySQL database?'
+'Cursor information': 'Cursor informatie'
+Build: Build
+'System Information': 'System Informatie'
+Master: Master
+'Database Statistics': 'Database Statistieken'
+'Build Information': 'Build Informatie'
+'Plan Info': 'Plan Info'
+'MongoDB Version': 'MongoDB Versie'
+change: wijzig
+'IP Address': 'IP Adres'
+'connection info': 'connectie info'
+'Current Load': 'Huidige Load'
+'Edit MongoDB User': 'Wijzig MongoDB Gebruiker'
+'MongoDB Users': 'MongoDB Gebrukers'
+'add user': 'voeg gebruiker toe'
+'No users have been created yet.': 'Er zijn nog geen gebruikers aangemaakt.'
+'Add a new user': 'Voeg nieuwe gebruiker toe'
+'This record already exists as %type% record': 'Dit record bestaat al als een %type% record'
+'The value must be a valid A record': 'De waarde moet een geldig A record bevatten'
+'Secure Site / SSL': 'Beveiligde Site / SSL'
+'A CNAME record must point to an existing DNS record': 'Een CNAME moet wijzen naar een bestaand DNS record'
+'Mail server': 'Mail Server'
+'The mail server host': 'De mail server host'
+'The connection port': 'De connectie poort'
+'Your email account username': 'Uw e-mailaccount gebruikersnaam'
+'Your email account password': 'Uw e-mailaccount wachtwoord'
+'Import Email Account': 'Importeer E-mailaccount'
+'Import process has started.': 'Het Importeer proces is gestart.'
+'An error occurred trying to connect to the remote host (%host%): %message%': 'Er is een fout opgetreden tijdens het verbinden met de host (%host%): %message%'
+'Invalid path': 'Incorrect pad'
+'Invalid URL': 'Incorrecte URL'
+'Loading more messages': 'Laden van meer berichten'
+'There are no more messages in your inbox': 'Er zijn geen berichten in uw inbox'
+'The settings has been copied to your clipboard': 'De instellingen zijn gekopieerd naar uw clipboard'
+'New password must contain at least 1 number or symbol.': 'Must bestaat uit ten minste 1 nummer of symbool.'
+'New password must contain at least 1 uppercase character.': 'Moet bestaan uit ten minste 1 hoofdletter.'
+'New password and confirmation must be the same.': 'Wachtwoord is niet gelijk.'
+'Are you sure you want to unlock this domain?': 'Weet u zeker dat u dit domein wilt unlocken?'
+'Are you sure you want to lock this domain?': 'Weet u zeker dat u dit domein wilt locken?'
