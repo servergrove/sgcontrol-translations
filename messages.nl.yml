@@ -46,7 +46,7 @@ Help: Help
 'Allow access to Billing information': 'Sta toegang tot factuur informatie toe'
 'Allow access to Support tickets': 'Sta toegang tot support vragen toe'
 'Account Holder': 'Account houder'
-'is unpaid. In order to upgrade/downgrade your server you must':'is onbetaald. Om uw server te up- of downgraden, moet u'
+'is unpaid. In order to upgrade/downgrade your server you must': 'is onbetaald. Om uw server te up- of downgraden, moet u'
 'pay this invoice': 'deze factuur betalen'
 Email: Email
 Password: Wachtwoord
@@ -389,7 +389,7 @@ Monitors: Monitors
 'Are you sure you want to reset your VPS?': 'Weet u zeker dat u uw VPS wilt herstarten?'
 'Current Operating System': 'Huidige Besturings Systeem'
 'New root password': 'Nieuw root wachtwoord'
-'Your server will go offline while it is being rebuilt. You will receive an email when the process is complete. It may take between 1 and 15 minutes depending on how busy the deployment servers are. Please do not try to issue multiple "Rebuild" operations.': 'Uw server zal offline gaan tijdens de herbouw. U ontvangt een email zodra het process klaar is. Dit kan tussen de 1 en 15 minuten duren afhankelijk van hoe druk onze servers zijn. Probeer niet meerdere 'herbouw' operaties te starten tijdens dit process.'
+'Your server will go offline while it is being rebuilt. You will receive an email when the process is complete. It may take between 1 and 15 minutes depending on how busy the deployment servers are. Please do not try to issue multiple "Rebuild" operations.': 'Uw server zal offline gaan tijdens de herbouw. U ontvangt een email zodra het process klaar is. Dit kan tussen de 1 en 15 minuten duren afhankelijk van hoe druk onze servers zijn. Probeer niet meerdere "herbouw" operaties te starten tijdens dit process.'
 '%server%''s Terminal': '%server%''s Terminal'
 Terminal: Terminal
 'The SSH terminal is a Java Applet and is a 4MB download.': 'De SSH terminal is een Java Applet en is een 4MB grote download.'
@@ -487,10 +487,10 @@ Whois: Whois
 '%domain% DNS Settings': '%domain% DNS Instellingen'
 'DNS Service Status': 'DNS Service Status'
 'Add DNS Record': 'Voeg DNS Record toe'
-'Resetting the DNS zone will erase all the current records and create the default ones. Are you sure you want to reset and erase all records?':'Herstellen van de DNS zone zal alle huidige records verwijderen en vervangen voor de standaard instellingen. Weet u zeker dat u dit wilt doen?'
+'Resetting the DNS zone will erase all the current records and create the default ones. Are you sure you want to reset and erase all records?': 'Herstellen van de DNS zone zal alle huidige records verwijderen en vervangen voor de standaard instellingen. Weet u zeker dat u dit wilt doen?'
 'Reset DNS Zone': 'Herstel DNS Zone'
 'Setup Google Apps DNS': 'Setup Google Apps DNS'
-'DNS service is currently disabled. Please enable the DNS service with the checkbox on the left section in order to manage the DNS records of this domain.':'DNS service is op dit moment uitgeschakeld. Schakel de DNS service in via de checkbox aan de linkerkant om DNS records voor dit domein te beheren.'
+'DNS service is currently disabled. Please enable the DNS service with the checkbox on the left section in order to manage the DNS records of this domain.': 'DNS service is op dit moment uitgeschakeld. Schakel de DNS service in via de checkbox aan de linkerkant om DNS records voor dit domein te beheren.'
 Records: Records
 'No records found.': 'Geen records gevonden.'
 'Are you sure you want to remove this record?': 'Weet u zeker dat u dit record wilt verwijderen?'
@@ -560,7 +560,7 @@ Records: Records
 'Submitting order': 'Order wordt ingedient'
 Upgrade/Downgrade: Upgrade/Downgrade
 'Change Plan': 'Verander Plan'
-'You can upgrade / downgrade your plan without even rebooting your VPS. The memory and disk allocation will be updated while your system is online. Your files and settings will not be touched. <u>There will be no downtime</u>':'U kunt uw plan up- of downgraden zonder uw VPS te herstarten. Geheugen en schijfruimte zullen worden geupdate terwijl uw systeem online is. Uw bestanden en instellingen zullen niet worden gewijzigd. <u>Er is geen downtime</u>'
+'You can upgrade / downgrade your plan without even rebooting your VPS. The memory and disk allocation will be updated while your system is online. Your files and settings will not be touched. <u>There will be no downtime</u>': 'U kunt uw plan up- of downgraden zonder uw VPS te herstarten. Geheugen en schijfruimte zullen worden geupdate terwijl uw systeem online is. Uw bestanden en instellingen zullen niet worden gewijzigd. <u>Er is geen downtime</u>'
 'This server has no billing information attached': 'Deze server is niet gekoppeld aan factuur informatie'
 'Your credit card has expired!': 'Uw creditkaart is verlopen!'
 'Your credit card is about to expire': 'Uw creditkaart staat op het punt om te verlopen'
@@ -580,8 +580,7 @@ Upgrade/Downgrade: Upgrade/Downgrade
 'Expiration Date': 'Verloop Datum'
 'Update credit card information': 'Hernieuw creditkaart informatie'
 'Enter Credit Card Number': 'Geef Creditkaart nummer'
-'If you want to send bulk emails please use your local email server on your VPS. Here''s how':
-'Indien u bulk email wilt versturen, gebruik dan uw lokale email server op uw VPS. Hier is hoe u dat doet'
+'If you want to send bulk emails please use your local email server on your VPS. Here''s how': 'Indien u bulk email wilt versturen, gebruik dan uw lokale email server op uw VPS. Hier is hoe u dat doet'
 'I want to send email using using': 'Ik wil email verzenden via'
 'Select a method to send email from the above pulldown': 'Selecteer een methode om email te verzenden in bovenstaand menu'
 'If you are using Outlook, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings': 'Indien u Outlook, Thunderbird, Mac Mail App, Sparrow of een soortgelijke email client gebruikt, dan zijn dit uw email configuratie instellingen'
