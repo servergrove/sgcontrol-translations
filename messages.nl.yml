@@ -35,7 +35,7 @@ Current: Huidig
 'Billing Address must match the address on the credit card statement': 'Factuur adres moet gelijk zijn aan het adres op de creditkaart'
 'New User': 'Nieuwe Gebruiker'
 'This server is off. Please boot up to start using it.': 'Deze server staat uit. Start deze server om ermee te kunnen werken.'
-'spam filter directions': 'Dit forumlier staat je toe om de filter instellingen aan te passen voor uw anti-spam service. De score filtert de inhoud en kan worden ingesteld van 1 tot 10, waar 1 de meest gevoelige waarde is. De aangerade waardes zijn tussen de 5 en 7. Whitelist en blacklists stelt u in staat om emails door het filter door te laten of tegen te houden. Geef 1 email per regel op. Om een heel domein te whitelisten of te blacklisten kunt u gebruik maken van *@domein.com.'
+'spam filter directions': 'Dit formulier staat je toe om de filter instellingen aan te passen voor uw anti-spam service. De score filtert de inhoud en kan worden ingesteld van 1 tot 10, waar 1 de meest gevoelige waarde is. De aangerade waardes zijn tussen de 5 en 7. Whitelist en blacklists stelt u in staat om emails door het filter door te laten of tegen te houden. Geef 1 email per regel op. Om een heel domein te whitelisten of te blacklisten kunt u gebruik maken van *@domein.com.'
 Help: Help
 'Enter First Name': 'Geef uw voornaam'
 'Enter Last Name': 'Geef uw achternaam'
@@ -585,7 +585,7 @@ Upgrade/Downgrade: Upgrade/Downgrade
 'Select a method to send email from the above pulldown': 'Selecteer een methode om email te verzenden in bovenstaand menu'
 'If you are using Outlook, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings': 'Indien u Outlook, Thunderbird, Mac Mail App, Sparrow of een soortgelijke email client gebruikt, dan zijn dit uw email configuratie instellingen'
 'Incoming Mail Server (IMAP)': 'Inkomende Mail Server (IMAP)'
-'Go to account settings, create a new account': 'Ga naar uw account instellingen, creeer nieuwe account'
+'Go to account settings, create a new account': 'Ga naar uw account instellingen, creëer nieuwe account'
 'Enter your name, email and password as requested': 'Geef uw naam, email en wachtwoord zoals gevraagd'
 'Select IMAP': 'Selecteer IMAP'
 'full username + domain is required': 'volledige gebruikersnaam + domein is noodzakelijk'
