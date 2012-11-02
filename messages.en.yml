@@ -24,7 +24,6 @@ Current: Current
 'Forwarding Email': 'Forwarding Email'
 'Post Email': 'Post Email'
 'All Domains': 'All Domains'
-'All Applications': 'All Applications'
 'Contact Support': 'Contact Support'
 'New Collection': 'New Collection'
 'Traffic summary for': 'Traffic summary for'
@@ -193,7 +192,6 @@ Redirects: Redirects
 Phone: Phone
 'EPP code / Authorization key': 'EPP code / Authorization key'
 Request: Request
-'Overview of': 'Overview of'
 'Primary Domain': 'Primary Domain'
 'Registration Information': 'Registration Information'
 'Lock Status': 'Lock Status'
