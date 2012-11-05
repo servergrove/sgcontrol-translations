@@ -165,8 +165,8 @@ Size: Tamanho
 Auto: Automático
 or: ou
 'Total Domains': 'Número de Domínios'
-'Domains with email enabled': 'Domínios com email ativado'
-'Domains with email disabled': 'Domínios com email desativado'
+'Domains with email enabled': 'Domínios com e-mail ativado'
+'Domains with email disabled': 'Domínios com e-mail desativado'
 'Total users': 'Número de usuários'
 'used of': 'utilizados de'
 'Email domain usage': 'Utilização de disco para e-mail'
@@ -231,7 +231,7 @@ Shutdown: Desligar
 Tasks: Tarefas
 stopped: parado
 sleeping: dormindo
-running: correndo
+running: executando
 users: usuários
 'load average': 'carga média'
 Graphic: Gráfico
@@ -295,7 +295,7 @@ Rebuild: Reconstruir
 'Once a week': 'Uma vez por semana'
 'Once a month': 'Uma vez por mês'
 'Monitors keep an eye on your server and send you alerts via email when you reach your limits.': 'Os monitores verificam o seu servidor e enviam alertas por e-mail quando você alcança seus limites.'
-'Disk Storage': Disco
+'Disk Storage': Armazenamento em Disco
 'Email Storage': E-mail
 'Current Plan': 'Plano Atual'
 /monthly: /mensal
@@ -313,7 +313,7 @@ Processes: Processos
 'Add a new VPS': 'Adicionar um novo VPS'
 Timezone: 'Fuso Horário'
 '%server%''s Alerts': 'Alertas para %server%'
-'Unread Alerts': 'Alertas não lidas'
+'Unread Alerts': 'Alertas não lidos'
 'Alerts Archive': 'Arquivo de alertas'
 'Cancel Server': 'Cancelar Servidor'
 'There are no alerts for this server. Alerts are triggered by monitors': 'Não há alertas para este servidor.'
@@ -331,8 +331,8 @@ Timezone: 'Fuso Horário'
 check: verificar
 details: detalhes
 'Network Tests': 'Testes de Rede'
-'Ping your server IP': 'Ping o IP do servidor'
-'Ping your local IP': 'Ping seu IP local'
+'Ping your server IP': 'Ping do IP de seu servidor'
+'Ping your local IP': 'Ping do seu IP local'
 '%server%''s Monitors': 'Monitoramento para %server%'
 Monitors: Monitores
 'Are you sure you want to remove this alert?': 'Tem certeza de que deseja remover este alerta?'
@@ -347,12 +347,12 @@ Terminal: Terminal
 'Load SSH Terminal': 'Carregar o Terminal de SSH'
 '%server%''s Users': 'Usuários para %server%'
 'System Users': 'Usuários do Sistema'
-'Home Directory': 'Diretório Inícial'
+'Home Directory': 'Diretório Inicial'
 'Edit User': 'Editar Usuário'
 'No users': 'Nenhum usuário'
 'New User': 'Novo Usuário'
 'Change Server Hostname': 'Alterar Hostname'
-'Server Hostname (ie. server.example.com)': 'Hostname do servidor (por exemplo. server.example.com)'
+'Server Hostname (ie. server.example.com)': 'Hostname do servidor (ex. server.example.com)'
 'We haven''t heard from you in a while so we stopped the live charts. To reactivate just move your mouse around.': 'Você sumiu? Por isso paramos de atualizar os gráficos. Para reativar basta movimentar o seu mouse.'
 'The System section allows you to monitor and control your system. This is the section you are on right now.': 'A seção Sistema permite monitorar e controlar seu sistema. Esta é a seção na qual você está agora.'
 'The Memory, CPU tab will provide you with information about your system.': 'A seção de memória e CPU guia irá fornecer-lhe informações sobre seu sistema.'
@@ -365,7 +365,7 @@ Terminal: Terminal
 'Our control panel has a simple GUI that allows you to manage the most common applications on your server.': 'Nosso painel de controle tem um GUI simples que permite gerenciar as aplicações mais comuns em seu servidor.'
 'Go to this section to add domains, manage emails, domain aliases, configure hosting, etc..': 'Vá para esta seção para adicionar domínios, configurar contas de e-mail, criar um alias de domínio, configurar hospedagem, etc...'
 'Email settings and information': 'Configurações de contas de email'
-'Diagnostics is an easy way to check the status of your server.': 'Diagnósticos é uma maneira fácil de verificar o status do seu servidor.'
+'Diagnostics is an easy way to check the status of your server.': 'Diagnósticos são uma maneira fácil de verificar o status do seu servidor.'
 'Add, remove and edit system users.': 'Adicionar, remover e editar os usuários do sistema.'
 'Change the timezone on your system.': 'Mudar o fuso horário no seu sistema.'
 'Add or remove RAM and disk space to your server.': 'Adicionar ou remover RAM e armazenagem de disco para o seu servidor.'
@@ -383,7 +383,7 @@ Start: Iniciar
 Stop: Parar
 'Are you sure you want to restart this server?': 'Você tem certeza que deseja reiniciar este servidor?'
 Restart: Reiniciar
-'Updating status, please wait...': 'Actualização do status, por favor aguarde...'
+'Updating status, please wait...': 'Atualização do status, por favor aguarde...'
 'You only need to sync the control panel if you do manual changes to %serverApp% using a SSH client.': 'NOTA: Você só precisa sincronizar o painel de controle, se você fizer alterações manuais ao %serverApp% usando um cliente SSH.'
 'Are you sure you want to uninstall %serverApp%?': 'Tem certeza de que deseja desinstalar %serverApp%?'
 'Scan the server and detect apps that you installed manually': 'Sondar o servidor e detectar aplicativos que você instalou manualmente'
@@ -399,7 +399,7 @@ Applications: Aplicativos
 'My Applications': 'Meus Aplicativos'
 'Sync Apps': 'Sincronizar Apps'
 'New Domain Alias': 'Novo Alias'
-'Domain name': Domínio
+'Domain name': Nome do Domínio
 'Enter Domain Name': 'Digitar Domínio'
 'Enter IP address': 'Digite o endereço IP'
 'Enter mail domain': 'Digite endereço do servidor de correio'
@@ -414,16 +414,16 @@ Applications: Aplicativos
 Subdomain: Subdomínio
 'Edit Virtual Host': 'Editar Host Virtual'
 'Document Root': 'Diretório Base'
-'Document root (ie. /var/www/html)': 'Diretório base (ie. /var/www/html)'
-'Access Log': 'Access Log'
-'Path to Access Log(ie. example.com-access_log)': 'Path to Access Log(ie. example.com-access_log)'
-'Error Log': 'Error Log'
-'Path to Error Log(ie. example.com-error_log)': 'Path to Error Log(ie. example.com-error_log)'
-'Index File': 'Index File'
-'Index file(ie. index.php or index.html)': 'Index file(ie. index.php or index.html)'
-'Custom Directives': 'Custom Directives'
-'.htaccess Support': '.htaccess Support'
-'WWW Redirect': 'WWW Redirect'
+'Document root (ie. /var/www/html)': 'Diretório base (ex. /var/www/html)'
+'Access Log': 'Log de Acesso'
+'Path to Access Log(ie. example.com-access_log)': 'Caminho para o Log de Acesso (ex. example.com-access_log)'
+'Error Log': 'Log de Erro'
+'Path to Error Log(ie. example.com-error_log)': 'Caminho para o Log de Erro (ex. example.com-error_log)'
+'Index File': 'Arquivo Index'
+'Index file(ie. index.php or index.html)': 'Arquivo Index (ex. index.php ou index.html)'
+'Custom Directives': 'Diretivas Personalizadas'
+'.htaccess Support': 'Supoerte .htaccess'
+'WWW Redirect': 'Redirecionamento WWW'
 'My Domains': 'Meus Domínios'
 'Add Domain': 'Adicionar Domínio'
 'Add a domain': 'Adicionar um domínio'
@@ -438,8 +438,8 @@ Whois: Whois
 '%domain% DNS Settings': 'Configurações de DNS para %domain%'
 'DNS Service Status': 'Status do serviço DNS'
 'Add DNS Record': 'Adicionar registro DNS'
-'Resetting the DNS zone will erase all the current records and create the default ones. Are you sure you want to reset and erase all records?': 'Repor a zona de DNS irá apagar todos os registros atuais e criar os registros padrões. Tem certeza que deseja apagar e repor todos os registros?'
-'Reset DNS Zone': 'Reinicializar Zona DNS'
+'Resetting the DNS zone will erase all the current records and create the default ones. Are you sure you want to reset and erase all records?': 'Resetar a zona de DNS irá apagar todos os registros atuais e criar os registros padrões. Tem certeza que deseja apagar e repor todos os registros?'
+'Reset DNS Zone': 'Resetar Zona DNS'
 'Setup Google Apps DNS': 'Configurar o DNS para o Google Apps'
 'DNS service is currently disabled. Please enable the DNS service with the checkbox on the left section in order to manage the DNS records of this domain.': 'Serviço de DNS está desativado. Por favor, habilite o serviço de DNS com a caixa de seleção na seção esquerda, a fim de gerenciar os registros de DNS do domínio.'
 Records: Registros
@@ -458,7 +458,7 @@ Records: Registros
 'Email Service Status': 'Status do serviço de e-mail'
 'Add Email Account': 'Adicionar conta de e-mail'
 'Email service is currently disabled. Please enable the Email service with the checkbox on the left section in order to manage the email accounts for this domain': 'Serviço de e-mail está atualmente desactivado. Por favor, habilite o serviço de e-mail com a caixa de seleção na seção esquerda, a fim de gerenciar as contas de e-mail para este domínio.'
-'Change avatar': 'Mudar photo'
+'Change avatar': 'Alterar o avatar'
 'POP3 Server': 'Servidor POP3'
 'IMAP Server': 'Servidor IMAP'
 'SMTP Server': 'Servidor SMTP'
@@ -482,7 +482,7 @@ Records: Registros
 'Are you sure you want to register this domain?': 'Tem certeza que deseja registrar este domínio?'
 'Domain Aliases': 'Alias de Domínio'
 'Register New Domain': 'Registrar Novo Domínio'
-'Registering domain, please wait': 'Registro de domínio, por favor aguarde...'
+'Registering domain, please wait': 'Registrando o domínio, por favor aguarde...'
 'Registering, please wait': 'Registrando, por favor aguarde...'
 'Domain registration received!': 'Registro de domínio recebido!'
 'The domain has been added to the Control Panel': 'O domínio foi adicionado ao Painel de Controle'
@@ -578,7 +578,7 @@ Secret: Segredo
 'Open New Ticket': 'Abrir um Novo Ticket'
 'Support Ticket': 'Ticket de Suporte'
 'Support Tickets': 'Tickets de Suporte'
-'support tickets': 'ticket de suporte'
+'support tickets': 'tickets de suporte'
 'Your account has no access to Support Tickets. Please ask the account owner to allow access.': 'Sua conta não tem acesso aos Tickets de Suporte. Por favor, peça ao proprietário da conta para permitir o acesso.'
 'Active Tickets': 'Tickets ativos'
 'All Tickets': 'Todos os Tickets'
@@ -593,14 +593,14 @@ ticket: ticket
 'Are you sure you want to close this ticket?': 'Tem certeza que deseja fechar este ticket?'
 'UI tour': Turnê
 'My Servers': 'Meus Servidores'
-Support: Apoio
+Support: Suporte
 Logout: Logout
 Profile: Perfil
-'API Docs': 'Documentação API'
+'API Docs': 'Documentação da API'
 Billing: Cobrança
 Blog: Blog
 'ServerGrove Website': 'Site da ServerGrove'
-Search: Buscar
+Search: Pesquisar
 'View Messages (%messages% new messages)': 'Ver Mensagens (%messages% novas mensagens)'
 'Search Support': 'Pesquisar Documentação de Suporte'
 'View Active': 'Ver Ativos'
@@ -640,7 +640,7 @@ Reports: Relatórios
 'Open a ticket': 'Abra um ticket de suporte'
 System: Sistema
 Monitoring: Monitores
-'There are no invoices': 'Não há notas fiscais'
+'There are no invoices': 'Não há faturas'
 'There are no unpaid invoices': 'Não há faturas não pagas'
 Unpaid: Devido
 Paid: Pagas
@@ -654,7 +654,7 @@ N/A: N/D
 'Database Servers': 'Servidores de banco de dados'
 'Programming Languages': 'Linguagens de Programação'
 Frameworks: Frameworks
-'Apache Modules': 'Modulos Apache'
+'Apache Modules': 'Módulos Apache'
 'Virtual Hosts': 'Virtual Hosts'
 'Virtual Host': 'Virtual Host'
 'File Name': 'Nome do Arquivo'
