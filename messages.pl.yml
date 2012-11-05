@@ -545,37 +545,37 @@ Records: Wpisy
 'Add Subdomain': 'Dodaj Subdomenę'
 'No subdomains': 'Brak subdomen'
 'No redirects': 'Brak przekierowań'
-'Add a protected directory': 'Add a protected directory'
+'Add a protected directory': 'Dodaj zabezpieczony katalog'
 'Requesting rotation of log file': 'Requesting rotation of log file'
-'Are you sure you want to disable the web service?': 'Are you sure you want to disable the web service?'
+'Are you sure you want to disable the web service?': 'Czy na pewno chcesz wyłączyć tę usługę?'
 'Domain Whois': 'Dane Whois Domeny'
 'Whois Result': 'Rezultat Whois'
 'proceed to Paypal': 'przejdź do Paypal'
 'to complete the order': 'abyć ukończyć zamówienie'
-'Please select a plan': 'Prosze wybrać plan'
-'Please select the operating system': 'Please select the operating system'
-'Are you sure you want to order this server?': 'Are you sure you want to order this server?'
+'Please select a plan': 'Proszę wybrać plan'
+'Please select the operating system': 'Proszę wybrać system operacyjny'
+'Are you sure you want to order this server?': 'Czy na pewno chcesz zamówić ten serwer?'
 'Submitting order': 'Wysyłanie zamówienia'
 Upgrade/Downgrade: Upgrade/Downgrade
 'Change Plan': 'Zmień Plan'
 'You can upgrade / downgrade your plan without even rebooting your VPS. The memory and disk allocation will be updated while your system is online. Your files and settings will not be touched. <u>There will be no downtime</u>': 'You can upgrade / downgrade your plan without even rebooting your VPS. The memory and disk allocation will be updated while your system is online. Your files and settings will not be touched. <u>There will be no downtime</u>'
 'This server has no billing information attached': 'This server has no billing information attached'
-'Your credit card has expired!': 'Your credit card has expired!'
-'Your credit card is about to expire': 'Your credit card is about to expire'
-'Update Credit Card': 'Update Credit Card'
-'update credit card': 'update credit card'
-'Invoices for': 'Invoices for'
-'Unpaid Invoices': 'Unpaid Invoices'
-'Show All Invoices': 'Show All Invoices'
-'Invoice num': 'Invoice #'
-'Date Paid': 'Date Paid'
+'Your credit card has expired!': 'Twoja karta kredytowa wygasła!'
+'Your credit card is about to expire': 'Twoja karta kredytowa nie długo wygaśnie'
+'Update Credit Card': 'Zaktualizuj Kartę Kredytową'
+'update credit card': 'zaktualizuj kartę kredytową'
+'Invoices for': 'Faktury dla'
+'Unpaid Invoices': 'Niezapłacone Faktury'
+'Show All Invoices': 'Pokaż Wszystkie Faktury'
+'Invoice num': 'Faktura #'
+'Date Paid': 'Data Zapłacenia'
 'Your account has no access to billing information. Please ask the account owner to allow access.': 'Your account has no access to billing information. Please ask the account owner to allow access.'
 'Your account has no associated billing information. Please open a support ticket so we can correct this issue.': 'Your account has no associated billing information. Please open a support ticket so we can correct this issue.'
-'Credit Card Information': 'Credit Card Information'
+'Credit Card Information': 'Informacje o Karcie Kredytowej'
 'Current credit card on file': 'Current credit card on file'
-'Card Type': 'Card Type'
-'Card Number': 'Card Number'
-'Expiration Date': 'Expiration Date'
+'Card Type': 'Typ Karty'
+'Card Number': 'Numer Karty'
+'Expiration Date': 'Data Wygaśnięcia'
 'Update credit card information': 'Update credit card information'
 'Enter Credit Card Number': 'Enter Credit Card Number'
 'If you want to send bulk emails please use your local email server on your VPS. Here''s how': 'If you want to send bulk emails please use your local email server on your VPS. Here''s how'
@@ -585,43 +585,43 @@ Upgrade/Downgrade: Upgrade/Downgrade
 'Incoming Mail Server (IMAP)': 'Incoming Mail Server (IMAP)'
 'Go to account settings, create a new account': 'Go to account settings, create a new account'
 'Enter your name, email and password as requested': 'Enter your name, email and password as requested'
-'Select IMAP': 'Select IMAP'
+'Select IMAP': 'Wybierz IMAP'
 'full username + domain is required': 'full username + domain is required'
 'Outgoing Mail Server (SMTP)': 'Outgoing Mail Server (SMTP)'
 'Select SMTP (or outgoing mailserver)': 'Select SMTP (or outgoing mailserver)'
 'Outgoing mail requires authentication': 'Outgoing mail requires authentication'
 'Same as incoming mailserver': 'Same as incoming mailserver'
-'Purchase more disk space': 'Purchase more disk space'
-'Add Note': 'Add Note'
+'Purchase more disk space': 'Zakup więcej miejsca na dysku'
+'Add Note': 'Dodaj Notatkę'
 Notepad: Notepad
 notepad: notepad
-'No notes': 'No notes'
-'Are you sure you want to delete this note?': 'Are you sure you want to delete this note?'
-'Control Panel Users': 'Control Panel Users'
-'control panel users': 'control panel users'
-'Add User': 'Add User'
-'server monitors': 'server monitors'
+'No notes': 'Brak notatek'
+'Are you sure you want to delete this note?': 'Czy na pewno chcesz usunąć tę notatkę?'
+'Control Panel Users': 'Panel Kontrolny Użytkowników'
+'control panel users': 'panel kontrolny użytkowników'
+'Add User': 'Dodaj Użytkownika'
+'server monitors': 'monitory serwera'
 Inbox: Inbox
-'Unread Messages': 'Unread Messages'
-'Messages Archive': 'Messages Archive'
-'mark all as read': 'mark all as read'
-'Mark as read': 'Mark as read'
-'User Profile': 'User Profile'
-'User Profile for': 'User Profile for'
-'My Profile': 'My Profile'
-'Edit Profile': 'Edit Profile'
-'Send Reset Password Email': 'Send Reset Password Email'
-'Access Control': 'Access Control'
+'Unread Messages': 'Nieprzeczytane Wiadomości'
+'Messages Archive': 'Archiwum Wiadomości'
+'mark all as read': 'oznacz wszystkie jako przeczytane'
+'Mark as read': 'Oznacz jako przeczytane'
+'User Profile': 'Profil Użytkownika'
+'User Profile for': 'Profil Użytkownika'
+'My Profile': 'Mój Profil'
+'Edit Profile': 'Edytuj Profil'
+'Send Reset Password Email': 'Wyślij E-mail z Resetem Hasła'
+'Access Control': 'Kontrola Dostępu'
 'Billing Access': 'Billing Access'
 'Support Access': 'Support Access'
-'Server Access': 'Server Access'
-'There are no users': 'There are no users'
-'Are you sure you want to remove this user?': 'Are you sure you want to remove this user?'
-'Are you sure you want to reset the password for this user?': 'Are you sure you want to reset the password for this user?'
-'Enable API Key': 'Enable API Key'
-'API Key': 'API Key'
-Key: Key
-Secret: Secret
+'Server Access': 'Dostęp do Serwera'
+'There are no users': 'Brak użytkowników'
+'Are you sure you want to remove this user?': 'Czy na pewno chcesz usunąć tego użytkownika?'
+'Are you sure you want to reset the password for this user?': 'Czy na pewno chcesz zresetować hasło dla tego użytkownika?'
+'Enable API Key': 'Włącz Klucz API'
+'API Key': 'Klucz API'
+Key: Klucz
+Secret: Sekret
 'Open New Ticket': 'Open New Ticket'
 'Support Ticket': 'Support Ticket'
 'Support Tickets': 'Support Tickets'
@@ -633,119 +633,119 @@ Secret: Secret
 'There are no support tickets.': 'There are no support tickets.'
 ticket: ticket
 'View Ticket': 'View Ticket'
-'Add reply': 'Add reply'
+'Add reply': 'Dodaj odpowiedź'
 'Close Ticket': 'Close Ticket'
 'ServerGrove Staff': 'ServerGrove Staff'
-'Add Reply to Ticket': 'Add Reply to Ticket'
-'Are you sure you want to close this ticket?': 'Are you sure you want to close this ticket?'
+'Add Reply to Ticket': 'Dodaj Odpowiedź do Pytania'
+'Are you sure you want to close this ticket?': 'Czy na pewno chcesz zamknąć to pytanie?'
 'UI tour': 'UI tour'
-'My Servers': 'My Servers'
+'My Servers': 'Moje Serwery'
 Support: Support
-Logout: Logout
-Profile: Profile
-'API Docs': 'API Docs'
-Billing: Billing
+Logout: Wyloguj
+Profile: Profil
+'API Docs': 'Dokumentacja API'
+Billing: Rozliczenia
 Blog: Blog
-'ServerGrove Website': 'ServerGrove Website'
-Search: Search
-'View Messages (%messages% new messages)': 'View Messages (%messages% new messages)'
+'ServerGrove Website': 'Strona ServerGrove'
+Search: Szukaj
+'View Messages (%messages% new messages)': 'Zobacz Wiadomości (%messages% nowych wiadomości)'
 'Search Support': 'Search Support'
-'View Active': 'View Active'
-'View All': 'View All'
-'VPS Services': 'VPS Services'
-Refreshing...: Refreshing...
-manage: manage
-'Add a MongoDB server': 'Add a MongoDB server'
+'View Active': 'Zobacz Aktywne'
+'View All': 'Zobacz Wszystkie'
+'VPS Services': 'Usługi VPS'
+Refreshing...: Odświerzanie...
+manage: zarządzaj
+'Add a MongoDB server': 'Dodaj serwer MongoDB'
 'Learn more about our MongoDB hosting service': 'Learn more about our MongoDB hosting service'
-here: here
-'MongoDB Services': 'MongoDB Services'
+here: tutaj
+'MongoDB Services': 'Usługi MongoDB'
 Shortcuts: Shortcuts
-Disk: Disk
-edit: edit
-'Add System User': 'Add System User'
-'Change timezone': 'Change timezone'
-'Set time zone': 'Set time zone'
-LOADING: LOADING
-Change: Change
-'you should': 'you should'
-'configure your monitors': 'configure your monitors'
+Disk: Dysk
+edit: edytuj
+'Add System User': 'Dodaj Użytkownika Systemowego'
+'Change timezone': 'Zmień strefę czasową'
+'Set time zone': 'Ustaw strefę czasową'
+LOADING: ŁADOWANIE
+Change: Zmień
+'you should': 'powinieneś'
+'configure your monitors': 'skonfiguruj swoje monitory'
 'Alerts History': 'Alerts History'
-'Monitors List': 'Monitors List'
-'Are you sure you want to': 'Are you sure you want to'
-Information: Information
-Diagnostics: Diagnostics
-diagnostics: diagnostics
-'Real Time': 'Real Time'
-'Every Hour': 'Every Hour'
-Announcements: Announcements
-Alerts: Alerts
-'Critical Alerts': 'Critical Alerts'
-Reports: Reports
-'There are no messages in your inbox': 'There are no messages in your inbox'
-'There are no new messages in your inbox': 'There are no new messages in your inbox'
-'Give us some feedback!': 'Give us some feedback!'
+'Monitors List': 'Lista Monitorów'
+'Are you sure you want to': 'Czy na pewno chcesz'
+Information: Informacje
+Diagnostics: Diagnostyka
+diagnostics: diagnostyka
+'Real Time': 'Na Żywo'
+'Every Hour': 'Co Godzinę'
+Announcements: Ogłoszenia
+Alerts: Ostrzeżenia
+'Critical Alerts': 'Krytyczne Ostrzeżenia'
+Reports: Raporty
+'There are no messages in your inbox': 'Nie masz żadnych wiadomości'
+'There are no new messages in your inbox': 'Nie masz żadnych nowych wiadomości'
+'Give us some feedback!': 'Wyraź swoją opinię!'
 'Open a ticket': 'Open a ticket'
 System: System
 Monitoring: Monitoring
-'There are no invoices': 'There are no invoices'
-'There are no unpaid invoices': 'There are no unpaid invoices'
-Unpaid: Unpaid
-Paid: Paid
-Cancelled: Cancelled
-Stopped: Stopped
-Running: Running
+'There are no invoices': 'Brak faktury'
+'There are no unpaid invoices': 'Brak nie zapłaconych faktur'
+Unpaid: 'Nie Zapłacone'
+Paid: Zapłacone
+Cancelled: Anulowane
+Stopped: Zatrzymane
+Running: Uruchomione
 N/A: N/A
-'Web Servers': 'Web Servers'
-'DNS Servers': 'DNS Servers'
-'Unix Services': 'Unix Services'
-'Database Servers': 'Database Servers'
-'Programming Languages': 'Programming Languages'
-Frameworks: Frameworks
-'Apache Modules': 'Apache Modules'
+'Web Servers': 'Web Serwery'
+'DNS Servers': 'Serwery DNS'
+'Unix Services': 'Usługi Unix'
+'Database Servers': 'Usługi Bazy Danych'
+'Programming Languages': 'Języki Programowania'
+Frameworks: Frameworki
+'Apache Modules': 'Moduły Apache'
 'Virtual Hosts': 'Virtual Hosts'
 'Virtual Host': 'Virtual Host'
-'File Name': 'File Name'
-'Reset Root Password': 'Reset Root Password'
-'Enter new MySQL root password': 'Enter new MySQL root password'
-'Confirm new password': 'Confirm new password'
+'File Name': 'Nazwa Pliku'
+'Reset Root Password': 'Zresetuj Hasło Rootu'
+'Enter new MySQL root password': 'Wpisz nowe hasło rootu dla MySQL'
+'Confirm new password': 'Potwierdź nowe hasło'
 'Force reset - stop the server and start it with the init-file option': 'Force reset - stop the server and start it with the init-file option'
 'The temporary file will be deleted as soon as the reset process is done': 'The temporary file will be deleted as soon as the reset process is done'
-'Store password in': 'Store password in'
+'Store password in': 'Zapisz hasło w'
 'this allows our CP to access MySQL for management purposes only': 'this allows our CP to access MySQL for management purposes only'
 'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.': 'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.'
-'Please enter a password': 'Please enter a password'
-'Password does not match': 'Password does not match'
+'Please enter a password': 'Proszę wpisać hasło'
+'Password does not match': 'Hasła nie są identyczne'
 'You are about to change the MySQL root password. Are you sure this is what you want to do?': 'You are about to change the MySQL root password. Are you sure this is what you want to do?'
-'Read more': 'Read more'
-Saving: Saving
-'Extended Status': 'Extended Status'
-'Process List': 'Process List'
-'Server Variables': 'Server Variables'
-'All current and future servers': 'All current and future servers'
-Monthly: Monthly
-Semiannually: Semiannually
-Annually: Annually
+'Read more': 'Czytaj dalej'
+Saving: Zapisywanie
+'Extended Status': 'Rozszerz Status'
+'Process List': 'Lista Procesów'
+'Server Variables': 'Zmienne Serwera'
+'All current and future servers': 'Wszystkie obecne i przyszłe serwery'
+Monthly: Miesięcznie
+Semiannually: 'Co pół roku'
+Annually: Rocznie
 online: online
 system: system
-memory: memory
-'disk space': 'disk space'
-Back: Back
-'Live Stats': 'Live Stats'
-'Adding domain': 'Adding domain'
-'Enable Services': 'Enable Services'
-'DNS Service': 'DNS Service'
-'Email Service': 'Email Service'
-Domain: Domain
-Expiration: Expiration
-Emails: Emails
-'Add an email account': 'Add an email account'
-'6 characters minimum': '6 characters minimum'
-Off: Off
-On: On
-'CLI path': 'CLI path'
+memory: pamięć
+'disk space': 'pojemność dysku'
+Back: Powrót
+'Live Stats': 'Statystyki Na Żywo'
+'Adding domain': 'Dodawanie domeny'
+'Enable Services': 'Włącz Usługi'
+'DNS Service': 'Usługa DNS'
+'Email Service': 'Usługa E-mail'
+Domain: Domena
+Expiration: Wygaśnięcie
+Emails: E-maile
+'Add an email account': 'Dodaj konto e-mail'
+'6 characters minimum': 'minimum 6 znaków'
+Off: Wyłącz
+On: Włącz
+'CLI path': 'Ścieżka CLI'
 'ServerGrove Control Panel Mobile': 'ServerGrove Mobile Control Panel'
 'An internal system error has occurred. We have been notified and we will resolve this problem as soon as possible. Feel free to open a support ticket to follow up with us.': 'An internal system error has occurred. We have been notified and we will resolve this problem as soon as possible. Feel free to open a support ticket to follow up with us.'
-'Invalid invoice number': 'Invalid invoice number'
+'Invalid invoice number': 'Nieprawidłowy numer faktury'
 'There is no credit card on file. Please enter one now so we can process your credit card.': 'There is no credit card on file. Please enter one now so we can process your credit card.'
 'Your payment has been processed!': 'Your payment has been processed!'
 'An error occurred while processing your payment': 'An error occurred while processing your payment'
@@ -925,157 +925,157 @@ On: On
 'Cannot change hostname of server.': 'Cannot change hostname of server.'
 'The request to change the hostname has been queued.': 'The request to change the hostname has been queued.'
 'Server is being provisioned already. Please wait for this process to finish.': 'Server is being provisioned. Please wait for this process to finish.'
-'Invalid template': 'Invalid template'
+'Invalid template': 'Nieprawidłowy szablon'
 'Server Ready': 'Server Ready'
-'Invalid template.': 'Invalid template.'
-'Invalid template. This template has been deprecated. Please select a new template.': 'Invalid template. This template has been deprecated, please select a new template.'
+'Invalid template.': 'Nieprawidłowy szablon.'
+'Invalid template. This template has been deprecated. Please select a new template.': 'Nieprawidłowy szablon. Ten szablon jest przestarzały, proszę wybrać inny.'
 'Your server has been rebuilt and it is ready.': 'Your server has been rebuilt and it is ready.'
-'Server information:': 'Server information:'
-'Server IP''s: %ip%': 'Server IP: %ip%'
-'Hostname: %hostname%': 'Hostname: %hostname%'
-'SSH Port %port%': 'SSH Port: %port%'
+'Server information:': 'Informacje o Serwerze:'
+'Server IP''s: %ip%': 'IP Serwera: %ip%'
+'Hostname: %hostname%': 'Nazwa Hosta: %hostname%'
+'SSH Port %port%': 'Port SSH: %port%'
 'Cannot change template for server.': 'Cannot change template for server.'
 'The Reset request has been queued. You will receive an email when the process is complete.': 'The reset request has been queued. You will receive an email when the process is complete.'
 'This server type cannot be upgraded.': 'This server type cannot be upgraded.'
 'This server type cannot accept commands.': 'This server type cannot accept commands.'
-'Invalid date': 'Invalid date'
-'The timezone for this server type cannot be changed.': 'The timezone for this server type cannot be changed.'
-'Timezone not supported': 'Timezone not supported'
-'Timezone change has been queued.': 'Timezone change has been queued.'
-'Server already has a private IP address': 'Server already has a private IP address'
+'Invalid date': 'Nieprawidłowa data'
+'The timezone for this server type cannot be changed.': 'Strefa czasowa tego serwera nie może być zmieniona.'
+'Timezone not supported': 'Strefa czasowa nie jest wspierana'
+'Timezone change has been queued.': 'Zmiana strefa czasowej została zakolejkowana.'
+'Server already has a private IP address': 'Serwer ma już prywatny adres IP'
 'No available private IP address was found. Please contact customer support.': 'No available private IP address was found. Please contact customer support.'
-'Private IP address added.': 'Private IP address added.'
-'User has been removed.': 'User has been removed.'
-'User root cannot be removed': 'User root cannot be removed'
-'User root username cannot be changed': 'User root username cannot be changed'
-'User has been added': 'User has been added'
-'User has been updated': 'User has been updated'
-'Username must be at least 3 characters long.': 'Username must be at least 3 characters long.'
-'Username must contain letters and numbers only.': 'Username must contain letters and numbers only.'
-'You cannot delete yourself.': 'You cannot delete yourself.'
-'User has no valid email. Please update the user to set an email address.': 'User has no valid email. Please update the user to set an email address.'
+'Private IP address added.': 'Prywatny adres IP dodany.'
+'User has been removed.': 'Użytkownik został usunięty.'
+'User root cannot be removed': 'Użytkownik root nie może zostać usunięty'
+'User root username cannot be changed': 'Nazwa użytkownika root nie może zostać zmieniona'
+'User has been added': 'Użytkownik został dodany'
+'User has been updated': 'Użytkownik został zaktualizowany'
+'Username must be at least 3 characters long.': 'Nazwa użytkownika musi składać się z min. 3 znaków.'
+'Username must contain letters and numbers only.': 'Nazwa użytkownika musi składać się tylko z liter i cyfr.'
+'You cannot delete yourself.': 'Nie możesz usunąć samego siebie.'
+'User has no valid email. Please update the user to set an email address.': 'Użytkownik nie ma poprawnego adresu e-mail. Proszę zaktualizować użytkownika i wpisać prawidłowy adres e-mail.'
 'A password reset for the ServerGrove VPS Control Panel has been issued for this user.': 'A password reset for the ServerGrove VPS Control Panel has been issued for this user.'
-'Invalid email address format.': 'Invalid email address format.'
-'A user with this email address already exists in the system.': 'A user with this email address already exists in the system.'
-'Invalid user group': 'Invalid user group'
+'Invalid email address format.': 'Nieprawidłowy format adresu e-mail.'
+'A user with this email address already exists in the system.': 'Użytkownik z takim adresem e-mail już istnieje w systemie.'
+'Invalid user group': 'Nieprawidłowy użytkownika grupy'
 'Not allowed to set this group.': 'Not allowed to set this group.'
 'Cannot setup billing access': 'Cannot setup billing access'
 'Cannot setup Billing settings. Please contact customer support and provide a copy of this message.': 'Cannot setup billing settings. Please contact customer support and provide a copy of this message.'
-'Invalid email address destination': 'Invalid email address destination'
-'destination not found': 'destination not found'
-'Alert configuration not found': 'Alert configuration not found'
-'Invalid token': 'Invalid token'
+'Invalid email address destination': 'Nieprawidłowy cel adresu e-mail'
+'destination not found': 'cel nie został znaleziony'
+'Alert configuration not found': 'Konfiguracja ostrzeżeń nie została znaleziona'
+'Invalid token': 'Nieprawidłowy token'
 'VirtualHost not found': 'VirtualHost not found'
-'A redirect for path %path% already exists': 'A redirect for path %path% already exists'
-'Invalid type.': 'Invalid type.'
-'Redirect not found': 'Redirect not found'
-Hostname: Hostname
-'An unexpected error occurred performing this task': 'An unexpected error occurred performing this task'
-'Switch Domain': 'Switch Domain'
+'A redirect for path %path% already exists': 'Przekierowanie dla ścieżki %path% już istnieje'
+'Invalid type.': 'Nieprawidłowy typ.'
+'Redirect not found': 'Nie odnaleziono przekierowania'
+Hostname: 'Nazwa Hosta'
+'An unexpected error occurred performing this task': 'Wystąpił nieoczekiwany błąd podczas wykonywania tego zadania'
+'Switch Domain': 'Zmień Domenę'
 Transfer: Transfer
-'Log Viewer': 'Log Viewer'
-'Web Hosting Status': 'Web Hosting Status'
-'We love feedback!': 'We love feedback!'
-Comments: Comments
-Send: Send
+'Log Viewer': 'Podgląd Logów'
+'Web Hosting Status': 'Status WebHostingu'
+'We love feedback!': 'Kochamy Opinie!'
+Comments: Komentarze
+Send: Wyślij
 'Connect DSN': 'Connect DSN'
-'MongoDB Backups': 'MongoDB Backups'
-Backups: Backups
-Previous: Previous
-Next: Next
+'MongoDB Backups': 'Backupy MongoDB'
+Backups: Backupy
+Previous: Poprzednia
+Next: Następna
 'manage indexes': 'manage indexes'
-'add document': 'add document'
-'Title Field (name, title, etc.)': 'Title Field (name, title, etc.)'
-Action: Action
-clone: clone
+'add document': 'dodaj dokument'
+'Title Field (name, title, etc.)': 'Tytuł Pola (nazwa, tytuł, etc.)'
+Action: Akcja
+clone: sklonuj
 'No documents have been created yet, get started by adding a new document.': 'No documents have been created yet, get started by adding a new document.'
-Create: Create
-Databases: Databases
-statistics: statistics
-'Create Index': 'Create Index'
-'Add Index': 'Add Index'
-Indexes: Indexes
-'Index Name': 'Index Name'
-optional: optional
-'Unique Index': 'Unique Index'
-'Drop Duplicates': 'Drop Duplicates'
-Keys: Keys
-'add key': 'add key'
+Create: Utwórz
+Databases: 'Bazy Danych'
+statistics: statystyki
+'Create Index': 'Utwórz Indeks'
+'Add Index': 'Dodaj Indeks'
+Indexes: Indeksy
+'Index Name': 'Nazwa Indeksu'
+optional: opcjonalne
+'Unique Index': 'Unikalny Indeks'
+'Drop Duplicates': 'Usuń Duplikaty'
+Keys: Klucze
+'add key': 'dodaj klucz'
 ASC: ASC
 DESC: DESC
-'Back to Collection': 'Back to Collection'
-Unique: Unique
-no: no
-yes: yes
+'Back to Collection': 'Wróć do Kolekcji'
+Unique: Unikalny
+no: nie
+yes: tak
 'No indexes have been created yet, get started by adding a new index.': 'No indexes have been created yet, get started by adding a new index.'
-Collections: Collections
+Collections: Kolekcje
 Import/Export: Import/Export
 Operations: Operations
 'Connection Codes': 'Connection Codes'
 'Sample Connection Codes': 'Sample Connection Codes'
 'I want to connect to my database using': 'I want to connect to my database using'
 'Select a method to connect from the above pulldown.': 'Select a method to connect from the above pulldown.'
-'add collection': 'add collection'
-drop: drop
+'add collection': 'dodaj kolekcję'
+drop: usuń
 'No collections have been created yet. Get started by adding a new collection.': 'No collections have been created yet. Get started by adding a new collection.'
-'Add Collection': 'Add Collection'
-'add database': 'Add Database'
-connect: Connect
+'Add Collection': 'Dodaj Kolekcję'
+'add database': 'Dodaj Bazę Danych'
+connect: Połącz
 'No databases have been created yet. You can get started by adding a new database': 'No databases have been created yet. You can get started by adding a new database'
-'Add Database': 'Add Database'
-'Database Name': 'Database Name'
-'Read Only': 'Read Only'
+'Add Database': 'Dodaj Bazę Danych'
+'Database Name': 'Nazwa Bazy Danych'
+'Read Only': 'Tylko do Odczytu'
 'Setup Shared MongoDB Hosting': 'Setup Shared MongoDB Hosting'
 'In order to begin using your shared MongoDB hosting account you must setup a database and user!': 'In order to begin using your shared MongoDB hosting account you must setup a database and user!'
 Setup: Setup
 Switch: Switch
-in: in
-database: database
+in: w
+database: 'baza danych'
 'Browse References': 'Browse References'
-'Export Collections': 'Export Collections'
-'Import Collections': 'Import Collections'
-'Import From MySQL': 'Import From MySQL'
+'Export Collections': 'Exportuj Kolekcje'
+'Import Collections': 'Importuj Kolekcje'
+'Import From MySQL': 'Importuj z MySQL'
 'Choose collection you wish to export': 'Choose collection you wish to export'
 Export: Export
 'Choose collection you wish to import to': 'Choose collection you wish to import to'
 Import: Import
 'Enter the information for your MySQL to MongoDB import below': 'Enter the information for your MySQL to MongoDB import below'
-'MySQL Host': 'MySQL Host'
-'MySQL Port': 'MySQL Port'
+'MySQL Host': 'Host MySQL'
+'MySQL Port': 'Port MySQL'
 'Name of MySQL database to import': 'Name of MySQL database to import'
 'Are you sure you want to import from this MySQL database?': 'Are you sure you want to import from this MySQL database?'
 'Cursor information': 'Cursor information'
-Build: Build
+Build: Zbuduj
 'System Information': 'System Information'
 Master: Master
 'Database Statistics': 'Database Statistics'
 'Build Information': 'Build Information'
 'Plan Info': 'Plan Info'
-'MongoDB Version': 'MongoDB Version'
-change: change
-'IP Address': 'IP Address'
-'connection info': 'connection info'
-'Current Load': 'Current Load'
-'Edit MongoDB User': 'Edit MongoDB User'
-'MongoDB Users': 'MongoDB Users'
-'add user': 'add user'
-'No users have been created yet.': 'No users have been created yet.'
-'Add a new user': 'Add a new user'
+'MongoDB Version': 'Wersja MongoDB'
+change: zmień
+'IP Address': 'Adres IP'
+'connection info': 'informacje o połączeniu'
+'Current Load': 'Aktualny Load'
+'Edit MongoDB User': 'Edytuj Użytkownika MongoDB'
+'MongoDB Users': 'Użytkownicy MongoDB'
+'add user': 'dodaj użytkownika'
+'No users have been created yet.': 'Nie utworzono jeszcze żadnych użytkowników.'
+'Add a new user': 'Dodaj nowego użytkownika'
 'This record already exists as %type% record': 'This record already exists as %type% record'
 'The value must be a valid A record': 'The value must be a valid A record'
 'Secure Site / SSL': 'Secure Site / SSL'
 'A CNAME record must point to an existing DNS record': 'A CNAME record must point to an existing DNS record'
-'Mail server': 'Mail Server'
-'The mail server host': 'The mail server host'
-'The connection port': 'The connection port'
-'Your email account username': 'Your email account username'
-'Your email account password': 'Your email account password'
-'Import Email Account': 'Import Email Account'
-'Import process has started.': 'Import process has started.'
+'Mail server': 'Serwer Pocztowy'
+'The mail server host': 'Host serwera pocztowego'
+'The connection port': 'Port połączenia'
+'Your email account username': 'Wpisz nazwę użytkownika konta e-mail'
+'Your email account password': 'Wpisz hasło użytkownika konta e-mail'
+'Import Email Account': 'Importuj Konto E-mail'
+'Import process has started.': 'Proces importu został rozpoczęty.'
 'An error occurred trying to connect to the remote host (%host%): %message%': 'An error occurred trying to connect to the remote host (%host%): %message%'
-'Invalid path': 'Invalid path'
-'Invalid URL': 'Invalid URL'
-'Loading more messages': 'Loading more messages'
+'Invalid path': 'Nieprawidłowa ścieżka'
+'Invalid URL': 'Nieprawidłowy URL'
+'Loading more messages': 'Ładowanie wiadomości'
 'There are no more messages in your inbox': 'There are no more messages in your inbox'
 'The settings has been copied to your clipboard': 'The settings has been copied to your clipboard'
 'New password must contain at least 1 number or symbol.': 'Must contain at least 1 number or symbol.'
