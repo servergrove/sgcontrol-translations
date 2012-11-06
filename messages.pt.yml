@@ -1005,7 +1005,7 @@ Master: Master
 'Build Information': 'Informação do Build'
 'Plan Info': 'Informação do Plano'
 'MongoDB Version': 'Versão do MongoDB'
-change: mudar
+change: alterar
 'IP Address': 'Endereço IP'
 'connection info': 'informações de conexão'
 'Current Load': 'Carga Atual'
