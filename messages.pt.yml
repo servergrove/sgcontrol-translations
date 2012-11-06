@@ -1,3 +1,5 @@
+'All Services': 'Meus Serviços'
+'Remember me': 'Lembre-se de mim'
 'spam filter directions': 'Este formulário permite ajustar os parâmetros de filtragem para o seu serviço anti-spam. O "score" filtra o conteúdo e pode ser ajustado de 1 a 10, 1 sendo a configuração mais sensível. Valores recomendados são entre 5 e 7. Whitelist e blacklists permitem que você defina quais e-mails podem e não podem passar através do filtro. Liste seus e-mails um por linha. Para whitelist ou blacklist um domínio inteiro use *@dominio.com.'
 Email: E-mail
 Password: Senha
@@ -1016,3 +1018,9 @@ change: alterar
 'add a new user': 'adicionar um novo usuário'
 'This record already exists as %type% record': 'Este registro já existe como um registro tipo %type%'
 'The value must be a valid A record': 'O valor deve ser um registro A válido'
+'Did you mean <a></a>?': 'Did you mean <a></a>?'
+'Hostname could not be resolved. Please make sure your server hostname resolves to the server IP %ip%': 'Hostname could not be resolved. Pl
+'Hostname %hostname% resolves to IP %ip%': 'Hostname %hostname% resolves to IP %ip%'
+'The reverse DNS for %ip% resolves to %host%': 'The reverse DNS for %ip% resolves to %host%'
+'The reverse DNS for %ip% could not be resolved': 'The reverse DNS for %ip% could not be resolved'
+'Invalid format for hostname': 'Invalid format for hostname'
