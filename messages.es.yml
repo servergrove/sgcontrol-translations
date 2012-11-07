@@ -1,3 +1,5 @@
+'All Services': 'Mis Servicios'
+'Remember me': Recuérdame
 'spam filter directions': 'Este formulario permite ajustar los parámetros del filtro anti-spam. El puntaje determina el nivel de sensibilidad, de 1 a 10, 1 siendo el valor más sensible. Los valores recomendados son entre 5 y 7. Las listas blanca y negra permite definir direcciones de correo que puede ser pasar o no por el filtro. Liste una dirección por línea. Para listar un dominio entero use *@dominio.com'
 Help: Ayuda
 Email: Email
@@ -1051,3 +1053,9 @@ drop: borrar
 'New password must contain at least 1 number or symbol.': 'Debe contener un número o símbolo.'
 'New password must contain at least 1 uppercase character.': 'Debe tener al menos un caracter en mayúsculas.'
 'New password and confirmation must be the same.': 'Contraseña y la confirmación deben ser iguales.'
+'Did you mean <a></a>?': '¿Quiéres decir <a></a>?'
+'Hostname could not be resolved. Please make sure your server hostname resolves to the server IP %ip%': 'El nombre del servidor no pudo ser resuelto. Por favor asegúrese de que el nombre resuelva a la dirección IP %ip%'
+'Hostname %hostname% resolves to IP %ip%': 'El nombre del servidor %hostname% apunta a la dirección IP %ip%'
+'The reverse DNS for %ip% resolves to %host%': 'El registro de DNS inverso de %ip% apunta a %host%'
+'The reverse DNS for %ip% could not be resolved': 'El registro de DNS inverso para %ip% no ha podido ser resuelto'
+'Invalid format for hostname': 'El nombre de servidor no es válido'

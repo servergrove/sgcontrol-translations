@@ -1,3 +1,5 @@
+'All Services': 'Mes Services'
+'Remember me': 'Se souvenir de moi'
 Email: Email
 Password: 'Mot de passe'
 password: 'mot de passe'
@@ -1015,3 +1017,9 @@ Hostname: Hostname
 'support tickets': 'tickets de support'
 'This record already exists as %type% record': 'Cet enregistrement existe déjà come un enregistrement %type%'
 'The value must be a valid A record': 'La valeur doit être un enregistrement A valide'
+'Did you mean <a></a>?': 'Did you mean <a></a>?'
+'Hostname could not be resolved. Please make sure your server hostname resolves to the server IP %ip%': 'Hostname could not be resolved. Please make sure your server hostname resolves to the server IP %ip%'
+'Hostname %hostname% resolves to IP %ip%': 'Hostname %hostname% resolves to IP %ip%'
+'The reverse DNS for %ip% resolves to %host%': 'The reverse DNS for %ip% resolves to %host%'
+'The reverse DNS for %ip% could not be resolved': 'The reverse DNS for %ip% could not be resolved'
+'Invalid format for hostname': 'Invalid format for hostname'
