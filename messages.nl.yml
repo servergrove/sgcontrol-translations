@@ -24,8 +24,7 @@ Current: Huidig
 'Forwarding Email': 'Doorgestuurde E-mail'
 'Post Email': 'Verstuur E-mail'
 'All Domains': 'Alle Domeinen'
-'All Applications': 'Alle Applicaties'
-'Contact Support': 'Neem contact met onze helpdesk'
+'Contact Support': 'Neem contact met support op'
 'New Collection': 'Nieuwe Collectie'
 'Traffic summary for': 'Overzicht dataverkeer voor'
 'Total allotted': 'Totaal toegestaan'
@@ -193,7 +192,6 @@ Redirects: Omleidingen
 Phone: Telefoon
 'EPP code / Authorization key': 'EPP code / Authorisatie sleutel'
 Request: Verzoeken
-'Overview of': 'Overzicht van'
 'Primary Domain': 'Primair Domein'
 'Registration Information': 'Registratie Informatie'
 'Lock Status': 'Lock Status'
