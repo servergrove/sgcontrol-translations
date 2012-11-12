@@ -792,7 +792,7 @@ On: Ativado
 'Alias has been removed': 'Alias foi removido'
 'Domain is not an alias': 'O domínio não é um alias'
 'Alias has no parent': 'Alias não possui pai'
-'Subdomain has been added': 'Subdomínio doi adicionado'
+'Subdomain has been added': 'Subdomínio foi adicionado'
 'Subdomain has been updated': 'Subdomínio foi atualizado'
 'A subdomain must match the main domain base name (ie. test.example.com matches example.com)': 'Um subdomínio deve corresponder ao nome de domínio principal (ou seja, test.exemplo.com corresponde a exemplo.com)'
 'Subdomain not found': 'Subdomínio não encontrado'
