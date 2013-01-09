@@ -908,6 +908,7 @@ On: Activado
 'User has been updated': 'El usuario ha sido actualizado'
 'Username must be at least 3 characters long.': 'El nombre de usuario debe contener al menos 3 caracteres.'
 'Username must contain letters and numbers only.': 'El nombre de usuario debe contener letras y números unicamente.'
+'Username must contain letters, numbers, dots, underscores and dashes only.': 'El nombre de usuario debe contener letras, números, puntos y guiones unicamente.'
 'You cannot delete yourself.': 'No puedes eliminarte a ti mismo.'
 'User has no valid email. Please update the user to set an email address.': 'El usuario no tiene un email válido. Por favor actualice el usuario y establezca una dirección de email.'
 'A password reset for the ServerGrove VPS Control Panel has been issued for this user.': 'Un reinicio de contraseña para el Panel de Control de VPS de ServerGrove ha sido procesado para este usuario.'

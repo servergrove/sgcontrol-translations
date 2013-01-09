@@ -954,6 +954,7 @@ On: On
 'User has been updated': 'User has been updated'
 'Username must be at least 3 characters long.': 'Username must be at least 3 characters long.'
 'Username must contain letters and numbers only.': 'Username must contain letters and numbers only.'
+'Username must contain letters, numbers, dots, underscores and dashes only.': 'Username must contain letters, numbers, dots, underscores and dashes only.'
 'You cannot delete yourself.': 'You cannot delete yourself.'
 'User has no valid email. Please update the user to set an email address.': 'User has no valid email. Please update the user to set an email address.'
 'A password reset for the ServerGrove VPS Control Panel has been issued for this user.': 'A password reset for the ServerGrove VPS Control Panel has been issued for this user.'

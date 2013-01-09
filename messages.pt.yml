@@ -1019,7 +1019,7 @@ change: alterar
 'This record already exists as %type% record': 'Este registro já existe como um registro tipo %type%'
 'The value must be a valid A record': 'O valor deve ser um registro A válido'
 'Did you mean <a></a>?': 'Did you mean <a></a>?'
-'Hostname could not be resolved. Please make sure your server hostname resolves to the server IP %ip%': 'Hostname could not be resolved. Pl
+'Hostname could not be resolved. Please make sure your server hostname resolves to the server IP %ip%': 'Hostname could not be resolved. Please make sure your server hostname resolves to the server IP %ip%'
 'Hostname %hostname% resolves to IP %ip%': 'Hostname %hostname% resolves to IP %ip%'
 'The reverse DNS for %ip% resolves to %host%': 'The reverse DNS for %ip% resolves to %host%'
 'The reverse DNS for %ip% could not be resolved': 'The reverse DNS for %ip% could not be resolved'
