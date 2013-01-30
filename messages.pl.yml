@@ -81,7 +81,7 @@ Install: Zainstaluj
 Version: Wersja
 Category: Kategoria
 Categories: Kategorie
-None: Żadne
+None: Brak
 Invoice: Faktura
 'Credit card': 'Karta kredytowa'
 Invoices: Faktury
@@ -345,7 +345,7 @@ Rebuild: Odbuduj
 'Disk Storage': 'Pojemność Dysku'
 'Email Storage': 'Pojemność E-mail'
 'Current Plan': 'Aktualny Plan'
-/monthly: /miesięczny
+/monthly: /miesięcznie
 'Billing Cycle': 'Cykl Rozliczeniowy'
 'No links': 'Brak linków'
 'Console access': 'Dostęp do konsoli'
@@ -584,7 +584,7 @@ Upgrade/Downgrade: 'Aktualizacja Planu'
 'If you are using Outlook, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings': 'Jeśli korzystasz z Outlook, Entourage, Thunderbird, Mac Mail App, Sparrow lub podobnej aplikacji to są ustawienia konfiguracyjne dla twojego klienta pocztowego'
 'Incoming Mail Server (IMAP)': 'Serwer Poczty Przychodzącej (IMAP)'
 'Go to account settings, create a new account': 'Idź do ustawień konta aby dodać nowe konto'
-'Enter your name, email and password as requested': Wpisz nazwę, e-mail i hasło jak proszono'
+'Enter your name, email and password as requested': 'Wpisz nazwę, e-mail i hasło jak proszono'
 'Select IMAP': 'Wybierz IMAP'
 'full username + domain is required': 'nazwa użytkownika + domena jest wymagana'
 'Outgoing Mail Server (SMTP)': 'Serwer Poczty Wychodzącej (SMTP)'
@@ -718,7 +718,7 @@ Frameworks: Frameworki
 'You are about to change the MySQL root password. Are you sure this is what you want to do?': 'Chcesz zmienić hasło roota dla MySQL. Czy jesteś pewny że chcesz to zrobić?'
 'Read more': 'Czytaj dalej'
 Saving: Zapisywanie
-'Extended Status': 'Rozszerz Status'
+'Extended Status': 'Rozszerzony Status'
 'Process List': 'Lista Procesów'
 'Server Variables': 'Zmienne Serwera'
 'All current and future servers': 'Wszystkie obecne i przyszłe serwery'
@@ -952,6 +952,7 @@ On: Włącz
 'User has been updated': 'Użytkownik został zaktualizowany'
 'Username must be at least 3 characters long.': 'Nazwa użytkownika musi składać się z min. 3 znaków.'
 'Username must contain letters and numbers only.': 'Nazwa użytkownika musi składać się tylko z liter i cyfr.'
+'Username must contain letters, numbers, dots, underscores and dashes only.': 'Nazwa użytkownika musi składać się tylko z liter, cyfr, kropek, podkreśleń oraz myślników.'
 'You cannot delete yourself.': 'Nie możesz usunąć samego siebie.'
 'User has no valid email. Please update the user to set an email address.': 'Użytkownik nie ma poprawnego adresu e-mail. Proszę zaktualizować użytkownika i wpisać prawidłowy adres e-mail.'
 'A password reset for the ServerGrove VPS Control Panel has been issued for this user.': 'Reset hasła do Panelu Kontrolnego ServerGrove VPS został utworzony dla tego użytkownika.'
@@ -1036,7 +1037,7 @@ database: 'baza danych'
 'Import Collections': 'Importuj Kolekcje'
 'Import From MySQL': 'Importuj z MySQL'
 'Choose collection you wish to export': 'Wybierz kolekcję którą chcesz eksportować'
-Export: Export
+Export: Eksport
 'Choose collection you wish to import to': 'Wybierz kolekcję którą chcesz zaimportować do'
 Import: Import
 'Enter the information for your MySQL to MongoDB import below': 'Wpisz poniżej informacje o MySQL do importu MongoDB'
@@ -1089,3 +1090,40 @@ change: zmień
 'The reverse DNS for %ip% resolves to %host%': 'Odrócony DNS dla %ip% wskazuje na %host%'
 'The reverse DNS for %ip% could not be resolved': 'Odrócony DNS dla %ip% nie wskazuje na nic'
 'Invalid format for hostname': 'Nieprawidłowy format nazwy hosta'
+# https://control.servergrove.com/services menus
+'Services': 'Usługi'
+'My Services': 'Moje Usługi'
+# https://control.servergrove.com/services hover tooltips
+'List Filters': 'Pokaż Filtry'
+'Reload Servers Statuses': 'Odśwież Statusy Serwerów'
+'Add Remote MongoDB Service': 'Dodaj Zew. Usługę MongoDB'
+# https://control.servergrove.com/mongodb/{db_id}/shared-setup
+'Setup MongoDB': 'Zainstaluj MongoDB'
+'Password Confirmation': 'Potwierdzenie Hasła'
+'Enter Database Name': 'Wpisz Nazwę Bazy Danych'
+'Enter Username': 'Wpisz Nazwę Użytkownika'
+'Enter Password': 'Wpisz Hasło'
+'Confirm Password': 'Potwierdź Hasło'
+# db breadcrumb 
+'setup': 'setup'
+# All pages top menu
+'My Tools': 'Moje Narzędzia'
+'SSL Certificates': 'Certyfikaty SSL'
+'Where\'s it up?': 'Gdzie to działa?'
+# https://control.servergrove.com/server/{service_id}
+'IP Addresses': 'Adresy IP'
+'Data Center': 'Serwerownia'
+# https://control.servergrove.com/server/{service_id}/apps
+'Request queued': 'Żądanie zakolejkowane'
+'Enabled Modules': 'Włączone Moduły'
+'Quick Config View': 'Szybki Podgląd Konfiguracji'
+# https://control.servergrove.com/server/{service_id}/domains tooltip
+'settings': 'ustawienia'
+# https://control.servergrove.com/server/{service_id}/domains/info/{domain_id}
+'Overview': 'Przegląd'
+'Response Time': 'Czas Odpowiedzi'
+'There are no domain aliases. <a href="%url%">Add a domain alias</a>.': 'Ta domena nie posiada żadnych aliasów. <a href="%url%">Dodaj alias dla tej domeny</a>.'
+'Switch Domains': 'Zmień Domenę'
+'alerts': 'ostrzeżenia'
+# https://control.servergrove.com/server/{service_id}/alerts?all=y
+'Critical Alert': 'Krytyczne Ostrzeżenie'
