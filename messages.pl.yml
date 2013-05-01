@@ -60,8 +60,8 @@ Username: Użytkownik
 Name: Nazwa
 Users: Użytkownicy
 User: Użytkownik
-Managing: Zarządzanie
-Manage: Zarządzaj
+Managing: 'Zarządzanie'
+Manage: 'Zarządzaj'
 info: info
 Info: Info
 Configure: Skonfiguruj
@@ -69,7 +69,7 @@ services: usługi
 Services: Usługi
 service: usługa
 apps: aplikacje
-Enabled: Włączone
+Enabled: 'Włączone'
 Status: Status
 'Sync Control': 'Sterowanie Synchronizacją'
 ReSync: ReSync
@@ -87,8 +87,8 @@ Invoice: Faktura
 Invoices: Faktury
 Date: Data
 'Due Date': 'Do Dnia'
-Total: Łącznie
-Download: Ściągnij
+Total: 'Łącznie'
+Download: 'Ściągnij'
 pay: zapłać
 Attention: Uwaga
 Update: Zaktualizuj
@@ -97,7 +97,7 @@ Dashboard: Dashboard
 Resources: Zasoby
 Network: Sieć
 Top: Top
-Connect: Połącz
+Connect: 'Połącz'
 'free of': 'dostępnego z'
 Free: Dostępne
 Memory: Pamięć
@@ -130,7 +130,7 @@ OS: System
 'Knowledge Base': 'Baza Wiedzy'
 'Web Hosting': 'Web Hosting'
 'Open in Browser': 'Otwórz w Przeglądarce'
-Browse: Przeglądaj
+Browse: 'Przeglądaj'
 Delete: Usuń
 delete: usuń
 Deleting: Usuwanie
@@ -152,9 +152,9 @@ Cancel: Anuluj
 'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.': 'Wszystkie informacje powiązane z tą domeną (włączając w to pliki, konta e-mail, wiadomości e-mail, etc.) zostaną bezpowrotnie utracone.'
 'YES, I am sure. Delete': 'TAK, jestem pewny. Usuń'
 Settings: Ustawienia
-Disabled: Wyłączone
-disable: wyłącz
-enable: włącz
+Disabled: 'Wyłączone'
+disable: 'wyłącz'
+enable: 'włącz'
 'Total records': 'Łącznie wpisów'
 Nameservers: Nameserwery
 'Host Name': 'Nazwa Hosta'
@@ -186,8 +186,8 @@ Alias: Alias
 Redirects: Przekierowania
 'Add Redirect': 'Dodaj Przekierowanie'
 'Configuration for': 'Konfiguracja dla'
-'First Name': 'Imię'
-'Last Name': 'Nazwisko'
+'First Name': Imię
+'Last Name': Nazwisko
 'Full Name': 'Imię i Nazwisko'
 Phone: Telefon
 'EPP code / Authorization key': 'Kod EPP / Klucz autoryzacyjny'
@@ -221,7 +221,7 @@ or: lub
 purchase: zakup
 'contact us': 'skontaktuj się z nami'
 'Need more?': 'Chcesz więcej?'
-'p/ year': 'rocznie'
+'p/ year': rocznie
 'Hosted Email': 'Hostowany E-mail'
 'Client Settings': 'Ustawienia Klienta'
 Bulk: Hurt
@@ -231,7 +231,7 @@ Note: Notatka
 Client: Klient
 Group: Grupa
 'User Group': 'Grupa Użytkowników'
-'Created on': 'Utworzone'
+'Created on': Utworzone
 'Last Login': 'Ostatnie Logowanie'
 Subject: Temat
 Message: Wiadomość
@@ -252,7 +252,7 @@ bandwidth: transfer
 Bandwidth: Transfer
 monthly: miesięczny
 daily: dzienny
-Month: Miesiąc
+Month: 'Miesiąc'
 In: Do
 Out: Z
 Day: Dzień
@@ -273,7 +273,7 @@ RAM: RAM
 Controls: Sterowanie
 'This server is suspended. Please contact Customer Support.': 'Ten serwer jest zawieszony. Prosimy o kontakt z BOK.'
 Reboot: Restart
-Shutdown: Wyłącz
+Shutdown: 'Wyłącz'
 'Boot up': 'Włącz'
 Tasks: Zadania
 stopped: zatrzymane
@@ -337,7 +337,7 @@ Rebuild: Odbuduj
 'Reached resource limits (memory, disk, etc.)': 'Osiągnięto limit zasobów (pamięć, dysk, etc.)'
 'ServerGrove announcements': 'Ogłoszenia ServerGrove'
 'Apply to Servers': 'Zastosuj do wszystkich Serwerów'
-'Real time': 'Real-time'
+'Real time': Real-time
 'Once a day': 'Raz dziennie'
 'Once a week': 'Raz w tygodniu'
 'Once a month': 'Raz w miesiącu'
@@ -397,7 +397,6 @@ Terminal: Terminal
 'Home Directory': 'Główny Folder'
 'Edit User': 'Edytuj Użytkownika'
 'No users': 'Brak użytkowników'
-'New User': 'Nowy Użytkownik'
 'Change Server Hostname': 'Zmień Nazwę Hosta Serwera'
 'Server Hostname (ie. server.example.com)': 'Nazwa Hosta Serwera (np. server.example.com)'
 'We haven''t heard from you in a while so we stopped the live charts. To reactivate just move your mouse around.': 'Nie widzieliśmy żadnej Twojej aktywności dłuższą chwilę i zatrzymaliśmy wykresy czasu rzeczywistego. Aby je ponownie włączyć porusz myszką.'
@@ -584,7 +583,7 @@ Upgrade/Downgrade: 'Aktualizacja Planu'
 'If you are using Outlook, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings': 'Jeśli korzystasz z Outlook, Entourage, Thunderbird, Mac Mail App, Sparrow lub podobnej aplikacji to są ustawienia konfiguracyjne dla twojego klienta pocztowego'
 'Incoming Mail Server (IMAP)': 'Serwer Poczty Przychodzącej (IMAP)'
 'Go to account settings, create a new account': 'Idź do ustawień konta aby dodać nowe konto'
-'Enter your name, email and password as requested': Wpisz nazwę, e-mail i hasło jak proszono'
+'Enter your name, email and password as requested': 'Wpisz nazwę, e-mail i hasło jak proszono'''
 'Select IMAP': 'Wybierz IMAP'
 'full username + domain is required': 'nazwa użytkownika + domena jest wymagana'
 'Outgoing Mail Server (SMTP)': 'Serwer Poczty Wychodzącej (SMTP)'
@@ -652,9 +651,8 @@ Search: Szukaj
 'Search Support': 'Przeszukaj BOK'
 'View Active': 'Zobacz Aktywne'
 'View All': 'Zobacz Wszystkie'
-'VPS Services': 'Usługi VPS'
 Refreshing...: Odświerzanie...
-manage: zarządzaj
+manage: 'zarządzaj'
 'Add a MongoDB server': 'Dodaj serwer MongoDB'
 'Learn more about our MongoDB hosting service': 'Dowiedz się więcej o naszych usługach hostingowych MongoDB'
 here: tutaj
@@ -667,7 +665,7 @@ edit: edytuj
 'Set time zone': 'Ustaw strefę czasową'
 LOADING: ŁADOWANIE
 Change: Zmień
-'you should': 'powinieneś'
+'you should': powinieneś
 'configure your monitors': 'skonfiguruj swoje monitory'
 'Alerts History': 'Historia Ostrzeżeń'
 'Monitors List': 'Lista Monitorów'
@@ -737,11 +735,11 @@ Back: Powrót
 'Email Service': 'Usługa E-mail'
 Domain: Domena
 Expiration: Wygaśnięcie
-Emails: 'E-maile'
+Emails: E-maile
 'Add an email account': 'Dodaj konto e-mail'
 '6 characters minimum': 'minimum 6 znaków'
-Off: Wyłącz
-On: Włącz
+Off: 'Wyłącz'
+On: 'Włącz'
 'CLI path': 'Ścieżka CLI'
 'ServerGrove Control Panel Mobile': 'Mobilny Panel Kontrolny ServerGrove'
 'An internal system error has occurred. We have been notified and we will resolve this problem as soon as possible. Feel free to open a support ticket to follow up with us.': 'Wystąpił błąd po stronie serwera. Zostaliśmy poinformowani o tym problemie i postaramy się go rozwiązać tak szybko jak to możliwe. Otwórz nowe zgłoszenie jeśli chcesz być na bieżąco co się dzieje z tym problemem.'
@@ -1020,7 +1018,7 @@ drop: usuń
 'No collections have been created yet. Get started by adding a new collection.': 'Nie utworzono jeszcze żadnej kolekcji, dodaj nową kolekcję aby rozpocząć.'
 'Add Collection': 'Dodaj Kolekcję'
 'add database': 'Dodaj Bazę Danych'
-connect: Połącz
+connect: 'Połącz'
 'No databases have been created yet. You can get started by adding a new database': 'Nie utworzono jeszcze żadnej bazy danych. Aby rozpocząć dodaj nową bazę danych'
 'Add Database': 'Dodaj Bazę Danych'
 'Database Name': 'Nazwa Bazy Danych'
@@ -1089,3 +1087,5 @@ change: zmień
 'The reverse DNS for %ip% resolves to %host%': 'Odrócony DNS dla %ip% wskazuje na %host%'
 'The reverse DNS for %ip% could not be resolved': 'Odrócony DNS dla %ip% nie wskazuje na nic'
 'Invalid format for hostname': 'Nieprawidłowy format nazwy hosta'
+'new user': 'nowy użytkownik'
+'Sorry, we currently don''t support IE.': 'Niestety, nie obsługuje IE.'

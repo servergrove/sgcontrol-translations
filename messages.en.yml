@@ -399,7 +399,6 @@ Terminal: Terminal
 'Home Directory': 'Home Directory'
 'Edit User': 'Edit User'
 'No users': 'No users'
-'New User': 'New User'
 'Change Server Hostname': 'Change Server Hostname'
 'Server Hostname (ie. server.example.com)': 'Server Hostname (ie. server.example.com)'
 'We haven''t heard from you in a while so we stopped the live charts. To reactivate just move your mouse around.': 'We haven''t heard from you in a while so we stopped the live charts. To reactivate just move your mouse around.'
@@ -654,7 +653,6 @@ Search: Search
 'Search Support': 'Search Support'
 'View Active': 'View Active'
 'View All': 'View All'
-'VPS Services': 'VPS Services'
 Refreshing...: Refreshing...
 manage: manage
 'Add a MongoDB server': 'Add a MongoDB server'
@@ -1092,3 +1090,102 @@ change: change
 'The reverse DNS for %ip% resolves to %host%': 'The reverse DNS for %ip% resolves to %host%'
 'The reverse DNS for %ip% could not be resolved': 'The reverse DNS for %ip% could not be resolved'
 'Invalid format for hostname': 'Invalid format for hostname'
+'File Manager': 'File Manager'
+Go: Go
+Permissions: Permissions
+'Manage shortcuts': 'Manage shortcuts'
+'New File': 'New File'
+'New Folder': 'New Folder'
+'Upload File': 'Upload File'
+'Compress Selection': 'Compress Selection'
+'Delete Selection': 'Delete Selection'
+Filter: Filter
+Owner: Owner
+'Date modified': 'Date modified'
+View: View
+Compress: Compress
+Rename: Rename
+Copy: Copy
+Move: Move
+Uncompress: Uncompress
+'File properties': 'File properties'
+Filename: Filename
+Created: Created
+Modified: Modified
+'Security Advisories': 'Security Advisories'
+'Known issues found': 'Known issues found'
+Error: Error
+Checking: Checking
+OK: OK
+'Retrieving file, please wait': 'Retrieving file, please wait'
+Page: Page
+'File preview': 'File preview'
+'No available preview for file type': 'No available preview for file type'
+'Download file': 'Download file'
+top: top
+Mode: Mode
+'Last saved': 'Last saved'
+File: File
+'Change user/group': 'Change user/group'
+Done: Done
+'Open target': 'Open target'
+'Delete shortcut': 'Delete shortcut'
+'You haven''t added any shortcuts yet. Shortcuts let you bookmark files or directories making it easy to find them again. To add a shortcut click on the <i class="shortcut shortcut_disabled"></i> next to the item you wish to bookmark.': 'You haven''t added any shortcuts yet. Shortcuts let you bookmark files or directories making it easy to find them again. To add a shortcut click on the <i class="shortcut shortcut_disabled"></i> next to the item you wish to bookmark.'
+'Loading, please wait': 'Loading, please wait'
+'Known security issues': 'Known security issues'
+Source: Source
+Target: Target
+Refresh: Refresh
+'Open in new window': 'Open in new window'
+'Show/hide folders': 'Show/hide folders'
+'Show/hide files': 'Show/hide files'
+'Change directory': 'Change directory'
+Hosts: Hosts
+'View info': 'View Info'
+'No databases found for this user': 'No databases found for this user'
+'We have detected there is an ''anonymous'' user. You should remove it before moving into a production environment.': 'We have detected there is an ''anonymous'' user. You should remove it before moving into a production environment.'
+'Remove anonymous user': 'Remove anonymous user'
+'This user is needed by the ServerGrove control panel in order to manage databases and privileges.': 'This user is needed by the ServerGrove control panel in order to manage databases and privileges.'
+'General information': 'General information'
+'Global privileges': 'Global privileges'
+'Generate random password': 'Generate random password'
+Options: Options
+'I know the current root password (no MySQL server restart needed)': 'I know the current root password (no MySQL server restart needed)'
+'I don''t know the current root password': 'I don''t know the current root password'
+'Allow Access From Host': 'Allow Access From Host'
+Localhost: Localhost
+Anywhere: Anywhere
+IP: IP
+Other: Other
+Charset: Charset
+Collation: Collation
+'Select existing user': 'Select existing user'
+'Create new user': 'Create new user'
+'Available users': 'Available users'
+Tables: Tables
+'Advanced permissions': 'Advanced permissions'
+'Revoke access': 'Revoke access'
+'No users assigned': 'No users assigned'
+Rows: Rows
+'No tables found': 'No tables found'
+Database: Database
+Privileges: Privileges
+'An error has occurred!': 'An error has occurred!'
+'Please correct the issue described above and try again. If this error persists, contact customer support so we can assist you.': 'Please correct the issue described above and try again. If this error persists, contact customer support so we can assist you.'
+'Access to phpMyAdmin has been successfully configured, please use the URL included below.': 'Access to phpMyAdmin has been successfully configured, please use the URL included below.'
+URL: URL
+'Location of phpMyAdmin files': 'Location of phpMyAdmin files'
+'MySQL Connection': 'MySQL Connection'
+'In order to use the Control Panel to manage MySQL users and databases, you must allow us to create a user to perform these operations.': 'In order to use the Control Panel to manage MySQL users and databases, you must allow us to create a user to perform these operations.'
+'Please, enter the ''root'' password to connect the Control Panel with the MySQL server.': 'Please, enter the ''root'' password to connect the Control Panel with the MySQL database.'
+'Don''t remember the root password?': 'Don''t remember the root password?'
+'Reset it': 'Reset it'
+'The ''root'' password <strong>won''t be stored</strong>.': 'The ''root'' password <strong>won''t be stored</strong>.'
+'Root password': 'Root password'
+'Show archived versions': 'Show archived versions'
+new: new
+recommended: recommended
+'Select an operating system': 'Select an operating system'
+'System DBs': 'System DBs'
+'new user': 'new user'
+'Sorry, we currently don''t support IE.': 'Sorry, we currently don''t support IE.'

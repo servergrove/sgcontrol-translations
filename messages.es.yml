@@ -68,7 +68,7 @@ Add: Agregar
 'Add a server': 'Agregar un servidor'
 Active: Activo
 active: activo
-offline: offline
+offline: desconectado
 All: Todos
 mem: mem
 disk: disco
@@ -873,7 +873,7 @@ On: Activado
 'Server already has plan %name%': 'EL servidor ya cuenta con el plan %name%'
 'Cannot change plan of server.': 'Imposible modificar el plan del servidor.'
 'The request to change the server plan has been queued.': 'La solicitud para cambiar el plan del servidor ha sido encolada.'
-'MongoDB Hosting': 'MongoDB Hosting'
+'MongoDB Hosting': 'Hosting de MongoDB'
 'Failed to fetch invoice.': 'Error al buscar la factura.'
 'Please confirm request by setting confirm=yes': 'Por favor confirma la solicitud indicando confirm=yes'
 'The cancellation request has been received.': 'La solicitud de cancelación ha sido recibida.'
@@ -1060,3 +1060,131 @@ drop: borrar
 'The reverse DNS for %ip% resolves to %host%': 'El registro de DNS inverso de %ip% apunta a %host%'
 'The reverse DNS for %ip% could not be resolved': 'El registro de DNS inverso para %ip% no ha podido ser resuelto'
 'Invalid format for hostname': 'El nombre de servidor no es válido'
+New: Nuevo
+Warning: Alerta
+'New VPS service': 'Nuevo VPS'
+'New MongoDB service': 'Nuevo servicio MongoDB'
+'Please, provide an explanation for the cancellation. <br>Feedback is key for us to improve our service': 'Por favor provea la razón de la cancelación. <br> Sus comentarios son sumamente importantes para brindar un mejor servicio'
+'Select an OS': 'Seleccione un SO'
+Graphical: Gráfica
+'ServerGrove Blog': 'Blog de ServerGrove'
+'Mongo Services': 'Servicios MongoDB'
+History: Historia
+Server: Servidor
+'Your password': 'Su contraseña'
+'Logged in as': 'Usuario: '
+'Connection Files': 'Archivos de conexión'
+'Select operating system': 'Seleccione sistema operativo'
+'All Applications': Aplicaciones
+'Copy all settings': 'Copiar la configuración'
+'Standard Mailbox': 'Cuenta Estandar'
+'Forwarding Email': 'Redirección de Email'
+'All Domains': Dominios
+'Contact Support': 'Contacte Soporte'
+'New Collection': 'Nueva Colección'
+'Traffic summary for': 'Reporte de Tráfico para '
+'Feedback &amp; feature requests': Sugerencias
+'Email usage per domain': 'Uso de Email por dominio'
+'This server is off. Please boot up to start using it.': 'El servidor está desconectado. Inicializelo para utilizarlo.'
+Account: Cuenta
+'Add a new user': 'Agregar nuevo usuario'
+'Are you sure you want to unlock this domain?': '¿Está seguro que desea destrabar el dominio?'
+'Are you sure you want to lock this domain?': '¿Está seguro que desea trabar el dominio?'
+'File Manager': 'Gestor de Archivos'
+Go: Ir
+Permissions: Permisos
+'Manage shortcuts': 'Gestionar shortcuts'
+'New File': 'Nuevo Archivo'
+'New Folder': 'Nueva Carpeta'
+'Upload File': 'Subir Archivo'
+'Compress Selection': 'Comprimir Selección'
+'Delete Selection': 'Borrar Selección'
+Filter: Filtro
+Owner: Dueño
+'Date modified': 'Fecha de modificación'
+View: Ver
+Compress: Comprimir
+Rename: Renombrar
+Copy: Copiar
+Move: Mover
+Uncompress: Descomprimir
+'File properties': 'Propiedades del archivo'
+Filename: 'Nombre de archivo'
+Created: Creado
+Modified: Modificado
+'Security Advisories': 'Avisos de Seguridad'
+'Known issues found': 'Se encontraron problemas de seguridad'
+Error: Error
+Checking: Revisando
+OK: OK
+'Retrieving file, please wait': 'Obteniendo archivo, por favor espere'
+Page: Página
+'File preview': 'Vista previa'
+'No available preview for file type': 'No hay vista previa para el tipo de archivo'
+'Download file': 'Descargar archivo'
+top: inicio
+Mode: Modo
+'Last saved': 'Guardado por última vez'
+File: Archivo
+'Change user/group': 'Cambiar usuario/grupo'
+Done: Finalizado
+'Open target': 'Abrir destino'
+'Delete shortcut': 'Borrar shortcut'
+'You haven''t added any shortcuts yet. Shortcuts let you bookmark files or directories making it easy to find them again. To add a shortcut click on the <i class="shortcut shortcut_disabled"></i> next to the item you wish to bookmark.': 'No ha agregado ningún shortcut. Los shortcuts permiten acceder a archivos y directorios rápidamente.'
+'Loading, please wait': 'Cargando, espere por favor'
+'Known security issues': 'Problemas de seguridad conocidos'
+Source: Fuente
+Target: Destino
+Refresh: Refrescar
+'Open in new window': 'Abrir en ventana nueva'
+'Show/hide folders': 'Mostrar/ocultar carpetas'
+'Show/hide files': 'Mostrar/ocultar archivos'
+'Change directory': 'Cambiar directorio'
+Hosts: Sistemas
+'View info': 'Ver Info'
+'No databases found for this user': 'No se han encontrado bases de datos para este usuario'
+'We have detected there is an ''anonymous'' user. You should remove it before moving into a production environment.': 'Hemos detectado el usuario anónimo. Recomendamos borrarlo antes de poner el servidor en producción.'
+'Remove anonymous user': 'Borrar usuario anónimo'
+'This user is needed by the ServerGrove control panel in order to manage databases and privileges.': 'Este usuario es utilizado por el Panel de Control para administrar las bases de datos y usuarios.'
+'General information': 'Información general'
+'Global privileges': 'Privilegios globales'
+'Generate random password': 'Generar contraseña aleatoria'
+Options: Opciones
+'I know the current root password (no MySQL server restart needed)': 'Tengo la contraseña de root actual (No es necesario reiniciar el servidor MySQL)'
+'I don''t know the current root password': 'No se la contraseña del usuario root'
+'Allow Access From Host': 'Permitir acceso desde'
+Anywhere: 'Cualquier procedencia'
+Other: Otro
+Charset: Charset
+Collation: Colación
+'Select existing user': 'Seleccione un usuario existente'
+'Create new user': 'Crear nuevo usuario'
+'Available users': 'Usuarios disponibles'
+Tables: Tablas
+'Advanced permissions': 'Permisos avanzados'
+'Revoke access': 'Revocar acceso'
+'No users assigned': 'No hay usuarios asignados'
+Rows: Filas
+'No tables found': 'No se encontraron tablas'
+Database: 'Base de datos'
+Privileges: Permisos
+'An error has occurred!': 'Un error ha ocurrido!'
+'Please correct the issue described above and try again. If this error persists, contact customer support so we can assist you.': 'Por favor corrija el problema descripto arriba e intente nuevamente. Si este problema persiste, contacte soporte al cliente.'
+'Access to phpMyAdmin has been successfully configured, please use the URL included below.': 'El acceso a phpMyAdmin ha sido configurado exitosamente, por utilice el URL incluido debajo.'
+URL: URL
+'Location of phpMyAdmin files': 'Ubicación de los archivos de phpMyAdmin'
+'MySQL Connection': 'Conexión a MySQL'
+'In order to use the Control Panel to manage MySQL users and databases, you must allow us to create a user to perform these operations.': 'Para poder utilizar el Panel de Control para manejar usuarios y bases de datos, Ud. debe permitirnos crear un usuario para realizar estas operaciones.'
+'Please, enter the ''root'' password to connect the Control Panel with the MySQL server.': 'Por favor, ingrese la contraseña de ''root'' para conectar el Panel de Control con el servidor MySQL.'
+'Don''t remember the root password?': '¿No recuerda la contraseña de root?'
+'Reset it': Reseteela
+'The ''root'' password <strong>won''t be stored</strong>.': 'La contraseña de ''root'' <strong>no será guardada</strong> en nuestro sistema.'
+'Root password': 'Contraseña de Root'
+'Show archived versions': 'Mostrar versiones anteriores'
+new: nuevo
+recommended: recomendado
+'Select an operating system': 'Seleccione un sistema operativo'
+'System DBs': 'DBs del sistema'
+'Startup at boot-time': 'Inicialización automática'
+'new user': 'nuevo usuario'
+'Sorry, we currently don''t support IE.': 'Lo sentimos, actualmente no soportamos IE.'

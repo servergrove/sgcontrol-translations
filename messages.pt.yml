@@ -297,7 +297,7 @@ Rebuild: Reconstruir
 'Once a week': 'Uma vez por semana'
 'Once a month': 'Uma vez por mês'
 'Monitors keep an eye on your server and send you alerts via email when you reach your limits.': 'Os monitores verificam o seu servidor e enviam alertas por e-mail quando você alcança seus limites.'
-'Disk Storage': Armazenamento em Disco
+'Disk Storage': 'Armazenamento em Disco'
 'Email Storage': E-mail
 'Current Plan': 'Plano Atual'
 /monthly: /mensal
@@ -401,7 +401,7 @@ Applications: Aplicativos
 'My Applications': 'Meus Aplicativos'
 'Sync Apps': 'Sincronizar Apps'
 'New Domain Alias': 'Novo Alias'
-'Domain name': Nome do Domínio
+'Domain name': 'Nome do Domínio'
 'Enter Domain Name': 'Digitar Domínio'
 'Enter IP address': 'Digite o endereço IP'
 'Enter mail domain': 'Digite endereço do servidor de correio'
@@ -814,7 +814,7 @@ On: Ativado
 'Invalid period. Must be between 1 and 5.': 'Período inválido. Deve ser entre 1 e 5.'
 'Domain is available': 'Domínio está disponível'
 'Domain is already taken': 'Domínio já está sendo usado'
-'There is no pricing information for this TLD and period.': "Não há informações sobre preços para este TLD e período."
+'There is no pricing information for this TLD and period.': 'Não há informações sobre preços para este TLD e período.'
 'Email service is not enabled. Please enable Email service before trying to manage email accounts.': 'O serviço de e-mail não está habilitado. Por favor ative o serviço de e-mail antes de tentar gerenciar contas.'
 'Username not found': 'Nome de usuário não encontrado'
 'Email Account has been removed': 'Esta conta de e-mail foi removida'
@@ -1024,3 +1024,230 @@ change: alterar
 'The reverse DNS for %ip% resolves to %host%': 'O DNS reverso para %ip% resolve %host%'
 'The reverse DNS for %ip% could not be resolved': 'O DNS reverso para %ip% não pôde ser resolvido'
 'Invalid format for hostname': 'Formato do hostname inválido'
+Release: Release
+Controller: Controlador
+Ok: Aceitar
+'Project type': 'Tipo de projeto'
+'Activity Log': 'Log de atividades'
+'Select Action': 'Selecionar Ação  '
+Clone: 'Clonar '
+'Installed Apps': 'Aplicações Instaladas '
+'Add App': 'Adicionar App'
+'New App': 'Nova App'
+'Scan for apps': 'Detectar Apps'
+'Assign to': 'Atribuir a'
+'Current Release': 'Versão atual'
+'Previous Releases': 'Versões anteriores'
+'Clone project': 'Clonar projeto'
+'Config Files': 'Arquivos de Configuração'
+top: início
+Mode: Modo
+'Last saved': 'Última gravação'
+File: Arquivo
+'Change user/group': 'Alterar usuário/grupo'
+Done: Concluído
+'Open target': 'Abrir destino'
+'Delete shortcut': 'Apagar atalho'
+'You haven''t added any shortcuts yet. Shortcuts let you bookmark files or directories making it easy to find them again. To add a shortcut click on the <i class="shortcut shortcut_disabled"></i> next to the item you wish to bookmark.': 'Você não adicionou nenhum atalho. Os atalhos permitem acessar arquivos e diretórios rapidamente. Para adicionar um atalho clique no <i class="shortcut shortcut_disabled"> </ i> ao lado do item que deseja marcar.'
+'Loading, please wait': 'Carregando, aguarde'
+'Known security issues': 'Problemas de segurança conhecidos'
+Source: Fonte
+Target: Destino
+Auto-clear: 'Limpar automaticamente'
+'Latest commands': 'Últimos comandos'
+Run: Executar
+Clear: Limpar
+'Select log file': 'Selecione o arquivo de log'
+'Enable auto-tail': 'Habilite monitoramento'
+'Release ID': 'ID da versão'
+'No description added on this release': 'Nenhuma descrição adicionada nesta versão'
+Current: Atual
+Revert: Reverter
+deployed: Deployed
+'More Info': 'mais informações'
+'Project scanner': 'Detector de projetos'
+Location: Localização
+'%domain% projects': 'projetos em %domain%'
+Rescan: Reanalisar
+Overview: Resumo
+Console: Console
+Config: Configuração
+Logs: Logs
+'Add URL': 'Adicionar URL'
+'No releases have been made yet': 'Não foi encontrada nemuma versão.'
+'Release History': 'Histórico de versões'
+Deploy: Deploy
+'File Manager': 'Gerenciador de arquivos'
+Go: Ir
+Permissions: Permissões
+'Manage shortcuts': 'Gerenciar atalhos'
+'New File': 'Novo Arquivo'
+'New Folder': 'Nova Pasta'
+'Upload File': 'Subir Arquivo'
+'Compress Selection': 'Comprimir selecionado'
+'Delete Selection': 'Deletar selecionado'
+Filter: Filtro
+Owner: Dono
+'Date modified': 'Data de modificação'
+View: Ver
+Compress: Comprimir
+Rename: Renomear
+Copy: Copiar
+Move: Mover
+Uncompress: Descomprimir
+'File properties': 'Propriedades do arquivo'
+Filename: 'Nome do arquivo'
+Created: Criado
+Modified: Modificado
+'Security Advisories': 'Avisos de Segurança'
+'Known issues found': 'Problemas de segurança foram encontrados'
+Error: Error
+Checking: Verificando
+OK: OK
+'Retrieving file, please wait': 'Obtendo arquivo, aguarde por favor'
+Page: Página
+'File preview': 'Preview do arquivo'
+'No available preview for file type': 'Nenhuma prévisualização para este tipo de arquivo'
+'Download file': 'Baixar arquivo'
+'The ''root'' password <strong>won''t be stored</strong>.': ' A senha "root" <strong>não será armazenada </ strong>.'
+'Root password': 'Senha root'
+'Show archived versions': 'Mostrar versões anteriores'
+new: Novo
+recommended: recomendado
+'Select an operating system': 'Selecione um sistema operacional'
+'System DBs': 'DBs do sistema'
+Refresh: Refresh
+'Open in new window': 'Nova janela'
+'Show/hide folders': 'Mostrar/ocultar pastas'
+'Show/hide files': 'Mostrar/ocultar arquivos'
+'Change directory': 'Mude o diretório'
+Hosts: Sistemas
+'View info': 'Ver Info'
+'No databases found for this user': 'Nenhum banco de dados encontrados para este usuário'
+'We have detected there is an ''anonymous'' user. You should remove it before moving into a production environment.': 'Nós detectamos que há um usuário "anônimo". Recomendamos removê-lo antes de passar para um ambiente de produção.'
+'Remove anonymous user': 'Remover usuário anônimo'
+'This user is needed by the ServerGrove control panel in order to manage databases and privileges.': 'Este usuário é necessário para o painel de controle para gerenciar os bancos de dados e privilégios.'
+'General information': 'Informações gerais'
+'Global privileges': 'Privilégios globais'
+'Generate random password': 'Gerar senha aleatória'
+Options: Opções
+'I know the current root password (no MySQL server restart needed)': 'Conheço a senha de root atual (não é necessário reiniciar o servidor MySQL)'
+'I don''t know the current root password': 'Eu não sei a senha do usuário root'
+'Allow Access From Host': 'Permitir o acesso '
+Localhost: Localhost
+Anywhere: 'Qualquer fonte'
+Other: Outro
+Charset: Charset
+Collation: Colação
+'Select existing user': 'Selecione usuário existente'
+'Create new user': 'Criar novo usuário'
+'Available users': 'Usuários disponíveis'
+Tables: Tabelas
+'Advanced permissions': 'Permissões avançadas'
+'Revoke access': 'Revogar acesso'
+'No users assigned': 'Nenhum usuário atribuído'
+Rows: Linhas
+'No tables found': 'Nenhuma tabela encontrada'
+Database: 'Banco de dados'
+Privileges: Privilégios
+'An error has occurred!': 'Ocorreu um erro!'
+'Please correct the issue described above and try again. If this error persists, contact customer support so we can assist you.': 'Corrija o problema descrito acima e tente novamente. Se o erro persistir, contate o suporte ao cliente.'
+'Access to phpMyAdmin has been successfully configured, please use the URL included below.': 'O acesso ao phpMyAdmin foi configurado, por favor use o URL abaixo.'
+URL: URL
+'Location of phpMyAdmin files': 'Localização dos arquivos phpMyAdmin'
+'MySQL Connection': 'Conexão MySQL'
+'In order to use the Control Panel to manage MySQL users and databases, you must allow us to create a user to perform these operations.': 'A fim de utilizar o painel de controle para gerenciar usuários do MySQL e bancos de dados, você deve permitir-nos criar um usuário para executar essas operações.'
+'Please, enter the ''root'' password to connect the Control Panel with the MySQL server.': 'Por favor, digite a senha ''root'' para ligar o Painel de Controle com o servidor MySQL.'
+'Don''t remember the root password?': 'Você esqueceu sua senha de root?'
+'Reset it': Redefini-la
+IP: IP
+'Add a new user': 'Adicionar novo usuário'
+'Secure Site / SSL': 'Site Seguro / SSL'
+'A CNAME record must point to an existing DNS record': 'Um registro CNAME deve apontar para um registro DNS existente'
+'Mail server': 'Servidor de email'
+'The mail server host': 'Nome do servidor de email'
+'The connection port': 'Porta de conexão'
+'Your email account username': 'Seu nome de usuário e-mail'
+'Your email account password': 'A senha da conta de e-mail'
+'Import Email Account': 'Importar conta de e-mail'
+'Import process has started.': 'Processo de importação foi iniciado.'
+'An error occurred trying to connect to the remote host (%host%): %message%': 'Erro ao tentar se conectar ao servidor remoto (%host%): %message%'
+'Invalid path': 'Caminho inválido'
+'Invalid URL': 'URL inválido'
+'Loading more messages': 'Carregando mais mensagens'
+'There are no more messages in your inbox': 'Não há mais mensagens em sua caixa de entrada'
+'The settings has been copied to your clipboard': 'As configurações foram copiados para o clipboard'
+'New password must contain at least 1 number or symbol.': 'Sua senha deve conter pelo menos um número ou símbolo.'
+'New password must contain at least 1 uppercase character.': 'Sua senha deve conter pelo menos uma letra maiúscula.'
+'New password and confirmation must be the same.': 'Senha e confirmação devem ser iguais.'
+'Are you sure you want to unlock this domain?': 'Tem certeza de que deseja desbloquear este domínio?'
+'Are you sure you want to lock this domain?': 'Tem certeza de que deseja bloquear este domínio?'
+'Standard Mailbox': 'Caixa postal padrão'
+'%count% projects have been found on this server': '%count% projetos foram encontrado neste servidor'
+'Access setup': 'Acessar a configuração'
+'Add Apps': 'Adicionar Aplicativos'
+'Are you sure you want to remove the selected projects?': "Tem certeza de que deseja remover os projetos selecionados?\n"
+'Are you sure you want to remove this project?': 'Tem certeza de que deseja remover este projeto?'
+'Checking unmanaged projects': 'Buscando projetos não gerenciados'
+'Command execution': 'Execução de comando'
+'Creating project': 'Criando projeto'
+'Current project': 'Projeto atual'
+'Error cloning project': 'Houve um erro clonando este projeto'
+'Error creating project': 'Erro ao criar projeto'
+'Error importing project': 'Erro na importação do projeto'
+'Error while removing project': 'Erro ao remover projeto'
+'File editor': 'Editor de arquivos'
+'Last week releases': 'Versões da semana anterior'
+'Listing projects': 'Listando projetos'
+Loading: Carregando
+'No URLs have been assigned to this project yet.': 'Nenhum URL foi atribuído a este projecto.'
+'No projects have been found on the server': 'Nenhum projeto foi encontrado no servidor'
+'One project has been found on this server': 'Um projeto foi encontrado neste servidor'
+'Previous releases': 'Versões anteriores'
+'New MongoDB service': 'Novo serviço MongoDB'
+'New VPS service': 'Novo VPS'
+'New repository': 'Novo repositório'
+'Please, provide an explanation for the cancellation. <br>Feedback is key for us to improve our service': 'Por favor dar uma explicação para o cancelamento. O feedback é fundamental para que possamos melhorar o nosso serviço'
+New: Novo
+Warning: Alerta
+'Select an OS': 'Selecione um SO'
+Graphical: Gráfico
+'ServerGrove Blog': 'Blog da ServerGrove'
+'Mongo Services': 'Serviços MongoDB'
+History: História
+Server: Servidor
+'Your password': 'Sua senha'
+'Logged in as': 'Logado como'
+'Connection Files': 'Arquivos de Conexão'
+'Select operating system': 'Selecione um sistema operacional'
+'All Applications': 'Todos os aplicativos'
+'Startup at boot-time': 'Inicialização automática'
+'Forwarding Email': 'Forwarding Email'
+'Post Email': 'Post Email'
+'All Domains': 'Todos os Domínios'
+'Copy all settings': Copiar
+'Contact Support': 'Contate a equipe de suporte'
+'New Collection': 'Nova coleção'
+'Traffic summary for': 'Resumo de tráfego para'
+'Search Knowledge Base / FAQ': 'Pesquisa da Base de Conhecimento / FAQ'
+'Feedback &amp; feature requests': Sugestões
+'Email usage per domain': 'Email usage per domain'
+'Billing Address must match the address on the credit card statement': 'Endereço de faturamento devem combinar o endereço no cartão de crédito'
+'This server is off. Please boot up to start using it.': 'Este servidor está desligado. Por favor, arrancar para começar a usá-lo.'
+Help: Ajuda
+'Enter First Name': 'Digite seu nome'
+'Enter Last Name': 'Digite seu sobrenome'
+'Enter Email': 'Digite seu email'
+'Confirm password': 'Confirmar senha'
+'Enables API Key': 'Habilitar chave API'
+'Send an email with password reset': 'Enviar um e-mail com redefinição de senha'
+'Allow access to Billing information': 'Permitir o acesso a informações de faturamento'
+'Allow access to Support tickets': 'Permitir o acesso aos tickets de suporte'
+'Account Holder': 'Titular da conta'
+'is unpaid. In order to upgrade/downgrade your server you must': 'não foi pago. Para completar o seu upgrade / downgrade do seu servidor você deve'
+'pay this invoice': 'pagar esta factura'
+Account: Conta
+'Today''s bandwidth': 'Transferência de hoje'
+'new user': 'novo usuário'
+'Username must contain letters, numbers, dots, underscores and dashes only.': 'O nome de usuário deve apenas conter letras, números, pontos, sublinhados e traços.'
+'Sorry, we currently don''t support IE.': 'Lamentamos, mas não oferecemos suporte a IE no momento. '

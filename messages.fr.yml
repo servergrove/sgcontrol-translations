@@ -1023,3 +1023,5 @@ Hostname: Hostname
 'The reverse DNS for %ip% resolves to %host%': 'The reverse DNS for %ip% resolves to %host%'
 'The reverse DNS for %ip% could not be resolved': 'The reverse DNS for %ip% could not be resolved'
 'Invalid format for hostname': 'Invalid format for hostname'
+'new user': 'nouvel utilisateur'
+'Sorry, we currently don''t support IE.': 'Désolé, nous ne supportons pas IE.'
