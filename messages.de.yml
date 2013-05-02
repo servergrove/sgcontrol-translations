@@ -29,7 +29,7 @@ Current: Derzeitig
 'Contact Support': 'Kundendienst kontaktieren'
 'New Collection': 'Neue Collection'
 'Traffic summary for': 'Datentraffic-Zusammenfassung für'
-'Total allotted': 'Komplett zugewiesen'
+'Total allotted': 'Insgesamt zugewiesen'
 'Search Knowledge Base / FAQ': 'Durchsuche Wissensdatenbank / FAQ'
 'Feedback &amp; feature requests': 'Feedback &amp; Featurewünsche'
 'Email usage per domain': 'E-Mail-Nutzung pro Domain'
@@ -89,7 +89,7 @@ Invoice: Rechnung
 Invoices: Rechnungen
 Date: Datum
 'Due Date': 'Fälligkeitsdatum'
-Total: Total
+Total: Insgesamt
 Download: Download
 pay: bezahlen
 Attention: Achtung
@@ -123,7 +123,7 @@ uptime: Laufzeit
 ping: Ping
 'MongoDB Server': 'MongoDB-Server'
 'VPS Server': 'VPS-Server'
-Plan: Plan
+Plan: Tarif
 Template: Vorlage
 OS: Betriebssystem
 'Online Users': 'Benutzer online'
@@ -151,198 +151,198 @@ Save: Speichere
 Cancel: Abbruch
 'Current Version': 'Derzeitige Version'
 'Are you sure you want to delete': 'Sind Sie sicher dass Sie löschen möchten'
-'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.': 'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.'
-'YES, I am sure. Delete': 'YES, I am sure. Delete'
-Settings: Settings
-Disabled: Disabled
-disable: disable
-enable: enable
-'Total records': 'Total records'
-Nameservers: Nameservers
-'Host Name': 'Host Name'
-Address: Address
+'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.': 'Alle Daten die mit der Domain zu tun haben (einschließlich Dateien, E-Mail-Accounts, E-Mail-Nachrichten, usw.) werden permanent gelöscht sein.'
+'YES, I am sure. Delete': 'Ja, ich bin sicher. Löschen'
+Settings: Einstellungen
+Disabled: Ausgestellt
+disable: ausstellen
+enable: anstellen
+'Total records': 'Totale Datensätze'
+Nameservers: Nameserver
+'Host Name': 'Rechnername'
+Address: Adresse
 Extra: Extra
-Remove: Remove
-remove: remove
-Edit: Edit
-Editing: Editing
-'Enter Value': 'Enter Value'
-'Enter Name': 'Enter Name'
-Priority: Priority
-'For example': 'For example'
-'You have no domains': 'You have no domains'
-'Add one now': 'Add one now'
-Account: Account
-Accounts: Accounts
-'Email accounts': 'Email accounts'
+Remove: Entferne
+remove: entferne
+Edit: Bearbeite
+Editing: Bearbeiten
+'Enter Value': 'Wert eingeben'
+'Enter Name': 'Name eingeben'
+Priority: Priorität
+'For example': 'Zum Beispiel'
+'You have no domains': 'Sie haben keine Domains'
+'Add one now': 'Neue jetzt hinzufügen'
+Account: Konto
+Accounts: Konten
+'Email accounts': 'E-Mail-Konten'
 Webmail: Webmail
-'Secure Webmail': 'Secure Webmail'
+'Secure Webmail': 'Sicheres Webmail'
 Port: Port
-'SSL enabled': 'SSL enabled'
-'Alternate Port': 'Alternate Port'
-Autoresponder: Autoresponder
-configure: configure
+'SSL enabled': 'SSL angestellt'
+'Alternate Port': 'Alternativer Port'
+Autoresponder: Automatische Antwort
+configure: konfiguriere
 Alias: Alias
-'remove alias': 'remove alias'
-'Add Alias': 'Add Alias'
-Redirects: Redirects
-'Add Redirect': 'Add Redirect'
-'Configuration for': 'Configuration for'
-'First Name': 'First Name'
-'Last Name': 'Last Name'
-'Full Name': 'Full Name'
-Phone: Phone
-'EPP code / Authorization key': 'EPP code / Authorization key'
-Request: Request
-'Primary Domain': 'Primary Domain'
-'Registration Information': 'Registration Information'
-'Lock Status': 'Lock Status'
-'Registration Status': 'Registration Status'
-'Renewal Cost': 'Renewal Cost'
-Renew: Renew
-Reload: Reload
-loading: loading
+'remove alias': 'entferne alias'
+'Add Alias': 'Alias hinzufügen'
+Redirects: Umleitungen
+'Add Redirect': 'Umelitung hinzufügen'
+'Configuration for': 'Konfiguration für'
+'First Name': 'Vorname'
+'Last Name': 'Nachname'
+'Full Name': 'Kompletter Name'
+Phone: Telefon
+'EPP code / Authorization key': 'EPP-Code / Authorisierungsschlüssel'
+Request: Anfrage
+'Primary Domain': 'Primäre Domain'
+'Registration Information': 'Registrierungsinformation'
+'Lock Status': 'Sperrstatus'
+'Registration Status': 'Registrierungsstatus'
+'Renewal Cost': 'Erneuerungkosten'
+Renew: Erneuere
+Reload: Erneut laden
+loading: laden
 Subdomains: Subdomains
-Check: Check
-'Checking, please wait': 'Checking, please wait'
-'Select Period': 'Select Period'
-'Select Payment': 'Select Payment'
-view: view
-rotate: rotate
-General: General
-Size: Size
-'Select method': 'Select method'
+Check: Prüfung
+'Checking, please wait': 'Prüfe, bitte warten'
+'Select Period': 'WähleSelect Period'
+'Select Payment': 'Wähle Zahlungsmethode'
+view: anschauen
+rotate: rotieren
+General: Generell
+Size: Größe
+'Select method': 'Methode auswählen'
 Auto: Auto
-or: or
-'Total Domains': 'Total Domains'
-'Domains with email enabled': 'Domains with email enabled'
-'Domains with email disabled': 'Domains with email disabled'
-'Total users': 'Total users'
-'used of': 'used of'
-'Email domain usage': 'Email domain usage'
-purchase: purchase
-'contact us': 'contact us'
-'Need more?': 'Need more?'
-'p/ year': 'p/ year'
-'Hosted Email': 'Hosted Email'
-'Client Settings': 'Client Settings'
-Bulk: Bulk
-Upgrade: Upgrade
-Title: Title
-Note: Note
-Client: Client
-Group: Group
-'User Group': 'User Group'
-'Created on': 'Created on'
-'Last Login': 'Last Login'
-Subject: Subject
-Message: Message
-Urgency: Urgency
-Low: Low
-Medium: Medium
-High: High
-'Open Ticket': 'Open Ticket'
+or: oder
+'Total Domains': 'Domains insgesamt'
+'Domains with email enabled': 'Domains mit E-Mail-Dienst'
+'Domains with email disabled': 'Domains ohne E-Mail-Dienst'
+'Total users': 'Benutzer insgesamt'
+'used of': 'benutzt von'
+'Email domain usage': 'E-Mail-Domain genutzt'
+purchase: kaufen
+'contact us': 'kontaktieren Sie uns'
+'Need more?': 'Sie brauchen mehr?'
+'p/ year': 'p/Jahr'
+'Hosted Email': 'Gehosteter E-Mail-Dienst'
+'Client Settings': 'Programmeinstellungen'
+Bulk: Massen
+Upgrade: Aufrüstung
+Title: Titel
+Note: Hinweis
+Client: Kunde
+Group: Gruppe
+'User Group': 'Benutzergruppe'
+'Created on': 'Erstellt am'
+'Last Login': 'Letzte Anmeldung'
+Subject: Betreff
+Message: Nachricht
+Urgency: Dringlichkeit
+Low: Gering
+Medium: Mittel
+High: Hoch
+'Open Ticket': 'Offene AnfrageO'
 ID: ID
-'Date Submitted': 'Date Submitted'
-Frequency: Frequency
-Destination: Recipients
-monitors: monitors
-Servers: Servers
-'Last Sent': 'Last Sent'
-'Today''s bandwidth': 'Today''s bandwidth'
-bandwidth: bandwidth
-Bandwidth: Bandwidth
-monthly: monthly
-daily: daily
-Month: Month
-In: In
-Out: Out
-Day: Day
-Traffic: Traffic
-Summary: Summary
-'Public Network': 'Public Network'
-Today: Today
-Yesterday: Yesterday
-'This month': 'This month'
-'Last 3 months': 'Last 3 months'
-'Last 6 months': 'Last 6 months'
-'This year': 'This year'
-'Last year': 'Last year'
-'No public IP addresses configured': 'No public IP addresses configured'
-'Private/LAN Network': 'Private/LAN Network'
-'No private IP addresses configured': 'No private IP addresses configured'
+'Date Submitted': 'Einreichungsdatum'
+Frequency: Frequenz
+Destination: Empfänger
+monitors: Überwacher
+Servers: Server
+'Last Sent': 'Zuletzt gesendet'
+'Today''s bandwidth': 'Heutige Bandbreite'
+bandwidth: Bandbreite
+Bandwidth: Bandbreite
+monthly: monatlich
+daily: täglich
+Month: Monat
+In: Eingehend
+Out: Ausgehend
+Day: Tag
+Traffic: Datenverkehr
+Summary: Zusammenfasung
+'Public Network': 'Öffentliches Netzwerk'
+Today: Heute
+Yesterday: Gestern
+'This month': 'Diesen Monat'
+'Last 3 months': 'Letzte drei Monate'
+'Last 6 months': 'Letzte sechs Monate'
+'This year': 'Dieses Jahr'
+'Last year': 'Letztes Jahr'
+'No public IP addresses configured': 'Keine öffentlichen IP-Adressen konfiguriert'
+'Private/LAN Network': 'Privates/LAN-Netzwerk'
+'No private IP addresses configured': 'Keine privaten IP-Adressen konfiguriert'
 RAM: RAM
-Controls: Controls
-'This server is suspended. Please contact Customer Support.': 'This server is suspended. Please contact Customer Support.'
-Reboot: Reboot
-Shutdown: Shutdown
-'Boot up': 'Boot up'
-Tasks: Tasks
-stopped: stopped
-sleeping: sleeping
-running: running
-users: users
-'load average': 'load average'
-Graphic: Graphic
+Controls: Kontrollen
+'This server is suspended. Please contact Customer Support.': 'Dieser Server wurde suspendiert. Bitte kontaktieren Sie den Kundendienst.'
+Reboot: Neustart
+Shutdown: Herunterfahren
+'Boot up': 'Hochfahren'
+Tasks: Aufgaben
+stopped: gestoppt
+sleeping: schlafend
+running: laufend
+users: Benutzer
+'load average': 'Durchschnittliche Last'
+Graphic: Grafik
 Text: Text
-'Go to Parent': 'Go to Parent'
-Actions: Actions
-Please: Please
-Rebuild: Rebuild
-'Rebuild Server': 'Rebuild Server'
-'upgrade from the Client Area': 'upgrade from the Client Area'
-'submit a support request': 'submit a support request'
-'so we can update your server billing information': 'so we can update your server billing information'
-'This will cancel your service. All files will be destroyed and your server will cease to exist.': 'This will cancel your service. All files will be destroyed and your server will cease to exist.'
-'If you wish to change your OS or have a clean install, please': 'If you wish to change your OS or have a clean install, you may'
-'rebuild your server': 'rebuild your server'
-'Order process failed to return a valid Invoice': 'Order process failed to return a valid Invoice'
-'The order has been accepted. Your server will be updated shortly.': 'The order has been accepted. Your server will be updated shortly.'
-'Please select a new plan': 'Please select a new plan'
-'You did not change the plan. Are you sure you want to continue with the update plan request?': 'You did not change the plan. Are you sure you want to continue with the update plan request?'
-'Are you sure you want to change the server plan?': 'Are you sure you want to change the server plan?'
-'Changing plan': 'Changing plan'
-'Checking new pricing': 'Checking new pricing'
-'Amount due today': 'Amount due today'
-'Recurring amount': 'Recurring amount'
-'Next due date': 'Next due date'
-'Enter email': 'Enter email'
-'Enter password': 'Enter password'
-'Forgot password?': 'Forgot password?'
-'Reset Password': 'Reset Password'
+'Go to Parent': 'Gehe zum Elternelement'
+Actions: Aktionen
+Please: Bitte
+Rebuild: Wiederherstellung
+'Rebuild Server': 'Stelle Server wieder her'
+'upgrade from the Client Area': 'rüste vom Kundenbereich auf'
+'submit a support request': 'Kundendienstanfrage einreichen'
+'so we can update your server billing information': 'so dass wir Ihre Server-Abrechnungsdaten aktualisieren können'
+'This will cancel your service. All files will be destroyed and your server will cease to exist.': 'Dies wird Ihren Dienst kündigen. Alle Dateien werden vernichtet und Ihr Server wird aufhören zu existieren.'
+'If you wish to change your OS or have a clean install, please': 'Wenn Sie Ihr Betriebssystem ändern möchten, können Sie'
+'rebuild your server': 'Ihren Server wiederherstellen'
+'Order process failed to return a valid Invoice': 'Bestellprozess scheitert damit, eine gültige Rechnung zurückzuliefern'
+'The order has been accepted. Your server will be updated shortly.': 'Der Auftrag wurde akzeptiert. Ihr Server wird in Kürze aktualisiert.'
+'Please select a new plan': 'Bitte neuen Tarif auswählen'
+'You did not change the plan. Are you sure you want to continue with the update plan request?': 'Sie haben den Tarif nicht verändert. Sind Sie sicher, dass Sie mit der Tarifaktualisierungsanfrage weiter machen möchten?'
+'Are you sure you want to change the server plan?': 'Sind Sie sicher dass Sie den Servertarif ändern möchten?'
+'Changing plan': 'Tarif ändern'
+'Checking new pricing': 'Neue Preise überprüfen'
+'Amount due today': 'Betrag heute fällig'
+'Recurring amount': 'Wiederkehrender Betrag'
+'Next due date': 'Nächstes Fälligkeitsdatum'
+'Enter email': 'E-Mail-Adresse eingeben'
+'Enter password': 'Kennwort eingeben'
+'Forgot password?': 'Kenntword vergessen?'
+'Reset Password': 'Kennwort zurücksetzen'
 'Mobile Version': 'Mobile Version'
-'Enter your email address': 'Enter your email address'
-'Back to login page': 'Back to login page'
-'New Password': 'New Password'
-'Confirm Password': 'Confirm Password'
-'Change Password': 'Change Password'
-'Login to Control Panel': 'Login to Control Panel'
-'A password reset for the ServerGrove VPS Control Panel has been issued for your account': 'A password reset for the ServerGrove VPS Control Panel has been issued for your account'
-'To reset your password please follow this link': 'To reset your password please follow this link'
-'This request will expire in 5 minutes': 'This request will expire in 5 minutes'
-'If you do not wish to reset your password, no action is required': 'If you do not wish to reset your password, no action is required'
-'ServerGrove Team': 'ServerGrove Team'
+'Enter your email address': 'Ihre E-Mail-Adresse eingeben'
+'Back to login page': 'Zurück zur Anmelde-Seite'
+'New Password': 'Neues Kennwort'
+'Confirm Password': 'Kennwort bestätigend'
+'Change Password': 'Kennwort ändern'
+'Login to Control Panel': 'Anmeldung zum Verwaltungsbereich'
+'A password reset for the ServerGrove VPS Control Panel has been issued for your account': 'Eine Kennwortwiederherstellung für den VPS-Verwaltungsbereich von ServerGrove wurde für Ihren Zugang ausgelöst'
+'To reset your password please follow this link': 'Um das Kennwort wieder herzustellen, nutzen Sie bitte diesen Link'
+'This request will expire in 5 minutes': 'Diese Anfrage wird in fünf Minuten ungültig'
+'If you do not wish to reset your password, no action is required': 'Wenn Sie Ihr Kennwort nicht zurücksetzen möchten, brauchen Sie jetzt nicht tätig zu werden'
+'ServerGrove Team': 'ServerGrove-Team'
 'Services will give you a quick overview of all your servers in one place. This is the page you are on right now.': 'Services will give you a quick overview of all your servers in one place. This is the page you are on right now.'
 'This is the name of your server. Mouseover this link to get more information.': 'This is the name of your server. Mouseover this link to get more information.'
 'These graphs offer you a quick overview of the resources available on your system. Mouseover these links to get more information.': 'These graphs offer you a quick overview of the resources available on your system. Mouseover these links to get more information.'
 'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places across the globe.': 'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places across the globe.'
-'Click here to start managing your server.': 'Click here to start managing your server.'
-'You may add servers to your account anytime.': 'You may add servers to your account anytime.'
+'Click here to start managing your server.': 'Klicken Sie hier um mit der Verwaltung Ihres Servers zu beginnen.'
+'You may add servers to your account anytime.': 'Sie können zu Ihrem Zugang jederzeit neue Server hinzufügen.'
 'Go to your profile page to change your login password to the control panel': 'Go to your profile page to change your login password to the control panel'
 'You may also setup multiple accounts for your developers and specify which servers they have access to.': 'You may also setup multiple accounts for your developers and specify which servers they have access to.'
 'The billing section allows you to update your credit card information, view and pay your invoices and view the archive of past invoices.': 'The billing section allows you to update your credit card information, view and pay your invoices and view the archive of past invoices.'
 'Your server comes with built in basic monitoring. This section allows you to adjust the settings and setup notifications.': 'Your server comes with built in basic monitoring. This section allows you to adjust the settings and setup notifications.'
 'Your inbox collects all your alerts and messages from ServerGrove.': 'Your inbox collects all your alerts and messages from ServerGrove.'
 'Our support section is designed to let you communicate with our support team.': 'Our support section is designed to let you communicate with our support team.'
-'Add a monitor': 'Add a monitor'
-'Event Type': 'Event Type'
-'Reached resource limits (memory, disk, etc.)': 'Reached resource limits (memory, disk, etc.)'
-'ServerGrove announcements': 'ServerGrove announcements'
-'Apply to Servers': 'Apply to Servers'
-'Real time': 'Real time'
-'Once a day': 'Once a day'
-'Once a week': 'Once a week'
-'Once a month': 'Once a month'
+'Add a monitor': 'Überwachung hinzufügen'
+'Event Type': 'Ereignistyp'
+'Reached resource limits (memory, disk, etc.)': 'Erreichte Ressourcenbeschränkungen (Speicher, Festplatte, usw.)'
+'ServerGrove announcements': 'ServerGrove-Ankündigung'
+'Apply to Servers': 'Auf Server anwenden'
+'Real time': 'Echtzeit'
+'Once a day': 'Einmal am Tag'
+'Once a week': 'Einmal in der Woche'
+'Once a month': 'Einmal im Monat'
 'Monitors keep an eye on your server and send you alerts via email when you reach your limits.': 'Monitors keep an eye on your server and send you alerts via email when you reach your limits.'
 'Disk Storage': 'Disk Storage'
 'Email Storage': 'Email Storage'
