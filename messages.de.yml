@@ -1,0 +1,1191 @@
+'All Services': 'Meine Dienste'
+'Remember me': 'Erinnere Dich an mich'
+'New MongoDB service': 'Neuer MongoDB-Dienst'
+'New VPS service': 'Neuer VPS-Dienst'
+'New repository': 'Neues Repository'
+'Please, provide an explanation for the cancellation. <br>Feedback is key for us to improve our service': 'Bitte teilen Sie uns den Grund Ihrer Kündigung mit. <br> Ihre Meinung ist der Schlüssel dazu, unseren Service zu verbessern.'
+New: Neu
+Warning: Warnung
+'Select an OS': 'Betriebssystem auswählen'
+Graphical: Grafisch
+'ServerGrove Blog': 'ServerGrove Blog'
+'VPS Services': 'VPS-Dienste'
+'Mongo Services': 'Mongo-Dienste'
+History: Historie
+Server: Server
+Current: Derzeitig
+'Your password': 'Ihr Kennwort'
+'Logged in as': 'Angemeldet als'
+'Overview of': 'Übersicht von'
+'Connection Files': 'Verbindungs-Dateien'
+'Select operating system': 'Betriebssystem auswählen'
+'All Applications': 'Alle Anwendungen'
+'Startup at boot-time': 'Starten beim Rechnerstart'
+'Copy all settings': 'Kopiere alle Einstellungen'
+'Standard Mailbox': 'Standard-Postfach'
+'Forwarding Email': 'Leite E-Mail weiter'
+'Post Email': 'Sende E-Mail'
+'All Domains': 'Alle Domains'
+'Contact Support': 'Kundendienst kontaktieren'
+'New Collection': 'Neue Collection'
+'Traffic summary for': 'Datentraffic-Zusammenfassung für'
+'Total allotted': 'Insgesamt zugewiesen'
+'Search Knowledge Base / FAQ': 'Durchsuche Wissensdatenbank / FAQ'
+'Feedback &amp; feature requests': 'Feedback &amp; Featurewünsche'
+'Email usage per domain': 'E-Mail-Nutzung pro Domain'
+'Billing Address must match the address on the credit card statement': 'Die Rechnungsadresse muß mit der Adresse auf der Kreditkartenabrechnung übereinstimmen.'
+'New User': 'Neuer Benutzer'
+'This server is off. Please boot up to start using it.': 'Der Server ist ausgeschaltet. Bitte starten Sie ihn für die Benutzung.'
+'spam filter directions': 'Dieses Formular erlaunt Ihnen, die Filterparameter Ihres Anti-Spam-Dienstes anzupassen. Der Score filtert den Inhalt und kann zwischen 1 und 10 eingestellt werden, wobei 1 für besonders sensibel steht. Empfohlene Werte sind zwischen 5 und 7. Whitelist (Positivliste) und Blacklist (Negativliste) erlauben Ihnen zu definieren, welche E-Mails immer oder nie durch den Spamfilter dürfen. Führen Sie eine E-Mail pro Zeile auf. Um eine komplette Domain auf die Whitelist oder Blacklist zu setzen, benutzen Sie *@domain.de als Eintrag.'
+Help: Hilfe
+'Enter First Name': 'Vornamen eingeben'
+'Enter Last Name': 'Nachnamen eingeben'
+'Enter Email': 'E-Mail-Adresse eingeben'
+'Confirm password': 'Kennwort bestätigen'
+'Enables API Key': 'Aktiviert API-Schlüssel'
+'Send an email with password reset': 'E-Mail mit Kennwort-Zurücksetzung schicken'
+'Allow access to Billing information': 'Erlaube Zugriff auf Rechnungsinformationen'
+'Allow access to Support tickets': 'Erlaube Zugriff auf Kundendienst-Anfragen'
+'Account Holder': 'Kontoinhaber'
+'is unpaid. In order to upgrade/downgrade your server you must': 'ist unbezahlt. Um Ihren Server hoch- oder runterzustufen, müssen Sie'
+'pay this invoice': 'diese Rechnung bezahlen'
+Email: E-Mail
+Password: Kennwort
+password: Kennwort
+Language: deutsch
+Authenticating: Authentifiziere
+suspend: suspendieren
+activate: aktivieren
+Login: Anmeldung
+Submit: Einreichen
+Username: Benutzername
+Name: Name
+Users: Benutzer
+User: Benutzer
+Managing: Verwalten
+Manage: Verwalte
+info: Info
+Info: Info
+Configure: Konfigurieren
+services: Dienste
+Services: Dienste
+service: Dienst
+apps: Anwendungen
+Enabled: Freigegeben
+Status: Status
+'Sync Control': 'Abgleich-Kontrolle'
+ReSync: Gleiche ab
+'Last sync': 'Letzter Abgleich'
+NOTE: HINWEIS
+Uninstall: Deinstalliere
+Installed: Installiert
+Install: Installiere
+Version: Version
+Category: Kategorie
+Categories: Kategorien
+None: Keine
+Invoice: Rechnung
+'Credit card': 'Kreditkarte'
+Invoices: Rechnungen
+Date: Datum
+'Due Date': 'Fälligkeitsdatum'
+Total: Insgesamt
+Download: Download
+pay: bezahlen
+Attention: Achtung
+Update: Aktualisierung
+dashboard: dashboard
+Dashboard: Dashboard
+Resources: Ressourcen
+Network: Netzwerk
+Top: Top
+Connect: Verbindung
+'free of': 'frei von'
+Free: Frei
+Memory: SpeicherMemory
+Used: Verbraucht
+'Disk usage': 'Festplattennutzung'
+'Disk Usage': 'Festplattennutzung'
+'Disk Consumption': 'Festplattenverbrauch'
+'Memory Consumption': 'Speicherverbrauch'
+'CPU Load': 'Hauptprozessor-Last'
+'Average CPU Load': 'Durchschnittliche Hauptprozessor-Last'
+'Live CPU': 'Live Hauptprozessor'
+Add: Hnizufügen
+'Add a server': 'Server hinzufügen'
+Active: Aktiv
+active: aktiv
+offline: Nicht im Netz
+All: Alle
+mem: Speicher
+disk: Festplatte
+uptime: Laufzeit
+ping: Ping
+'MongoDB Server': 'MongoDB-Server'
+'VPS Server': 'VPS-Server'
+Plan: Tarif
+Template: Vorlage
+OS: Betriebssystem
+'Online Users': 'Benutzer online'
+'Internal IP': 'Interne IP'
+'Customer Support': 'Kundendienst'
+'Knowledge Base': 'Wissensdatenbank'
+'Web Hosting': 'Webhosting'
+'Open in Browser': 'Öffne im Browser'
+Browse: Durchstöbern
+Delete: Löschen
+delete: löschen
+Deleting: Lösche
+'Delete Domain': 'Lösche Domain'
+domains: Domains
+Domains: Domains
+Path: Pfad
+Type: Typ
+Temporary: Temporär
+Permanent: Dauerhaft
+'Sending request': 'Sende Anfrage'
+'Email Hosting': 'E-Mail-Hosting'
+'days remaining': 'Tage übrig'
+'Not available': 'Nicht verfügbar'
+Save: Speichere
+Cancel: Abbruch
+'Current Version': 'Derzeitige Version'
+'Are you sure you want to delete': 'Sind Sie sicher dass Sie löschen möchten'
+'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.': 'Alle Daten die mit der Domain zu tun haben (einschließlich Dateien, E-Mail-Accounts, E-Mail-Nachrichten, usw.) werden permanent gelöscht sein.'
+'YES, I am sure. Delete': 'Ja, ich bin sicher. Löschen'
+Settings: Einstellungen
+Disabled: Ausgestellt
+disable: ausstellen
+enable: anstellen
+'Total records': 'Totale Datensätze'
+Nameservers: Nameserver
+'Host Name': 'Rechnername'
+Address: Adresse
+Extra: Extra
+Remove: Entferne
+remove: entferne
+Edit: Bearbeite
+Editing: Bearbeiten
+'Enter Value': 'Wert eingeben'
+'Enter Name': 'Name eingeben'
+Priority: Priorität
+'For example': 'Zum Beispiel'
+'You have no domains': 'Sie haben keine Domains'
+'Add one now': 'Neue jetzt hinzufügen'
+Account: Konto
+Accounts: Konten
+'Email accounts': 'E-Mail-Konten'
+Webmail: Webmail
+'Secure Webmail': 'Sicheres Webmail'
+Port: Port
+'SSL enabled': 'SSL angestellt'
+'Alternate Port': 'Alternativer Port'
+Autoresponder: Automatische Antwort
+configure: konfiguriere
+Alias: Alias
+'remove alias': 'entferne alias'
+'Add Alias': 'Alias hinzufügen'
+Redirects: Umleitungen
+'Add Redirect': 'Umelitung hinzufügen'
+'Configuration for': 'Konfiguration für'
+'First Name': 'Vorname'
+'Last Name': 'Nachname'
+'Full Name': 'Kompletter Name'
+Phone: Telefon
+'EPP code / Authorization key': 'EPP-Code / Authorisierungsschlüssel'
+Request: Anfrage
+'Primary Domain': 'Primäre Domain'
+'Registration Information': 'Registrierungsinformation'
+'Lock Status': 'Sperrstatus'
+'Registration Status': 'Registrierungsstatus'
+'Renewal Cost': 'Erneuerungkosten'
+Renew: Erneuere
+Reload: Erneut laden
+loading: laden
+Subdomains: Subdomains
+Check: Prüfung
+'Checking, please wait': 'Prüfe, bitte warten'
+'Select Period': 'WähleSelect Period'
+'Select Payment': 'Wähle Zahlungsmethode'
+view: anschauen
+rotate: rotieren
+General: Generell
+Size: Größe
+'Select method': 'Methode auswählen'
+Auto: Auto
+or: oder
+'Total Domains': 'Domains insgesamt'
+'Domains with email enabled': 'Domains mit E-Mail-Dienst'
+'Domains with email disabled': 'Domains ohne E-Mail-Dienst'
+'Total users': 'Benutzer insgesamt'
+'used of': 'benutzt von'
+'Email domain usage': 'E-Mail-Domain genutzt'
+purchase: kaufen
+'contact us': 'kontaktieren Sie uns'
+'Need more?': 'Sie brauchen mehr?'
+'p/ year': 'p/Jahr'
+'Hosted Email': 'Gehosteter E-Mail-Dienst'
+'Client Settings': 'Programmeinstellungen'
+Bulk: Massen
+Upgrade: Aufrüstung
+Title: Titel
+Note: Hinweis
+Client: Kunde
+Group: Gruppe
+'User Group': 'Benutzergruppe'
+'Created on': 'Erstellt am'
+'Last Login': 'Letzte Anmeldung'
+Subject: Betreff
+Message: Nachricht
+Urgency: Dringlichkeit
+Low: Gering
+Medium: Mittel
+High: Hoch
+'Open Ticket': 'Offene AnfrageO'
+ID: ID
+'Date Submitted': 'Einreichungsdatum'
+Frequency: Frequenz
+Destination: Empfänger
+monitors: Überwacher
+Servers: Server
+'Last Sent': 'Zuletzt gesendet'
+'Today''s bandwidth': 'Heutige Bandbreite'
+bandwidth: Bandbreite
+Bandwidth: Bandbreite
+monthly: monatlich
+daily: täglich
+Month: Monat
+In: Eingehend
+Out: Ausgehend
+Day: Tag
+Traffic: Datenverkehr
+Summary: Zusammenfasung
+'Public Network': 'Öffentliches Netzwerk'
+Today: Heute
+Yesterday: Gestern
+'This month': 'Diesen Monat'
+'Last 3 months': 'Letzte drei Monate'
+'Last 6 months': 'Letzte sechs Monate'
+'This year': 'Dieses Jahr'
+'Last year': 'Letztes Jahr'
+'No public IP addresses configured': 'Keine öffentlichen IP-Adressen konfiguriert'
+'Private/LAN Network': 'Privates/LAN-Netzwerk'
+'No private IP addresses configured': 'Keine privaten IP-Adressen konfiguriert'
+RAM: RAM
+Controls: Kontrollen
+'This server is suspended. Please contact Customer Support.': 'Dieser Server wurde suspendiert. Bitte kontaktieren Sie den Kundendienst.'
+Reboot: Neustart
+Shutdown: Herunterfahren
+'Boot up': 'Hochfahren'
+Tasks: Aufgaben
+stopped: gestoppt
+sleeping: schlafend
+running: laufend
+users: Benutzer
+'load average': 'Durchschnittliche Last'
+Graphic: Grafik
+Text: Text
+'Go to Parent': 'Gehe zum Elternelement'
+Actions: Aktionen
+Please: Bitte
+Rebuild: Wiederherstellung
+'Rebuild Server': 'Stelle Server wieder her'
+'upgrade from the Client Area': 'rüste vom Kundenbereich auf'
+'submit a support request': 'Kundendienstanfrage einreichen'
+'so we can update your server billing information': 'so dass wir Ihre Server-Abrechnungsdaten aktualisieren können'
+'This will cancel your service. All files will be destroyed and your server will cease to exist.': 'Dies wird Ihren Dienst kündigen. Alle Dateien werden vernichtet und Ihr Server wird aufhören zu existieren.'
+'If you wish to change your OS or have a clean install, please': 'Wenn Sie Ihr Betriebssystem ändern möchten, können Sie'
+'rebuild your server': 'Ihren Server wiederherstellen'
+'Order process failed to return a valid Invoice': 'Bestellprozess scheitert damit, eine gültige Rechnung zurückzuliefern'
+'The order has been accepted. Your server will be updated shortly.': 'Der Auftrag wurde akzeptiert. Ihr Server wird in Kürze aktualisiert.'
+'Please select a new plan': 'Bitte neuen Tarif auswählen'
+'You did not change the plan. Are you sure you want to continue with the update plan request?': 'Sie haben den Tarif nicht verändert. Sind Sie sicher, dass Sie mit der Tarifaktualisierungsanfrage weiter machen möchten?'
+'Are you sure you want to change the server plan?': 'Sind Sie sicher dass Sie den Servertarif ändern möchten?'
+'Changing plan': 'Tarif ändern'
+'Checking new pricing': 'Neue Preise überprüfen'
+'Amount due today': 'Betrag heute fällig'
+'Recurring amount': 'Wiederkehrender Betrag'
+'Next due date': 'Nächstes Fälligkeitsdatum'
+'Enter email': 'E-Mail-Adresse eingeben'
+'Enter password': 'Kennwort eingeben'
+'Forgot password?': 'Kenntword vergessen?'
+'Reset Password': 'Kennwort zurücksetzen'
+'Mobile Version': 'Mobile Version'
+'Enter your email address': 'Ihre E-Mail-Adresse eingeben'
+'Back to login page': 'Zurück zur Anmelde-Seite'
+'New Password': 'Neues Kennwort'
+'Confirm Password': 'Kennwort bestätigend'
+'Change Password': 'Kennwort ändern'
+'Login to Control Panel': 'Anmeldung zum Verwaltungsbereich'
+'A password reset for the ServerGrove VPS Control Panel has been issued for your account': 'Eine Kennwortwiederherstellung für den VPS-Verwaltungsbereich von ServerGrove wurde für Ihren Zugang ausgelöst'
+'To reset your password please follow this link': 'Um das Kennwort wieder herzustellen, nutzen Sie bitte diesen Link'
+'This request will expire in 5 minutes': 'Diese Anfrage wird in fünf Minuten ungültig'
+'If you do not wish to reset your password, no action is required': 'Wenn Sie Ihr Kennwort nicht zurücksetzen möchten, brauchen Sie jetzt nicht tätig zu werden'
+'ServerGrove Team': 'ServerGrove-Team'
+'Services will give you a quick overview of all your servers in one place. This is the page you are on right now.': 'Dienste gibt Ihnen einen schnellen Überblick an einer Stelle über alle Ihre Server. Dies ist die Seite, auf der Sie gerade sind.'
+'This is the name of your server. Mouseover this link to get more information.': 'Dies ist der Name Ihres Servers. Bewegen Sie die Maus über diesen Link, um mehr Informationen zu erhalten.'
+'These graphs offer you a quick overview of the resources available on your system. Mouseover these links to get more information.': 'Diese Graphen geben Ihnen einen schnellen Überblick über die Ressourcen, die derzeit für Ihr System verfügbar sind. Bewegen Sie die Maus über diesen Link, um mehr Informationen zu erhalten.'
+'This is a simple way to check connectivity to your server. It allows you to ping it from multiple places across the globe.': 'Dies ist eine einfache Methode, die Verbindung zu Ihrem Server zu prüfen. Sie erlaubt Ihnen, Ihren Server von verschiedenen Stellen auf der Welt anzupingen.'
+'Click here to start managing your server.': 'Klicken Sie hier um mit der Verwaltung Ihres Servers zu beginnen.'
+'You may add servers to your account anytime.': 'Sie können zu Ihrem Zugang jederzeit neue Server hinzufügen.'
+'Go to your profile page to change your login password to the control panel': 'Gehen Sie auf die Profilseite, um Ihr Zugangskennwort zum Verwaltungsbereich zu ändern.'
+'You may also setup multiple accounts for your developers and specify which servers they have access to.': 'Sie können auch mehrere Zugänge für Ihre Entwickler erstellen und festlegen, auf welche Server sie jeweils Zugriff haben.'
+'The billing section allows you to update your credit card information, view and pay your invoices and view the archive of past invoices.': 'Der Abrechnungsbereich erlaubt Ihnen, Ihre Kreditkarteninformationen zu aktualisieren, Ihre Rechnungen anzusehen und zu bezahlen sowie ein Archiv der zurückliegenden Rechnungen anzusehen.'
+'Your server comes with built in basic monitoring. This section allows you to adjust the settings and setup notifications.': 'Ihr Server ist mit einer Basis-Überwachung ausgestattet. Dieser Bereich erlaubt Ihnen, die Einstellungen anzupassen und Mitteilungen einzurichten.'
+'Your inbox collects all your alerts and messages from ServerGrove.': 'Ihr Posteingang sammelt alle Alarme und Nachrichten von ServerGrove.'
+'Our support section is designed to let you communicate with our support team.': 'Unser Kundendienstbereich ermöglicht Ihnen, mit unserem Kundendienstteam zu kommunizieren.'
+'Add a monitor': 'Überwachung hinzufügen'
+'Event Type': 'Ereignistyp'
+'Reached resource limits (memory, disk, etc.)': 'Erreichte Ressourcenbeschränkungen (Speicher, Festplatte, usw.)'
+'ServerGrove announcements': 'ServerGrove-Ankündigung'
+'Apply to Servers': 'Auf Server anwenden'
+'Real time': 'Echtzeit'
+'Once a day': 'Einmal am Tag'
+'Once a week': 'Einmal in der Woche'
+'Once a month': 'Einmal im Monat'
+'Monitors keep an eye on your server and send you alerts via email when you reach your limits.': 'Überwachungen behalten Ihren Server im Auge und senden Ihnen Alarme per E-Mail, wenn Sie Ihre Limits erreichen.'
+'Disk Storage': 'Festplattenspeicherplatz'
+'Email Storage': 'E-Mail-Speicherplatz'
+'Current Plan': 'Derzeitiger Tarif'
+/monthly: /monatlich
+'Billing Cycle': 'Abrechnungszeitraum'
+'No links': 'Keine Verbindungen'
+'Console access': 'Konsolenzugriff'
+'SFTP access': 'SFTP-Zugriff'
+'No IP address': 'Keine IP-Adresse'
+'Request a private IP address': 'Eine private IP-Adresse anfragen'
+'Current load': 'Derzeitige Last'
+Processes: Prozesse
+'Discovery process queued.': 'Erkennungsprozess in Warteschlange eingereiht.'
+'Sync server': 'Server synchronisieren'
+'You only need to sync the control panel if you do manual changes directly to your server using SSH': 'Sie brauchen den Verwaltungsbereich nur mit dem Server synchronisieren, wenn Sie direkt auf dem Server über eine SSH-Verbindung manuelle Änderungen vornehmen'
+'Add a new VPS': 'Neuen VPS hinzufügen'
+Timezone: Zeitzone
+'%server%''s Alerts': 'Alarme von %server%'
+'Unread Alerts': 'Ungelesene Alarme'
+'Alerts Archive': 'Alarmarchiv'
+'Cancel Server': 'Server kündigen'
+'There are no alerts for this server. Alerts are triggered by monitors': 'Es gibt keine alarme für diesen Server. Alarme werden durch Überwachungen ausgelöst'
+'Are you sure you want to CANCEL server': 'Are you sure you want to CANCEL server'
+'All data related to the server (including files, databases, etc) will be permanently lost.': 'Alle Dateien, die mit dem Server zu tun haben (inklusive Dateien, Datenbanken, usw.) werden dauerhaft verloren sein.'
+'Please be sure to back-up all your files': 'Bitte stellen Sie sicher, dass alle Ihre Dateien gesichert wurden'
+'Please, provide an explanation for the cancellation. Feedback is key for us to improve our service': 'Bitte teilen Sie uns den Grund Ihrer Kündigung mit. Ihre Meinung ist der Schlüssel dazu, unseren Service zu verbessern'
+'YES, I am sure. CANCEL': 'JA, ich bin sicher. KÜNDIGEN'
+'Please, confirm once again you would like to cancel this server': 'Bitte bestätigen Sie zur Sicherheit noch einmal, dass Sie diesen Server kündigen möchten'
+'Submitting cancellation': 'Reiche Kündigung ein'
+'Sending cancellation request': 'Sende Kündigungsanfrage'
+'%server%''s Diagnostics': 'Diagnose von %server%'
+'System Diagnostics': 'Systemdiagnose'
+'System check': 'Systemüberprüfung'
+check: prüfe
+details: Details
+'Network Tests': 'Netzwerktests'
+'Ping your server IP': 'Ihre Server-IP anpingen'
+'Ping your local IP': 'Ihre lokale IP anpingen'
+'%server%''s Monitors': 'Überwachungen von %server%'
+Monitors: Überwachungen
+'Are you sure you want to remove this alert?': 'Sind Sie sicher, dass Sie diesen Alarm entfernen möchten?'
+'Installing a new image will wipe out all your current files. <u>Please be sure to back-up all your files.</u>': 'Ein neues Image zu installieren wird alle Ihre derzeitigen Daten löschen. <u>Bitte stellen Sie sicher, dass Sie alle Ihre Dateien gesichert haben..</u>'
+'Are you sure you want to reset your VPS?': 'Sind Sie sicher, dass Sie Ihren VPS zurücksetzen möchten?'
+'Current Operating System': 'Derzeitiges Betriebssystem'
+'New root password': 'Neues Rootpasswort'
+'Your server will go offline while it is being rebuilt. You will receive an email when the process is complete. It may take between 1 and 15 minutes depending on how busy the deployment servers are. Please do not try to issue multiple "Rebuild" operations.': 'Ihr Server wird nicht verfügbar sein während er neu aufgesetzt wird. Sie erhalten eine E-Mail sobald der Prozess abgeschlossen ist. Es kann zwischen einer und 15 Minuten dauern, abhängig davon, wie beschäftigt die Einrichtungsserver sind. Bitte versuchen Sie, nicht mehrmals "Neu aufsetzen" einzuleiten.'
+'%server%''s Terminal': 'Terminals von %server%'
+Terminal: Terminal
+'The SSH terminal is a Java Applet and is a 4MB download.': 'Das SSH-Terminal ist ein Java-Applet und ein Download von 4MB.'
+'Load SSH Terminal': 'SSH-Terminal laden'
+'%server%''s Users': 'Benutzer von %server%'
+'System Users': 'Systembenutzer'
+'Home Directory': 'Heimatverzeichnis'
+'Edit User': 'Benutzer bearbeiten'
+'No users': 'Keine Benutzer'
+'Change Server Hostname': 'Hostname des Servers ändern'
+'Server Hostname (ie. server.example.com)': 'Hostname des Servers (z.B. rechnername.beispiel.de)'
+'We haven''t heard from you in a while so we stopped the live charts. To reactivate just move your mouse around.': 'Wir haben eine Weile nichts von Ihnen gehört, daher haben wir die Liveauswertung gestoppt. Um sie zu reaktivieren, bewegen Sie einfach kurz die Maus.'
+'The System section allows you to monitor and control your system. This is the section you are on right now.': 'Der Systembereich erlaubt Ihnen, Ihr System zu kontrollieren und zu überwachen. Dies ist der Bereich, in dem Sie sich gerade befinden.'
+'The Memory, CPU tab will provide you with information about your system.': 'Der Karteireiter Speicher, Prozessor vermittelt Ihnen Infromationen über Ihr System.'
+'It also contains the reboot, shutdown and startup controls for your system.': 'Er enthält auch die Kontrollen, um Ihr System neuzustarten, herunterzufahren oder hochzufahren.'
+'Use the Sync server button to sync your control panel with your server if you made changes to your server using SSH while also logged in to your control panel': 'Benutzen Sie den Knopf Server synchronisieren, um den Verwaltungsbereich mit Ihrem Server abzugleichen. Das ist nötig, wenn Sie auf Ihrem Server via SSH Änderungen vvorgenommen haben, während Sie gleichzeitig im Verwaltungsbereich angemeldet sind'
+'These graphs are updated every 6 seconds.': 'Diese Graphen werden alle 6 Sekunden aktualisiert.'
+'The network tab will show you bandwidth consumption information.': 'Der Karteireiter Netzwerk zeigt Ihnen Informationen über Ihren Bandbreitenverbrauch.'
+'The top tab gives you a visual representation of your servers processes.': 'Der Karteireiter top gibt Ihnen eine visualle Reperäsentation Ihrer Serverprozesse.'
+'The connect tab contains easy access to connection information such as SSH and SFTP.': 'Der Karteireiter Verbindung gibt Ihnren einfachen Zugriff auf Verbindungsinformation, z.B.  für SSH und SFTP.'
+'Our control panel has a simple GUI that allows you to manage the most common applications on your server.': 'Unser Verwaltungsbereich hat eine simple Benutzeroberfläche, die Ihnen erlaubt, die meisten üblichen Anwedungen auf Ihrem Server zu verwalten.'
+'Go to this section to add domains, manage emails, domain aliases, configure hosting, etc..': 'Gehen Sie in diesen Bereich, um Domains hinzuzufügen, E-Mail-Konten zu verwalten, Hosting zu konfigurieren, usw.'
+'Email settings and information': 'E-Mail-Einstellungen und Information'
+'Diagnostics is an easy way to check the status of your server.': 'Die Diagnosen sind eine einfache Methode, um den Status Ihres Servers zu prüfen.'
+'Add, remove and edit system users.': 'Systembenutzer hinzufügen, entfernen und bearbeiten.'
+'Change the timezone on your system.': 'Zeitzone auf Ihrem System ändern.'
+'Add or remove RAM and disk space to your server.': 'RAM oder Festplattenplatz auf Ihrem Server hinzufügen oder entfernen.'
+'Destroy your server and get a new one.': 'Server zerstören und einen neuen bekommen.'
+'Order New Server': 'Neuen Server bestellen'
+'new server': 'neuer Server'
+'Add new %typeName% Server': 'Neuen Server vom Typ %typeName% hinzufügen'
+'Plan information': 'Tarifinformation'
+'Select the plan for the new server. You can upgrade / downgrade your plan at any time without even rebooting your VPS.': 'Bitte wählen Sie den Tarif für den neuen Server aus. Sie können zu jeder Zeit Ihren Tarif hoch oder runterschalten, ohne Ihren virtuellen Server neuzustarten.'
+'Order new %typeName% Server': 'Neuen Server vom Typ %typeName% bestellen'
+'Payment Method': 'Zahlungsmethode'
+'App Control': 'Anwendungskontrolle'
+Start: Starten
+'Are you sure you want to stop this server?': 'Sind Sie sicher, dass Sie diesen Server stoppen wollen?'
+Stop: Stoppen
+'Are you sure you want to restart this server?': 'Sind Sie sicher, dass Sie diesen Server neustarten wollen?'
+Restart: Neustart
+'Updating status, please wait...': 'Aktualisiere Status, bitte warten...'
+'You only need to sync the control panel if you do manual changes to %serverApp% using a SSH client.': 'Sie brauchen den Verwaltungsbereich nur synchronisieren, wenn Sie manuelle Änderungen an %serverApp% mit einem SSH-Client vorgenommen haben.'
+'Are you sure you want to uninstall %serverApp%?': 'Sind Sie sicher dass Sie %serverApp% deinstallieren möchten?'
+'Scan the server and detect apps that you installed manually': 'Server scannen und Anwendungen erkennen, die Sich manuell installiert haben'
+'%server%''s Applications': 'Anwendungen von %server%'
+'%server%''s Apps': 'Anwendungen von %server%'
+'You have no apps installed.': 'Sie haben keine Anwendungen installiert.'
+'Install apps now': 'Jetzt Anwendungen installieren'
+'Configure %server%''s %serverApp%': 'Konfiguriere %serverApp% auf %server%'
+'Retrieving configuration file from server, please wait...': 'Hole Konfigurationsdatei vom Server, bitte warten...'
+'Saving file on server, please wait...': 'Speichere Datei auf dem Server, bitte warten...'
+'Browsing Available Applications': 'Stöbere in verfügbaren Anwendungen'
+Applications: Anwendungen
+'My Applications': 'Meine Anwendungen'
+'Sync Apps': 'Synchronisiere Anwendungen'
+'New Domain Alias': 'Neuer Domain-Alias'
+'Domain name': 'Domain-Name'
+'Enter Domain Name': 'Domain-Namen eingeben'
+'Enter IP address': 'IP-Adresse eingeben'
+'Enter mail domain': 'Mail-Domain eingeben'
+'Enter mail exchanger': 'Mail-Austauschserver (MX) eingeben'
+'Specify priority of mail exchange server': 'Priorität für Mail-Austauschserver festlegen'
+'Enter a canonical name': 'Kanonischen Namen eingeben'
+'Enter TXT record': 'TXT-Eintrag eingeben'
+'Enter a nameserver': 'Nameserver eingeben'
+'Zone is in Read-Only mode': 'Zone ist im nur-lesbaren Modus'
+'New Redirect': 'Neue Weiterleitung'
+'New Subdomain': 'Neue Subdomain'
+Subdomain: Subdomain
+'Edit Virtual Host': 'Bearbeite virtuellen Host'
+'Document Root': 'Dokumenten-Stammverzeichnis'
+'Document root (ie. /var/www/html)': 'Dokumenten-Stammverzeichnis (z.B. /var/www/html)'
+'Access Log': 'Zugriffs-Log'
+'Path to Access Log(ie. example.com-access_log)': 'Pfad zum Zugriffs-Log (z.B. example.com-access_log)'
+'Error Log': 'Fehler-Log'
+'Path to Error Log(ie. example.com-error_log)': 'Pfad zum Fehler-Log (z.B. example.com-error_log)'
+'Index File': 'Indexdatei'
+'Index file(ie. index.php or index.html)': 'Indexdatei (z.B. index.php oder index.html)'
+'Custom Directives': 'Benutzerdefinierte Direktiven'
+'.htaccess Support': 'Unterstützung für .htaccess'
+'WWW Redirect': 'WWW-Weiterleitung'
+'My Domains': 'Meine Domains'
+'Add Domain': 'Domain hinzufügen'
+'Add a domain': 'Domain hinzufügen'
+Whois: Whois
+'Get Whois': 'Whois ermitteln'
+'Domain Name': 'Domain-Name'
+'Register a Domain': 'Eine Domain registrieren'
+'Register a new domain': 'Registriere eine neue Domain'
+'%domain%''s DNS': 'DNS für %domain%''
+'DNS for': 'DNS für'
+'DNS Records': 'DNS-Einträge'
+'%domain% DNS Settings': 'DNS-Einstellungen für %domain%'
+'DNS Service Status': 'Status des DNS-Service'
+'Add DNS Record': 'DNS-Eintrag hinzufügen'
+'Resetting the DNS zone will erase all the current records and create the default ones. Are you sure you want to reset and erase all records?': 'Das Zurücksetzen der DNS-Zone wird alle drezeitigen Einträge löschen und die Standard-Werte wiederherstellen. Sind Sie sicher, dass Sie alle Einträge zurücksetzen und löschen wollen?'
+'Reset DNS Zone': 'DNS-Zone zurücksetzen'
+'Setup Google Apps DNS': 'DNS für Google Apps einrichten'
+'DNS service is currently disabled. Please enable the DNS service with the checkbox on the left section in order to manage the DNS records of this domain.': 'Der DNS-Service ist derzeit ausgeschaltet. Bitte schalten Sie den DNS-Service wieder an, indem Sie die Checkbox im linken Bereich anhaken - Sie können dann die DNS-Einträge für diese Domain verwalten.'
+Records: Einträge
+'No records found.': 'Keine Einträge gefunden.'
+'Are you sure you want to remove this record?': 'Sind Sie sicher, dass Sie diesen Eintrag entfernen möchten?'
+'Are you sure you want to disable the DNS service?': 'Sind Sie sicher, dass Sie den DNS-Service ausschalten möchten?'
+'New DNS Record': 'Neuer DNS-Eintrag'
+'Record Type': 'Eintragstyp'
+'Enter TTL (optional)': 'Lebensdauer (TTL) eingeben (optional)'
+'Enter Priority (optional)': 'Priorität eingeben (optional)'
+'%server%''s Domains': 'Domains auf %server%'
+'Are you sure you want to remove this domain?': 'Sind Sie sicher, dass Sie diese Domain entfernen möchten?'
+'%domain%''s Email Accounts': 'E-Mail-Konten von %domain%'
+'Email setup for': 'E-Mail-Einrichtung für'
+'Email settings for': 'E-Mail-Einstellungen für'
+'Email Service Status': 'E-Mail-Dienst-Status'
+'Add Email Account': 'E-Mail-Konto hinzufügen'
+'Email service is currently disabled. Please enable the Email service with the checkbox on the left section in order to manage the email accounts for this domain': 'Der E-Mail-Dienst ist derzeit ausgeschaltet. Bitte schalten Sie den E-Mail-Dienst wieder an, indem Sie die Checkbox im linken Berehc anhaken - Sie können dann die E-Mail-Konten für diese Domain verwalten.'
+'Change avatar': 'Avatar ändern'
+'POP3 Server': 'POP3-Server'
+'IMAP Server': 'IMAP-Server'
+'SMTP Server': 'SMTP-Server'
+'Use these setting to configure your email client': 'Benutzen Sie diese Einstellungen, um Ihr E-Mail-Programm zu konfigurieren'
+'New Email Account': 'Neues E-Mail-Konto'
+'Account Setup': 'Konto-Einrichtung'
+'Optional Personal Information': 'Optionale perönliche Information'
+'Manage auto responder': 'Verwalte automatische Beantwortung'
+'Enable auto responder': 'Schalte automatisch Beantwortung an'
+'Autoresponder reply': 'Antwort für automatisch Beantwortung'
+'Add Email Alias': 'E-Mail-Alias hinzufügen'
+'Email alias': 'E-Mail-Alias'
+'Add email redirect': 'E-Mail-Umleitung hinzufügen'
+'Destination email address': 'Ziel-E-Mail-Adresse'
+'Are you sure you want to remove this email account?': 'Sind Sie sicher, dass Sie dieses E-Mail-Konto entfernen möchten?'
+'Are you sure you want to remove this email alias?': 'Sind Sie sicher, dass Sie diesen E-Mail-Alias entfernen möchten?'
+'Are you sure you want to remove this email redirect?': 'Sind Sie sicher, dass Sie diese E-Mail-Umleitung entfernen möchten?'
+'Are you sure you want to reset email routing for this domain?': 'Sind Sie sicher, dass Sie das Routing für E-Mails für diese Domain zurücksetzen möchten?'
+'Are you sure you want to disable the Email service?': 'Sind Sie sicher, dass Sie den E-Mail-Dienst ausschalten möchten?'
+'Are you sure you want to request the EPP code for this domain?': 'Sind Sie sicher, dass Sie den EPP-Code für diese Domain beantragen möchten?'
+'Are you sure you want to register this domain?': 'Sind Sie sicher, dass Sie diese Domain registrieren möchten?'
+'Domain Aliases': 'Domain-Aliase'
+'Register New Domain': 'Registriere neue Domain'
+'Registering domain, please wait': 'Registriere Domain, bitte warten'
+'Registering, please wait': 'Registriere, bitte warten'
+'Domain registration received!': 'Domain-Registrierung erhalten!'
+'The domain has been added to the Control Panel': 'Die Domain wurde dem Verwaltungsbereich hinzugefügt'
+'Attempting to process credit card payment': 'Versuche die Kreditkartenzahlung zu verarbeiten'
+'Payment failed': 'Zahlung gescheitert'
+'Payment accepted!': 'Zahlung akzeptiert!'
+'%domain%''s Web Hosting': 'Webhosting von %domain%'
+'Managing Web Hosting for': 'Verwalte Webhosting für'
+'The Web Hosting service for this domain is disabled. Turn it on if you want to manage Web Hosting setting for this domain.': 'Das Webhosting für diese Domain wurde ausgeschaltet. Stellen Sie es an, wenn Sie für diese Domain die Einstellungen für das Webhosting verwalten möchten.'
+'Preview URL': 'URL für Vorschau'
+'Add Domain Alias': 'Domain-Alias hinzufügen'
+'No Domain aliases': 'Keine Domain-Aliase'
+'Add Subdomain': 'Subdomain hinzufügen'
+'No subdomains': 'Keine Subdomains'
+'No redirects': 'Keine Weiterleitungen'
+'Add a protected directory': 'Geschütztes Verzeichnis hinzufügen'
+'Requesting rotation of log file': 'Frage Rotation der Logdatei an'
+'Are you sure you want to disable the web service?': 'Sind Sie sicher, dass Sie den Web-Dienst ausschalten wollen?'
+'Domain Whois': 'Domain Whois'
+'Whois Result': 'Whois-Ergebnis'
+'proceed to Paypal': 'weiter zu Paypal'
+'to complete the order': 'um die Bestellung abzuschließen'
+'Please select a plan': 'Bitte einen Tarif auswählen'
+'Please select the operating system': 'Bitte das Betriebssystem auswählen'
+'Are you sure you want to order this server?': 'Sind Sie sicher, dass Sie diesen Server bestellen möchten?'
+'Submitting order': 'Reiche Bestellung ein'
+Upgrade/Downgrade: Hochstufen/Runterstufen
+'Change Plan': 'Tarif ändern'
+'You can upgrade / downgrade your plan without even rebooting your VPS. The memory and disk allocation will be updated while your system is online. Your files and settings will not be touched. <u>There will be no downtime</u>': 'Sie können Ihren Tarif hoch- oder runterstufen ohne Ihren VPS neuzustarten. Die Zuweisung von Speicher und Plattenplatz wird aktualisiert während Ihr System online ist. Ihre Dateien und Einstellungen werden nicht angerührt. <u>Es wird keine Ausfallzeit geben</u>'
+'This server has no billing information attached': 'Dieser Server hat keine Abrechnungsinformationen zugeordnet'
+'Your credit card has expired!': 'Ihre Kreditkarte ist abgelaufen!'
+'Your credit card is about to expire': 'Ihre Kreditkarte wird bald ablaufen'
+'Update Credit Card': 'Aktualisiere Kreditkarte'
+'update credit card': 'aktualisiere Kreditkarte'
+'Invoices for': 'Rechnungen für'
+'Unpaid Invoices': 'Unbezahlte Rechnungen'
+'Show All Invoices': 'Zeige alle Rechnungen'
+'Invoice num': 'Rechnung #'
+'Date Paid': 'Bezahlt am'
+'Your account has no access to billing information. Please ask the account owner to allow access.': 'Ihr Unterkonto hat keinen Zugriff auf Abrechnungsinformationen. Bitte fragen Sie den Kontobesitzer, dies für Sie freizugeben.'
+'Your account has no associated billing information. Please open a support ticket so we can correct this issue.': 'Ihr Konto hat keine zugewiesenen Abrechnungsinformationen. Bitte öffnen Sie ein Supportticket beim Kundendienst, so dass wir dieses Problem beheben können.'
+'Credit Card Information': 'Kreditkarten-Information'
+'Current credit card on file': 'Derzeitig hinterlegte Kreditkarte'
+'Card Type': 'Kartentyp'
+'Card Number': 'Kartennummer'
+'Expiration Date': 'Ablaufdatum'
+'Update credit card information': 'Aktualisiere Kreditkarteninfromation'
+'Enter Credit Card Number': 'Kreditkartennummer eingeben'
+'If you want to send bulk emails please use your local email server on your VPS. Here''s how': 'Wenn Sie Massenmails verschicken möchten, nutzen Sie bitte den lokalen Mailserver auf Ihrem VPS. Hier sehen Sie wie das geht'
+'I want to send email using using': 'Ich möchte E-Mails versenden mit '
+'Select a method to send email from the above pulldown': 'Wählen Sie eine E-Mail-Versandmethode in der obigen Pulldown-Liste'
+'If you are using Outlook, Thunderbird, Mac Mail App, Sparrow or another similar email client these are your email configuration settings': 'Wenn Sie Outlook, Entourage, Thunderbird, Mac Mail App, Sparrow oder ein ähnlichesa E-Mail-Programm nutzen, sind dies hier Ihre Konfigurationseinstellungen'
+'Incoming Mail Server (IMAP)': 'Eingehender Mailserver (IMAP)'
+'Go to account settings, create a new account': 'Zu den Kontoeinstellungen gehen, ein neues Konto erstellen'
+'Enter your name, email and password as requested': 'Geben Sie bitte Name, E-Mailadresse und Kennwort ein wenn benötigt'
+'Select IMAP': 'Wähle IMAP'
+'full username + domain is required': 'voller Benutzername und Domain wird benötigt'
+'Outgoing Mail Server (SMTP)': 'Ausgehender Mailserver (SMTP)'
+'Select SMTP (or outgoing mailserver)': 'Wähle SMTP (oder ausgehenden Mailserver)'
+'Outgoing mail requires authentication': 'Ausgehende E-Mail benötigt Authentifizierung'
+'Same as incoming mailserver': 'Genau wie eingehende Mailserver'
+'Purchase more disk space': 'Kaufe mehr Festplattenplatz'
+'Add Note': 'Notiz hinzufügen'
+Notepad: Notizblock
+notepad: Notizblock
+'No notes': 'Keine Notizen'
+'Are you sure you want to delete this note?': 'Sind Sie sicher dass Sie diese Notiz löschen möchten?'
+'Control Panel Users': 'Benutzer für Verwaltungsbereich'
+'control panel users': 'Benutzer für Verwaltungsbereich'
+'Add User': 'Benutzer hinzufügen'
+'server monitors': 'Serverüberwachungen'
+Inbox: Posteingang
+'Unread Messages': 'Ungelesene Nachrichten'
+'Messages Archive': 'Nachrichtenarchiv'
+'mark all as read': 'alle als gelesen markieren'
+'Mark as read': 'Markiere als gelesen'
+'User Profile': 'Benutzerprofil'
+'User Profile for': 'Benutzerprofil für'
+'My Profile': 'Mein Profil'
+'Edit Profile': 'Profil bearbeiten'
+'Send Reset Password Email': 'Sende E.Mail zum Zurücksetzen des Kennwortes'
+'Access Control': 'Zugriffskontrolle'
+'Billing Access': 'Abrechnungszugang'
+'Support Access': 'Supportzugang'
+'Server Access': 'Serverzugang'
+'There are no users': 'Es gibt keine Benutzer'
+'Are you sure you want to remove this user?': 'Sind Sie sicher, dass Sie den Benutzer entfernen möchten?'
+'Are you sure you want to reset the password for this user?': 'Sind Sie sicher, dass Sie das Kennwort für den Benutzer zurücksetzen möchten?'
+'Enable API Key': 'API-Schlüssel aktivieren'
+'API Key': 'API-Sxhlüssel'
+Key: Schlüssel
+Secret: Geheimphrase
+'Open New Ticket': 'Eröffne neue Kundendienstanfrage'
+'Support Ticket': 'Kundendienstanfrage'
+'Support Tickets': 'Kundendienstanfragen'
+'support tickets': 'Kundendienstanfragen'
+'Your account has no access to Support Tickets. Please ask the account owner to allow access.': 'Ihr Benutzerkonto hat keinen Zugriff auf Kundendienstanfragen. Bitte fragen Sie den Kontobesitzer nach dem Zugriff.'
+'Active Tickets': 'Aktive Kundendienstanfragen'
+'All Tickets': 'Alle Kundendienstanfragen'
+'There are no active support tickets.': 'Es gibt keine aktiven Kundendienstanfragen.'
+'There are no support tickets.': 'Es gibt keine Kundendienstanfragen.'
+ticket: Kundendienstanfrage
+'View Ticket': 'Kundendienstanfrage anzeigen'
+'Add reply': 'Antwort hinzufügen'
+'Close Ticket': 'Kundendienstanfrage schließen'
+'ServerGrove Staff': 'ServerGrove-Mitarbeiter'
+'Add Reply to Ticket': 'Antwort zu Kundendienstanfrage hinzufügen'
+'Are you sure you want to close this ticket?': 'Sind Sie sicher, dass Sie die Kundendienstanfrage schließen möchten?'
+'UI tour': 'Vorführung der Benutzeroberfläche'
+'My Servers': 'Meine Server'
+Support: Kundendienst
+Logout: Abmelden
+Profile: Profil
+'API Docs': 'API-Dokumentation'
+Billing: Abrechnung
+Blog: Blog
+'ServerGrove Website': 'ServerGrove-Website'
+Search: Suche
+'View Messages (%messages% new messages)': 'Zeige Nachrichten (%messages% neue Nachrichten)'
+'Search Support': 'Durchsuche Kundendienst'
+'View Active': 'Zeige aktive'
+'View All': 'Zeige alle'
+Refreshing...: Erneuere...
+manage: verwalte
+'Add a MongoDB server': 'MongoDB-Server hinzufügen'
+'Learn more about our MongoDB hosting service': 'Erfahren Sie mehr über unseren MongoDB-Hostingdienst'
+here: hier
+'MongoDB Services': 'MongoDB-Dienste'
+Shortcuts: Verknüpfungen
+Disk: Festplatte
+edit: bearbeite
+'Add System User': 'Systembenutzer hinzufügen'
+'Change timezone': 'Ändere Zeitzone'
+'Set time zone': 'Setze Zeitzone'
+LOADING: LADEN
+Change: Ändern
+'you should': 'Sie sollten'
+'configure your monitors': 'Ihre Überwachungen konfigurieren'
+'Alerts History': 'Alarmhistorie'
+'Monitors List': 'Liste der Überwachungen'
+'Are you sure you want to': 'Sind Sie sicher dass Sie'
+Information: Information
+Diagnostics: Diagnose
+diagnostics: Diagnose
+'Real Time': 'Echtzeit'
+'Every Hour': 'Jede Stunden'
+Announcements: Ankündigungen
+Alerts: Alarme
+'Critical Alerts': 'Kritische Alarme'
+Reports: Berichte
+'There are no messages in your inbox': 'Es sind keine Nachrichten in Ihrem Posteingang'
+'There are no new messages in your inbox': 'Es sind keine neuen Nachrichten in Ihrem Posteingang'
+'Give us some feedback!': 'Geben Sie uns eine Rückmeldung!'
+'Open a ticket': 'Eine Kundendienstanfrage eröffnen'
+System: System
+Monitoring: Überwachung
+'There are no invoices': 'Es gibt keine Rechnungen'
+'There are no unpaid invoices': 'Es gibt keine unbezahlten Rechnungen'
+Unpaid: Unbezahlt
+Paid: Bezahlt
+Cancelled: Abgebrochen
+Stopped: Gestoppt
+Running: Laufend
+N/A: nicht verfügbar
+'Web Servers': 'Web-Server'
+'DNS Servers': 'DNS-Server'
+'Unix Services': 'Unix-Dienste'
+'Database Servers': 'Datenbankserver'
+'Programming Languages': 'Programmiersprachen'
+Frameworks: Frameworks
+'Apache Modules': 'Apache-Module'
+'Virtual Hosts': 'Virtuelle Hosts'
+'Virtual Host': 'Virtueller Host'
+'File Name': 'Dateiname'
+'Reset Root Password': 'Root-Kennwort zurücksetzen'
+'Enter new MySQL root password': 'Neues MySQL-Root-Kennwort eingeben'
+'Confirm new password': 'Bestätige neues Kennwort'
+'Force reset - stop the server and start it with the init-file option': 'Erzwungener Neustart - stoppt den Server und startet ihn mit den Optionen der Init-Datei'
+'The temporary file will be deleted as soon as the reset process is done': 'Die temporäre Datei wird gelöscht sobald der Neustart abgeschlossen ist'
+'Store password in': 'Speichere Kennwort in'
+'this allows our CP to access MySQL for management purposes only': 'dies erlaubt unserem Verwaltungsbereich, auf den MySQL-Server nur für Verwaltungszwecke zuzugreifen'
+'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.': 'Wenn Sie irgendwelche Anwendungen haben, die zum MySQL-Server mit dem Rootkennwort verbinden, werden diese aufhören zu funktionieren. Sie müssen die Konfiguration Ihrer Anwendung auf das neue Kennwort ändern.'
+'Please enter a password': 'Bitte geben Sie ein Kennwort ein'
+'Password does not match': 'Die Kennwörter stimmen nicht überein'
+'You are about to change the MySQL root password. Are you sure this is what you want to do?': 'Sie sind gerade dabei das MySQL-Root-Kennwort zu ändern. Sind Sie sicher, dass es das ist was Sie tun wollen?'
+'Read more': 'Mehr lesen'
+Saving: Speichern
+'Extended Status': 'Erweiterter Status'
+'Process List': 'Prozessliste'
+'Server Variables': 'Server-Variablen'
+'All current and future servers': 'Alle derzeitigen und zukünftigen Server'
+Monthly: Monatlich
+Semiannually: Halbjährlich
+Annually: Jährlich
+online: online
+system: System
+memory: Arbeitsspeicher
+'disk space': 'Festplattenplatz'
+Back: Zurück
+'Live Stats': 'Live-Statistiken'
+'Adding domain': 'Füge Domain hinzu'
+'Enable Services': 'Aktiviere Dienste'
+'DNS Service': 'DNS-Dienst'
+'Email Service': 'E-Mail-Dienst'
+Domain: Domain
+Expiration: Ablaufdatum
+Emails: E-Mails
+'Add an email account': 'E-Mail-Konto hinzufügen'
+'6 characters minimum': 'minimum 6 Zeichen'
+Off: Aus
+On: An
+'CLI path': 'Kommandozeilenpfad'
+'ServerGrove Control Panel Mobile': 'ServerGrove Mobiler Verwaltungsbereich'
+'An internal system error has occurred. We have been notified and we will resolve this problem as soon as possible. Feel free to open a support ticket to follow up with us.': 'Ein interner Systemfehler ist aufgetreten. Wir wurden benachrichtigt und werden das Problem so schnell wie möglich beheben. Sie können eine Anfrage an den Kundendienst stellen um diesbezüglich auf dem Laufenden zu bleiben.'
+'Invalid invoice number': 'Ungültige Rechnungsnummer'
+'There is no credit card on file. Please enter one now so we can process your credit card.': 'Es ist keine Kreditkarte hinterlegt. Bitte hinterlegen Sie jetzt eine, so dass wir Ihre Kreditkarte verarbeiten können.'
+'Your payment has been processed!': 'Ihre Zahlung wurde verarbeitet!'
+'An error occurred while processing your payment': 'Während der Verarbeitung Ihrer Zahlung ist ein Fehler aufgetreten'
+'An error occurred while updating the credit card.': 'Während der Aktualisierung Ihrer Kreditkarte ist ein Fehler aufgetreten.'
+'Invalid expiration date': 'Ungültiges Ablaufdatum'
+'Please enter only numbers. No spaces, dashes, etc.': 'Bitte geben Sie nur Nummern ein. Keine Leerzeichen, Bindestriche, usw.'
+'Invalid credit card number. Please check the number and try again.': 'Ungültige Kreditkartennummer. Bitte überprüfen Sie die Nummer und versuchen es erneut.'
+'Credit card has been updated. You are being redirected to the invoices list': 'Kreditkarte wurde aktualisiert. Sie werden nun zur Rechnungsliste weitergeleitet'
+'The Email service on this domain is disabled and you have email accounts which means that the email accounts will not receive or send any messages. To enable the Email service, click on the On/Off switch.': 'Der E-Mail-Dienst für diese Domain wurde deaktiviert, Sie besitzen allerdings E-Mail-Konten. Diese empfangen oder senden allerdings keine Nachrichten. Um den E-Mail-Dienst wieder anzuschalten klicken Sie bitte auf den An/Aus-Schalter.'
+'Note could not be saved': 'Notiz konnte nicht gespeichert werden'
+'Note has been saved': 'Notiz wurde gespeichert'
+'Note not found.': 'Notiz nicht gefunden.'
+'Could not find product pricing information': 'Konnte Produktpreisinformationen nicht finden'
+'Your server has been suspended. Please contact Customer Support.': 'Ihr Server wurde suspendiert. Bitte kontaktieren Sie den Kundendienst.'
+'There is a problem with your server. Please contact Customer Support': 'Es gibt ein Problem mit Ihrem Server. Bitte kontaktieren Sie den Kundendienst'
+'Authentication failed': 'Authentifizierung fehlgeschlagen'
+'Anti-CSRF protection triggered. Please reload the page and try again.': 'Sicherung gegen CSRF-Angriffe wurde ausgelöst. Bitte laden Sie die Seite neu und probieren es erneut.'
+'Account is suspended. Please contact customer support.': 'Benutzerkonto wurde suspendiert. Bitte kontaktieren Sie den Kundendienst.'
+'Password request not found. Please check the link that was sent. The request may have expired so try requesting a new one.': 'Kennwortanfrage nicht gefunden. Bitte überprüfen Sie den Link de gesendet wurde. Die Anfrage kann abgelaufen sein, probieren Sie eine neue Anfrage.'
+'An error has occurred.': 'Ein Fehler ist aufgetreten.'
+'This password reset has been already used.': 'Diese Kennwort-Zurücksetzung wurde bereits verwendet.'
+'This password reset has expired.': 'Diese Kennwort-Zurücksetzung ist abgelaufen.'
+'Password confirmation does not match.': 'Kennwortbestätigung passt nicht zum Kennwort.'
+'Password length must be at least 6 characters.': 'Das Kennwort muß mindestens sechs Zeichen lang sein.'
+'Username is not correct for this password request.': 'Der Benutzername ist nicht korrekt für diese Kennwortanfrage.'
+'This message is to confirm that your password has been changed.': 'Diese Nachricht wird angezeigt dass das Kennwort geändert wurde.'
+'ServerGrove Control Panel Password Changed': 'Kennwort für ServerGrove-Verwaltungsbereich geändert'
+'A new password has been set Please proceed to the login page.': 'Ein neues Kennwort wurde gesetzt. Bitte gehen Sie nun weiter zur Anmeldeseite.'
+'User not found': 'Benutzer nicht gefunden'
+'User has no valid email. Please contact Customer Support for assistance.': 'Benutzer hat keine gültige E-Mail-Adresse. Bitte kontaktieren Sie den Kundendienst für Hilfe.'
+'ServerGrove Control Panel Password Reset': 'Kennwort für ServerGrove-Verwaltungsbereich zurücksetzen'
+'A new password has been sent to the email address on file.': 'Ein neues Passwort wurde an die E-Mail-Adresse gesendet, die bei uns hinterlegt ist.'
+'Feedback has been submitted. Thank you very much!': 'Ihre Rückmeldung wurde abgeschickt. Vielen Dank dafür!'
+'An error occurred while processing your reply.': 'Beim Verarbeiten Ihrer Antwort ist ein Fehler aufgetreten.'
+'Please enter a reply message.': 'Bitte geben Sie eine Antwortnachricht ein.'
+'Reply received.': 'Antwort empfangen.'
+'The ticket has been closed, thank you!': 'Die Kundenanfrage wurde geschlossen, vielen Dank!'
+'Please enter a message.': 'Bitte geben Sie eine Nachricht ein.'
+'Please enter a subject.': 'Bitte geben Sie einen Betreff ein.'
+'Invalid Urgency': 'Ungültige Dringlichkeit'
+'The ticket has been received.': 'Das Ticket wurde empfangen.'
+'App not found': 'Anwendung nicht gefunden'
+'App not installed': 'Anwendung nicht installiert'
+'has been uninstalled.': 'wurde deinstalliert.'
+'has been installed.': 'wurde installiert.'
+'Call not allowed': 'Aufruf nicht erlaubt'
+'Request has been queued.': 'Anfrage wurde eingereicht.'
+'Status updated successfully.': 'Status erfolgreich aktualisiert.'
+'File saved.': 'Datei gespeichert.'
+'Not authenticated': 'Nicht authentifiziert'
+'Account is disabled.': 'Benutzerkonto ist abgeschaltet.'
+'Client not found': 'Kunde nicht gefunden'
+'Unauthorized access.': 'Unauthorisierter Zugriff.'
+'Client already has server': 'Kunde hat bereits einen Server'
+'Client does not have server': 'Kunde hat noch keinen Server'
+'Must provide name': 'Name muß angegeben werden'
+'Client already exists.': 'Kunde ist bereits angelegt.'
+'DNS service is not enabled for this domain. Please enable DNS service before trying to manage DNS records.': 'DNS-Dienst ist für diese Domain nicht angeschaltet. Bitte schalten Sie den DNS-Dienst an, bevor Sie DNS-Einträge verwalten.'
+'Record not found': 'Eintrag nicht gefunden'
+'DNS record has been removed': 'DNS-Eintrag wurde entfernt'
+'Zone is in read-only mode.': 'Zone ist im schreibgeschützten Modus.'
+'SOA record cannot be deleted': 'SOA-Eintrag kann nicht gelöscht werden'
+'Host Name and value cannot be the same': 'Hostname und Wert können nicht gleich sein'
+'Address cannot be empty.': 'Adresse kann nicht leer sein.'
+'Host Name must be a valid IP4 or IP6 address': 'Hostname muß eine gültige IPv4- oder IPv6-Adresse sein'
+'Address must be a valid IP4 address': 'Adresse muß eine gültige IPv4-Adresse sein'
+'Address must be a valid IP6 address': 'Adresse muß eine gültige IPv6-Adresse sein'
+'TTL must be an number': 'TTL (Lebenszeit) muß eine Nummer sein'
+'Priority can only be configured for mail exchanger DNS records': 'Priorität kann nur für einen DNS-Eintrag genutzt werden, der einen Mailserver (MX-Eintrag) definiert'
+'Priority must be an number': 'Priorität muß eine Numme sein'
+'MX DNS records must have a priority': 'MX-DNS-Eintrag muß eine Priorität haben'
+'DNS record has been added': 'DNS-Eintrag wurde hinzugefügt'
+'DNS record has been updated': 'DNS-Eintrag wurde aktualisiert'
+'No zone found for service.': 'Keine Zone für Dienst gefunden.'
+'Invalid nameserver': 'Ungültiger Nameserver'
+'Domain not found': 'Domain wurde nicht gefunden'
+'Domain is an alias. Please use domain/deleteAlias': 'Domain ist ein Alias. Benutzen Sie bitte domain/deleteAlias'
+'Domain is a subdomain. Please use domain/deleteSubdomain': 'Domain is a subdomain. Benutzen Sie bitte domain/deleteSubdomain'
+'Domain has been removed': 'Domain wurde entfernt'
+'Invalid format for name': 'Ungültiges Format für Name'
+'Domain already exists in system.': 'Domain existiert schon im System.'
+'Domain has been added': 'Domain wurde hinzugefügt'
+'Domain has been updated': 'Domain wurde aktualisiert'
+'Domain name not valid.': 'Domainname ist nicht gültig.'
+'Parent domain not found': 'Elternddomain nicht gefunden'
+'Domain alias has been added': 'Domainalias wurde hinzugefügt'
+'Domain alias has been updated': 'Domainalias wurde aktualisiert'
+'Alias not found': 'Alias nicht gefunden'
+'Alias has been removed': 'Alias wurde entfernt'
+'Domain is not an alias': 'Domain ist kein Alias'
+'Alias has no parent': 'Alias hat kein Elternelement'
+'Subdomain has been added': 'Subdomain wurde hinzugefügt'
+'Subdomain has been updated': 'Subdomain wurde aktualisiert'
+'A subdomain must match the main domain base name (ie. test.example.com matches example.com)': 'Eine Subdomain muß zum Basinamen der Domain passen (z.B. test.beispiel.de passt zu beispiel.de)'
+'Subdomain not found': 'Subdomain nicht gefunden'
+'Subdomain has been removed': 'Subdomain wurde entfernt'
+'Domain is not an subdomain': 'Domain ist keine subdomain'
+'Subdomain has no parent': 'Subdomain hat keine Elterndomain'
+'Server not found': 'Server nicht gefunden'
+'Service updated successfully.': 'Dienste erfolreich aktualisert.'
+'Could not configure email server': 'Konnte E-Mail-Server nicht konfigurieren'
+'Domain is not registered with ServerGrove or has no billing information attached. Please contact Customer support.': 'Die Domain ist nicht bei ServerGrove registriert oder hat keine Abrechnungsinformationen angefügt. Bitte kontaktieren Sie den Kundendienst.'
+'The EPP code has been requested. A email message will be sent to the domain administrator email address.': 'Der EPP-Code wurde angefragt. Eine E-Mail wird an die E-Mail-Adresse des Domain-Administrators geschickt.'
+'An error occurred while requesting the EPP code. Please contact Customer support if this problem persists.': 'Ein Fehler ist aufgetreten während der EPP-Code angefragt wurde. Bitte kontaktieren Sie den Kundendienst wenn das Problem weiterhin besteht.'
+'The domain has been locked': 'Die Domain wurde gesperrt'
+'The domain has been unlocked': 'Die Domain wurde entsperrt'
+'To purchase a domain you require Billing access rights. Please contact the account owner.': 'Um eine Domain zu kaufen benötigen Sie Rechte für den Abrechnungsbereich. Bitte kontaktieren Sie dafür den Kontobesitzer.'
+'Could not determine Client Billing ID. Please contact customer support.': 'Konnto ID für Kundenabrechnung nicht finden. Bitte kontaktieren Sie den Kundendienst.'
+'tld cannot be empty': 'Top-Level-Domain (TLD) darf nicht leer sein'
+'name cannot be empty': 'Name darf nicht leer sein'
+'Invalid period. Must be between 1 and 5.': 'Ungültiger Zeitraum. Muß zwischen 1 und 5 sein.'
+'Domain is available': 'Domain ist verfügbar'
+'Domain is already taken': 'Domain ist bereits vergeben'
+'There is no pricing information for this TLD and period.': 'Es gibt leider keine Preisinformationen für diese Top-Level-Domain (TLD) und Zeitraum.'
+'Email service is not enabled. Please enable Email service before trying to manage email accounts.': 'E-Mail-Dienst ist nicht angeschaltet. Bitte schalten Sie diesen an, bevor Sie E-Mail-Konten verwalten.'
+'Username not found': 'Benutzername nicht gefunden'
+'Email Account has been removed': 'E-Mail-Konto wurde entfernt'
+'Autoresponder has been enabled': 'Automatische Beantwortung wurde angeschaltet'
+'Autoresponder has been disabled': 'Automatische Beantwortung wurde ausgeschaltet'
+'Email Account has been enabled': 'E-Mail-Konto wurde angeschaltet'
+'Email Account has been disabled': 'E-Mail-Konto wurde ausgeschaltet'
+'Email Account has been added': 'E-Mail-Konto wurde hinzugefügt'
+'Email Account has been updated': 'E-Mail-Konto wurde aktualisiert'
+'Password confirmation does not match': 'Kennwortwiederholung passt nicht zum Kennwort'
+'New password must be at least 6 characters long.': 'Muß mindestens sechs Zeichen lang sein.'
+'Must provide a password.': 'Kennwort muß angegeben werden.'
+'Username must contain letters, numbers or dot only.': 'Benutzername darf nur Buchstaben, Zahlen und Punkte beinhalten.'
+'Username already exists.': 'Benutzername existiert bereits.'
+'Redirect has been added': 'Umleitung wurde hinzugefügt'
+'Redirect has been removed': 'Umleitung wurde entfernt'
+'Alias has been added': 'Alias wurde hinzugefügt'
+'An address %name% already exists': 'Die Adresse %name% existiert bereits'
+'Alias %name% already exists': 'Alias %name% existiert bereits'
+'Alias %name% does not exist': 'Alias %name% existiert nicht'
+'API Key is disabled': 'API-Schlüssel wurde ausgeschaltet'
+'Invalid API Key': 'Ungültiger API-Schlüssel'
+'Message not found': 'Nachricht nicht gefunden'
+'Must specify a database name': 'Datenbankname muß angegeben werden'
+'Database named "%name%" created successfully!': 'Datenbank mit dem Namen "%name%" wurde erfolgreich erstellt!'
+'Database named "%name%" dropped successfully!': 'Datenbank mit dem Namen "%name%" wurde erfolgreicht entfernt!'
+'Collection named "%name%" created successfully!': 'Collection mit dem Namen "%name%" wurde erfolgreich erstellt!'
+'Collection named "%name%" dropped successfully!': 'Collection mit dem Namen "%name%" wurde erfolgreicht entfernt!'
+'Cloned collection named "%name%" to "%new%" successfully!': 'Collection mit dem Namen "%name%" wurde unter dem Namen "%new%" erfolgreich geklont!'
+'Index named "%name%" created successfully!': 'Index mit dem Namen "%name%" wurde erfolgreich erstellt!'
+'Index named "%name%" deleted successfully!': 'Index mit dem Namen "%name%" wurde erfolgreicht entfernt!'
+'Must specify a username': 'Benutzername muß angegeben werden'
+'Must specify a password': 'Kennwort muß angegeben werden'
+'Created %readonly% user named "%name%" successfully!': '%readonly% Benutzer mit dem Namen "%name%" wurde erfolgreich erstellt!'
+'Updated %readonly% user named "%name%" successfully!': '%readonly% Benutzer mit dem Namen "%name%" wurde erfolgreich aktualisiert!'
+'Deleted user named "%name%" successfully!': 'Löschen des Benutzers mit dem Namen "%name%" erfolgreich!'
+'Created document in "%dbname%.%collname%" successfully!': 'Dokument in "%dbname%.%collname%" erfolgreich erstellt!'
+'Updated document in "%dbname%.%collname%" with an id of "%id%" successfully!': 'Dokument in "%dbname%.%collname%" mit der ID "%id%" erfolgreich gelöscht!'
+'Deleted document in "%dbname%.%collname%" with an id of "%id%" successfully!': 'Dokument in "%dbname%.%collname%" mit der ID "%id%" erfolgreich gelöscht!'
+'Cloned document in "%dbname%.%collname%" with an id of "%id%" successfully!': 'Dokument in "%dbname%.%collname%" mit der ID "%id%" erfolgreich geklont!'
+'Client has not access to server': 'Kunde hat keinen Zugriff auf den Server'
+'Server no longer valid': 'Server ist nicht länger gültig'
+'Server is not online. It cannot be restarted.': 'Server ist nicht online. Er kann nicht neugestartet werden.'
+'This server type cannot be rebooted.': 'Dieser Servertyp kann nicht neugestartet werden.'
+'Server is being restarted.': 'Server wird neu gestartet.'
+'Server is not offline. It cannot be started.': 'Server ist nicht offline. Er kann nicht gestartet werden.'
+'Server is being started.': 'Server wird gestartet.'
+'Server is being stopped. This may take a few minutes due to load.': 'Server wird gestoppt. Diest kann aufgrund von Serverlast einige Minuten dauern.'
+'To change the server plan you require Billing access rights. Please contact the account owner.': 'Um den Servertarif zu ändern benötigen Sie Rechte für den Abrechnungsbereich. Bitte kontaktieren Sie den Kontobesitzer.'
+'Could not determine Server Billing ID. Please contact customer support.': 'Konnte Abrechnungs-ID für Server nicht ermitteln. Bitte kontaktieren Sie den Kundendienst.'
+'Invalid VPS Plan': 'Ungültiger VPS-Tarif'
+'Server not found in billing system. Please contact customer support.': 'Server wurde im Abrechnungssystem nicht gefunden. Bitte kontaktieren Sie den Kundendienst.'
+'Invoice %num% is unpaid. Please pay this invoice before attempting to change the server plan.': 'Rechnung %num% wurde noch nicht bezahlt. Bitte bezahlen Sie diese Rechnung bevor Sie versuchen, den Servertarif zu ändern.'
+'Plan not found in billing system. Please contact customer support.': 'Tarif wurde im Abrechnungssystem nicht gefunden. Bitte kontaktieren Sie den Kundendienst.'
+'Server already has plan %name%': 'Server hat bereits Tarif %name%'
+'Cannot change plan of server.': 'Kann Tarif für Server nicht ändern.'
+'The request to change the server plan has been queued.': 'Die Anfrage zur Änderung des Servertarifs wurde eingereicht.'
+'MongoDB Hosting': 'MongoDB-Hosting'
+'Failed to fetch invoice.': 'Holen der Rechnung gescheitert.'
+'Please confirm request by setting confirm=yes': 'Bitte bestätigen Sie die Anfrage, indem Sie confirm=yes setzen.'
+'The cancellation request has been received.': 'Die Kündigungsanfrage wurde empfangen.'
+'There is another server with hostname %name%': 'Es gibt bereits einen anderen Server mit dem Hostnamen %name%'
+'Cannot change hostname of server.': 'Kann den Hostnamen des Servers nicht löschen.'
+'The request to change the hostname has been queued.': 'Die Anfrage zum Ändern des Hostnamens wurde eingereicht.'
+'Server is being provisioned already. Please wait for this process to finish.': 'Server wird gerade provisioniert. Bitte warten Sie, bis dieser Prozess abgeschlossen ist.'
+'Invalid template': 'Ungültige Vorlage'
+'Server Ready': 'Server bereits'
+'Invalid template.': 'Ungültige Vorlage.'
+'Invalid template. This template has been deprecated. Please select a new template.': 'Ungültige Vorlage. Diese Vorlage ist übeholz, bitte wählen Sie eine neue Vorlage.'
+'Your server has been rebuilt and it is ready.': 'Ihr Server wurde neu aufgesetzt und ist nun bereit.'
+'Server information:': 'Serverinformation:'
+'Server IP''s: %ip%': 'Server-IP: %ip%'
+'Hostname: %hostname%': 'Hostname: %hostname%'
+'SSH Port %port%': 'SSH-Port: %port%'
+'Cannot change template for server.': 'Kann Vorlage des Servers nicht ändern.'
+'The Reset request has been queued. You will receive an email when the process is complete.': 'Die Neustart-Anfrage wurde eingereicht. Sie erhalten eine E-Mail sobald dieser Vorgang abgeschlossen wurde.'
+'This server type cannot be upgraded.': 'Dieser Servertyp kann nicht hochgestuft werden.'
+'This server type cannot accept commands.': 'Dieser Servertyp kann keine Kommandos akzeptieren.'
+'Invalid date': 'Ungültiges Datum'
+'The timezone for this server type cannot be changed.': 'Die Zeitzone kann für diesen Servertyp nicht umgestellt werden.'
+'Timezone not supported': 'Zeitzone nicht unterstützt'
+'Timezone change has been queued.': 'Änderung der Zeitzone wurde eingereicht.'
+'Server already has a private IP address': 'Server hat bereits eine private IP-Adresse'
+'No available private IP address was found. Please contact customer support.': 'Keine verfügbare private IP-Adresse wurde gefunden. Bitte kontaktieren Sie den Kundendienst.'
+'Private IP address added.': 'Private IP-Adresse wurde hinzugefügt.'
+'User has been removed.': 'Benutzer wurde entfernt'
+'User root cannot be removed': 'Benutzer root kann nicht entfernt werden'
+'User root username cannot be changed': 'Benutzername des Benutzers root kann nicht geändert werden'
+'User has been added': 'Benutzer wurde hinzugefügt'
+'User has been updated': 'Benutzer wurde aktualisiert'
+'Username must be at least 3 characters long.': 'benutzername muß mindestens drei Zeichen lang sein.'
+'Username must contain letters and numbers only.': 'Benutzername darf nur aus Buchstaben und Zahlen bestehen.'
+'Username must contain letters, numbers, dots, underscores and dashes only.': 'Benutzername darf nur aus Buchstaben, Zahlen, Punkten, Unterstrichen und Bindestrichen bestehen.'
+'You cannot delete yourself.': 'Sie können sich nicht selbst löschen.'
+'User has no valid email. Please update the user to set an email address.': 'Benutzer hat keine gültige E-Mail-Adresse. Bitte aktualisieren Sie den Benutzer um eine E-Mail-Adresse festzulegen.'
+'A password reset for the ServerGrove VPS Control Panel has been issued for this user.': 'Eine Kennwort-Zurücksetzung für den VPS-Verwaltungsbereich von ServerGrove wurde für diesen Benutzer ausgelöst.'
+'Invalid email address format.': 'Ungültiges Format der E-Mail-Adresse.'
+'A user with this email address already exists in the system.': 'Ein Benutzer mit dieser E-Mail-Adresse besteht bereits im System.'
+'Invalid user group': 'Ungültige Benutzergruppe'
+'Not allowed to set this group.': 'Es ist nicht erlaubt diese Gruppe zu setzen.'
+'Cannot setup billing access': 'Kann Zugriff auf Abrechnugsbereich nicht zuweisen'
+'Cannot setup Billing settings. Please contact customer support and provide a copy of this message.': 'Kann die Abrechnungseinstellungen nicht einrichten. Bitte kontaktieren Sie den Kundendienst mit einer Kopie dieser Nachricht.'
+'Invalid email address destination': 'Ungültiges Ziel für E-Mail-Adresse'
+'destination not found': 'Zeil nicht gefunden'
+'Alert configuration not found': 'Alarmkonfiguration nicht gefunden'
+'Invalid token': 'Unbekannter Token'
+'VirtualHost not found': 'VirtualHost nicht gefunden'
+'A redirect for path %path% already exists': 'Eine Umleitung für Pfad %path% existiert bereits'
+'Invalid type.': 'Ungültiger Typ.'
+'Redirect not found': 'Umleitung nicht gefunden'
+Hostname: Hostname
+'An unexpected error occurred performing this task': 'Ein unerwarteter Fehler ist beim Abarbeiten dieser Aufgabe aufgetreten'
+'Switch Domain': 'Wechsle Domain'
+Transfer: Transfer
+'Log Viewer': 'Log-Betrachter'
+'Web Hosting Status': 'Status des Webhostings'
+'We love feedback!': 'Wir lieben Rückmeldungen unserer Kunden!'
+Comments: Kommentare
+Send: Senden
+'Connect DSN': 'DSN für Verbindung'
+'MongoDB Backups': 'Backups/Sicherungen für MongoDB'
+Backups: Backups/Sicherungen
+Previous: Vorheriges
+Next: Nächstes
+'manage indexes': 'Verwalte Indizes'
+'add document': 'Dokument hinzufügen'
+'Title Field (name, title, etc.)': 'Titelfeld (name, title, usw.)'
+Action: Aktion
+clone: Klon
+'No documents have been created yet, get started by adding a new document.': 'Bisher wurden noch keine Dokumente erstellt, um loszulegen fügen Sie ein neues Dokument hinzu.'
+Create: Erstellen
+Databases: Datenbanken
+statistics: Statistiken
+'Create Index': 'Erstelle Index'
+'Add Index': 'Index hinzufügen'
+Indexes: Indizes
+'Index Name': 'Name des Index'
+optional: optional
+'Unique Index': 'Eindeutiger Index'
+'Drop Duplicates': 'Entferne Dubletten'
+Keys: Schlüssel
+'add key': 'Schlüssel hinzufügen'
+ASC: aufsteigend
+DESC: absteigend
+'Back to Collection': 'Zurück zur Collection'
+Unique: Eindeutig
+no: nein
+yes: ja
+'No indexes have been created yet, get started by adding a new index.': 'Bisher wurden noch keine Indizes erstellt, um loszulegen fügen Sie einen neuen Index hinzu.'
+Collections: Collections
+Import/Export: Import/Export
+Operations: Operationen
+'Connection Codes': 'Verbindungscodes'
+'Sample Connection Codes': 'Beispiel-Verbindungscodes'
+'I want to connect to my database using': 'Ich möchte mich zu meiner Datenbank verbinden mit'
+'Select a method to connect from the above pulldown.': 'Wählen Sie eine Verbindungsmethode aus der obigen Pulldown-Liste.'
+'add collection': 'Collection hinzufügen'
+drop: löschen
+'No collections have been created yet. Get started by adding a new collection.': 'Bisher wurden noch keine Collections erstellt, um loszulegen fügen Sie eine neue Collection hinzu.'
+'Add Collection': 'Collection hinzufügen'
+'add database': 'Datenbank hinzufügen'
+connect: Verbinden
+'No databases have been created yet. You can get started by adding a new database': 'Bisher wurden noch keine Datenbanken erstellt, um loszulegen fügen Sie eine neue Datenbank hinzu.'
+'Add Database': 'Datenbank hinzufügen'
+'Database Name': 'Datenbankname'
+'Read Only': 'Nur lesbar'
+'Setup Shared MongoDB Hosting': 'Geteiltes MongoDB-Hosting einrichten'
+'In order to begin using your shared MongoDB hosting account you must setup a database and user!': 'Um Ihr geteiltes MongoDB-Hosting zu nutzen, müssen Sie eine Datenbank und einen Benutzer einrichten!'
+Setup: Einrichtung
+Switch: Wechseln
+in: in
+database: Datenbank
+'Browse References': 'Referenzen durchsuchen'
+'Export Collections': 'Exportiere Collections'
+'Import Collections': 'Importiere Collections'
+'Import From MySQL': 'Import von MySQL'
+'Choose collection you wish to export': 'Bitte wählen Sie die Collection aus die Sie exportieren möchten'
+Export: Export
+'Choose collection you wish to import to': 'Bitte wählen Sie die Collection aus in die Sie importieren möchten'
+Import: Import
+'Enter the information for your MySQL to MongoDB import below': 'Geben Sie unten die Informationen für Ihren MySQL-zu-MongoDB-Import ein'
+'MySQL Host': 'MySQL-Host'
+'MySQL Port': 'MySQL-Port'
+'Name of MySQL database to import': 'Name der MySQL-Datenbank die importiert werden soll'
+'Are you sure you want to import from this MySQL database?': 'Sind Sie sicher, dass Sie von dieser MySQL-Datenbank importieren wollen?'
+'Cursor information': 'Cursorinformation'
+Build: Version
+'System Information': 'Systeminformation'
+Master: Master
+'Database Statistics': 'Datenbankstatistiken'
+'Build Information': 'Versionsinformation'
+'Plan Info': 'Tarifinfo'
+'MongoDB Version': 'MongoDB-Version'
+change: wechseln
+'IP Address': 'IP-Adresse'
+'connection info': 'Verbindungsinformation'
+'Current Load': 'Derzeitige Last'
+'Edit MongoDB User': 'Bearbeite MongoDB-Benutzer'
+'MongoDB Users': 'MongoDB-Benutzer'
+'add user': 'Benutzer hinzufügen'
+'No users have been created yet.': 'Bisher wurden keinen Benutzer angelegt.'
+'Add a new user': 'Neuen Benutzer hinzufügen'
+'This record already exists as %type% record': 'Dieser Eintrag existiert bereits als Eintrag vom Typ %type%'
+'The value must be a valid A record': 'Der Wert muß ein gültiger A-Eintrag sein'
+'Secure Site / SSL': 'Sichere Seite / SSL'
+'A CNAME record must point to an existing DNS record': 'Ein CNAME-Eintrag muß auf einen existierenden DNS-Eintrag zeigen'
+'Mail server': 'Mail-Server'
+'The mail server host': 'Der Hostname des Mailservers'
+'The connection port': 'Der Verbindungsport'
+'Your email account username': 'Benutzername Ihres E-Mail-Kontos'
+'Your email account password': 'Kennwort Ihres E-Mail-Kontos'
+'Import Email Account': 'Importiere E-Mail-Konto'
+'Import process has started.': 'Importprozess wurde gestartet.'
+'An error occurred trying to connect to the remote host (%host%): %message%': 'Ein Fehler ist aufgetreten während versucht wurde mit dem entfernten Host (%host%) zu verbinden: %message%'
+'Invalid path': 'Ungültiger Pfad'
+'Invalid URL': 'Ungültige URL'
+'Loading more messages': 'Lade mehr Nachrichten'
+'There are no more messages in your inbox': 'Es sind keine weiteren Nachrichten in Ihrem Posteingang'
+'The settings has been copied to your clipboard': 'Die Einstellungen wurden in Ihre Zwischenablage kopiert'
+'New password must contain at least 1 number or symbol.': 'Muß mindestens eine Ziffer oder Sonderzeichen enthalten.'
+'New password must contain at least 1 uppercase character.': 'Muß mindestens einen Großbuchstaben enthalten.'
+'New password and confirmation must be the same.': 'Kennwort und Bestätigung muß identisch sein.'
+'Are you sure you want to unlock this domain?': 'Sind Sie sicher, dass Sie diese Domain entsperren möchten?'
+'Are you sure you want to lock this domain?': 'Sind Sie sicher, dass Sie diese Domain sperren möchten?'
+'Did you mean <a></a>?': 'Meinten Sie <a></a>?'
+'Hostname could not be resolved. Please make sure your server hostname resolves to the server IP %ip%': 'Hostname konne nicht aufgelöst werden. Bitte stellen Sie sicher, dass Ihr Server-Hostname zu Ihrer Server-IP %ip% aufgelöst wird.'
+'Hostname %hostname% resolves to IP %ip%': 'Hostname %hostname% löst zu IP %ip% auf'
+'The reverse DNS for %ip% resolves to %host%': 'Der Reverse-DNS-Eintrag für %ip% löst zu %host% auf'
+'The reverse DNS for %ip% could not be resolved': 'Der Reverse-DNS-Eintrag für %ip% konnte nicht aufgelöst werden'
+'Invalid format for hostname': 'Ungültiges Format für Hostnamen'
+'File Manager': 'Dateimanager'
+Go: Los
+Permissions: Berechtigungen
+'Manage shortcuts': 'Verwalte Verknüpfungen'
+'New File': 'Neue Datei'
+'New Folder': 'Neues Verzeichnis'
+'Upload File': 'Datei hochladen'
+'Compress Selection': 'Komprimiere Auswahl'
+'Delete Selection': 'Lösche Auswahl'
+Filter: Filter
+Owner: Besitzer
+'Date modified': 'Änderungsdatum'
+View: Ansehen
+Compress: Komprimiere
+Rename: Umbenennen
+Copy: Kopieren
+Move: Verschieben
+Uncompress: Dekomprimieren
+'File properties': 'Dateieigenschaften'
+Filename: Dateiname
+Created: Erstellt
+Modified: Geändert
+'Security Advisories': 'Sicherheitshinweise/-empfehlungen'
+'Known issues found': Bekanntes Problem gefunden'
+Error: Fehler
+Checking: Prüfe
+OK: OK
+'Retrieving file, please wait': 'Hole Datei, bitte warten'
+Page: Seite
+'File preview': 'Dateivorschau'
+'No available preview for file type': 'Keine passende Vorschau für diesen Dateityp gefunden'
+'Download file': 'Datei herunterladen'
+top: hoch
+Mode: Modus
+'Last saved': 'Zuletzt gespeichert'
+File: Datei
+'Change user/group': 'Ändere Benutzer/Gruppe'
+Done: Fertig
+'Open target': 'Öffne Ziel'
+'Delete shortcut': 'Lösche Verknüpfung'
+'You haven''t added any shortcuts yet. Shortcuts let you bookmark files or directories making it easy to find them again. To add a shortcut click on the <i class="shortcut shortcut_disabled"></i> next to the item you wish to bookmark.': 'Sie haben bisher keine Verknüpfungen angelegt. Verknüpfungen ermöglicht Ihnen, Dateien oder Verzeichnisse mit einem Lesezeichen zu versehen, um diese schneller wiederzufinden. Um eine Verknüpfung anzulegen, klicken Sie bitte auf das <i class="shortcut shortcut_disabled"></i> neben dem Objekt welches Sie mit einem Lesezeichen versehen wollen.'
+'Loading, please wait': 'Laden, bitte warten'
+'Known security issues': 'Bekannte Sicherheitsprobleme'
+Source: Quelle
+Target: Ziel
+Refresh: Erneuern
+'Open in new window': 'Öffne in neuem Fenster'
+'Show/hide folders': 'Zeige/verstecke Verzeichnisse'
+'Show/hide files': 'Zeige/verstecke Dateien'
+'Change directory': 'Wechsle Verzeichnis'
+Hosts: Rechner/Hosts
+'View info': 'Zeige Info'
+'No databases found for this user': 'Keine Datenbanken gefunden für diesen Benutzer'
+'We have detected there is an ''anonymous'' user. You should remove it before moving into a production environment.': 'Wir haben einen Benutzer ''anonymous'' entdeckt. Sie sollten Ihn entfernen, bevor Sie den Server in einer Produktivumgebung einsetzen.'
+'Remove anonymous user': 'Entferne anonymen Benutzer'
+'This user is needed by the ServerGrove control panel in order to manage databases and privileges.': 'Dieser Benutzer wird vom ServerGrove-Verwaltungsbereich benötigt um Datenbanken und Rechte zu verwalten.'
+'General information': 'Generelle Information'
+'Global privileges': 'Globale Privilegien'
+'Generate random password': 'Erstelle Zufallskenntwort'
+Options: Optionen
+'I know the current root password (no MySQL server restart needed)': 'Ich kenne das aktuelle Root-Kennwort (kein Neustart des MySQL-Servers nötig)'
+'I don''t know the current root password': 'Ich kenne das aktuelle Root-Kennwort nicht'
+'Allow Access From Host': 'Erlaube Zugriff von Host'
+Localhost: Localhost
+Anywhere: Überall
+IP: IP
+Other: Andere
+Charset: Zeichensatz
+Collation: Sortierfolge
+'Select existing user': 'Bestehenden Benutzer auswählen'
+'Create new user': 'Erstelle neuen Benutzer'
+'Available users': 'Verfügbare Benutzer'
+Tables: Tabellen
+'Advanced permissions': 'Erweiterte Berechtigungen'
+'Revoke access': 'Zugriff entziehen'
+'No users assigned': 'Keine Benutzer zugewiesen'
+Rows: Zeilen
+'No tables found': 'Keine Tabellen gefunden'
+Database: Datenbank
+Privileges: Privilegien
+'An error has occurred!': 'Ein Fehler ist aufgetreten!'
+'Please correct the issue described above and try again. If this error persists, contact customer support so we can assist you.': 'Bitte korrigieren Sie das obige Problem und versuchen es erneut. Wenn der Fehler weiterhin bestehen bleibt, kontaktieren Sie bitte den Kundendienst, so dass wir Ihnen helfen können.'
+'Access to phpMyAdmin has been successfully configured, please use the URL included below.': 'Zugriff zu phpMyAdmin wurde erfolgreich konfiguriert, bitte Benutzen Sie die URL weiter unten, um darauf zuzugreifen.'
+URL: URL
+'Location of phpMyAdmin files': 'Ort der Dateien von phpMyAdmin'
+'MySQL Connection': 'MySQL-Verbindung'
+'In order to use the Control Panel to manage MySQL users and databases, you must allow us to create a user to perform these operations.': 'Um mit dem Verwaltungsbereich MySQL-Benutzer und -Datenbanken zu verwalten, müssen Sie uns erlauben einen Benutzer anzulegen um diese Operationen auszuführen.'
+'Please, enter the ''root'' password to connect the Control Panel with the MySQL server.': 'Bitte geben Sie das Root-Kennwort ein, um den Verwaltungsbereich mit der MySQL-Datenbank zu verbinden.'
+'Don''t remember the root password?': 'Sie erinnern sich nicht an das Root-Kennwort?'
+'Reset it': 'Zurücksetzen'
+'The ''root'' password <strong>won''t be stored</strong>.': 'Das ''Root''-Kennwort <strong>wird nicht gespeichert</strong>.'
+'Root password': 'Root-Kennwort'
+'Show archived versions': 'Zeige archivierte Versionen'
+new: neu
+recommended: empfohlen
+'Select an operating system': 'Betriebssystem auswählen'
+'System DBs': 'System-Datenbanken'
+'new user': 'neuer Benutzer'
+'Sorry, we currently don''t support IE.': 'Es tut uns leid, wir unterstützen derzeit nicht den Internet Explorer.'
