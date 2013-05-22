@@ -1,9 +1,9 @@
 'All Services': 'Meine Dienste'
-'Remember me': 'Erinnere Dich an mich'
+'Remember me': 'Eingelogt bleiben'
 'New MongoDB service': 'Neuer MongoDB-Dienst'
 'New VPS service': 'Neuer VPS-Dienst'
 'New repository': 'Neues Repository'
-'Please, provide an explanation for the cancellation. <br>Feedback is key for us to improve our service': 'Bitte teilen Sie uns den Grund Ihrer Kündigung mit. <br> Ihre Meinung ist der Schlüssel dazu, unseren Service zu verbessern.'
+'Please, provide an explanation for the cancellation. <br>Feedback is key for us to improve our service': 'Bitte teilen Sie uns den Grund Ihrer Kündigung mit. <br> Ihre Meinung ist der Schlüssel dazu, unseren Service zu verbessern'
 New: Neu
 Warning: Warnung
 'Select an OS': 'Betriebssystem auswählen'
@@ -93,17 +93,17 @@ Total: Insgesamt
 Download: Download
 pay: bezahlen
 Attention: Achtung
-Update: Aktualisierung
-dashboard: dashboard
-Dashboard: Dashboard
+Update: Aktualisieren
+dashboard: Übersicht
+Dashboard: Übersicht
 Resources: Ressourcen
 Network: Netzwerk
 Top: Top
 Connect: Verbindung
 'free of': 'frei von'
-Free: Frei
-Memory: SpeicherMemory
-Used: Verbraucht
+Free: frei
+Memory: Speicher
+Used: verbraucht
 'Disk usage': 'Festplattennutzung'
 'Disk Usage': 'Festplattennutzung'
 'Disk Consumption': 'Festplattenverbrauch'
@@ -111,7 +111,7 @@ Used: Verbraucht
 'CPU Load': 'Hauptprozessor-Last'
 'Average CPU Load': 'Durchschnittliche Hauptprozessor-Last'
 'Live CPU': 'Live Hauptprozessor'
-Add: Hnizufügen
+Add: Hinzufügen
 'Add a server': 'Server hinzufügen'
 Active: Aktiv
 active: aktiv
@@ -226,7 +226,7 @@ purchase: kaufen
 'p/ year': 'p/Jahr'
 'Hosted Email': 'Gehosteter E-Mail-Dienst'
 'Client Settings': 'Programmeinstellungen'
-Bulk: Massen
+Bulk: Massenmails
 Upgrade: Aufrüstung
 Title: Titel
 Note: Hinweis
@@ -241,7 +241,7 @@ Urgency: Dringlichkeit
 Low: Gering
 Medium: Mittel
 High: Hoch
-'Open Ticket': 'Offene AnfrageO'
+'Open Ticket': 'Eröffne Anfrage'
 ID: ID
 'Date Submitted': 'Einreichungsdatum'
 Frequency: Frequenz
@@ -308,13 +308,13 @@ Rebuild: Wiederherstellung
 'Next due date': 'Nächstes Fälligkeitsdatum'
 'Enter email': 'E-Mail-Adresse eingeben'
 'Enter password': 'Kennwort eingeben'
-'Forgot password?': 'Kenntword vergessen?'
+'Forgot password?': 'Kennword vergessen?'
 'Reset Password': 'Kennwort zurücksetzen'
 'Mobile Version': 'Mobile Version'
 'Enter your email address': 'Ihre E-Mail-Adresse eingeben'
 'Back to login page': 'Zurück zur Anmelde-Seite'
 'New Password': 'Neues Kennwort'
-'Confirm Password': 'Kennwort bestätigend'
+'Confirm Password': 'Kennwort wiederholen'
 'Change Password': 'Kennwort ändern'
 'Login to Control Panel': 'Anmeldung zum Verwaltungsbereich'
 'A password reset for the ServerGrove VPS Control Panel has been issued for your account': 'Eine Kennwortwiederherstellung für den VPS-Verwaltungsbereich von ServerGrove wurde für Ihren Zugang ausgelöst'
@@ -365,8 +365,8 @@ Timezone: Zeitzone
 'Unread Alerts': 'Ungelesene Alarme'
 'Alerts Archive': 'Alarmarchiv'
 'Cancel Server': 'Server kündigen'
-'There are no alerts for this server. Alerts are triggered by monitors': 'Es gibt keine alarme für diesen Server. Alarme werden durch Überwachungen ausgelöst'
-'Are you sure you want to CANCEL server': 'Are you sure you want to CANCEL server'
+'There are no alerts for this server. Alerts are triggered by monitors': 'Es gibt keine Alarme für diesen Server. Alarme werden durch Überwachungen ausgelöst'
+'Are you sure you want to CANCEL server': 'Sind Sie wirklich sicher dass Sie folgenden Server KÜNDIGEN möchten:'
 'All data related to the server (including files, databases, etc) will be permanently lost.': 'Alle Dateien, die mit dem Server zu tun haben (inklusive Dateien, Datenbanken, usw.) werden dauerhaft verloren sein.'
 'Please be sure to back-up all your files': 'Bitte stellen Sie sicher, dass alle Ihre Dateien gesichert wurden'
 'Please, provide an explanation for the cancellation. Feedback is key for us to improve our service': 'Bitte teilen Sie uns den Grund Ihrer Kündigung mit. Ihre Meinung ist der Schlüssel dazu, unseren Service zu verbessern'
@@ -611,7 +611,7 @@ Inbox: Posteingang
 'User Profile for': 'Benutzerprofil für'
 'My Profile': 'Mein Profil'
 'Edit Profile': 'Profil bearbeiten'
-'Send Reset Password Email': 'Sende E.Mail zum Zurücksetzen des Kennwortes'
+'Send Reset Password Email': 'Sende E-Mail zum Zurücksetzen des Kennwortes'
 'Access Control': 'Zugriffskontrolle'
 'Billing Access': 'Abrechnungszugang'
 'Support Access': 'Supportzugang'
