@@ -480,7 +480,7 @@ Whois: Whois
 'Domain Name': 'Domain-Name'
 'Register a Domain': 'Eine Domain registrieren'
 'Register a new domain': 'Registriere eine neue Domain'
-'%domain%''s DNS': 'DNS für %domain%''
+'%domain%''s DNS': 'DNS für %domain%'
 'DNS for': 'DNS für'
 'DNS Records': 'DNS-Einträge'
 '%domain% DNS Settings': 'DNS-Einstellungen für %domain%'
