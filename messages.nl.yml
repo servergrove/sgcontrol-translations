@@ -83,10 +83,10 @@ Category: Categorie
 Categories: Categorieën
 None: Geen
 Invoice: Factuur
-'Credit card': 'Creditkaart'
+'Credit card': Creditkaart
 Invoices: Facturen
 Date: Datum
-'Due Date': 'Vervaldatum'
+'Due Date': Vervaldatum
 Total: Totaal
 Download: Download
 pay: betaal
@@ -126,8 +126,8 @@ Template: Sjabloon
 OS: OS
 'Online Users': 'Gebruikers Online'
 'Internal IP': 'Interne IP'
-'Customer Support': 'Klantendienst'
-'Knowledge Base': 'Kennisbank'
+'Customer Support': Klantendienst
+'Knowledge Base': Kennisbank
 'Web Hosting': 'Web Hosting'
 'Open in Browser': 'Open in Browser'
 Browse: Browse
@@ -167,12 +167,12 @@ Editing: Bewerken
 'Enter Value': 'Geef Waarde'
 'Enter Name': 'Geef Naam'
 Priority: Prioriteit
-'For example': 'Bijvoorbeeld'
+'For example': Bijvoorbeeld
 'You have no domains': 'U heeft geen domeinen'
 'Add one now': 'Voeg nu een toe'
 Account: Account
 Accounts: Accounts
-'Email accounts': 'E-mailaccount'
+'Email accounts': E-mailaccount
 Webmail: Webmail
 'Secure Webmail': 'Beveiligde Webmail'
 Port: Poort
@@ -186,8 +186,8 @@ Alias: Alias
 Redirects: Omleidingen
 'Add Redirect': 'Voeg omleiding toe'
 'Configuration for': 'Configuratie voor'
-'First Name': 'Voornaam'
-'Last Name': 'Achternaam'
+'First Name': Voornaam
+'Last Name': Achternaam
 'Full Name': 'Volledige Naam'
 Phone: Telefoon
 'EPP code / Authorization key': 'EPP code / Authorisatie sleutel'
@@ -216,7 +216,7 @@ or: of
 'Domains with email enabled': 'Domeinen with email geactiveerd'
 'Domains with email disabled': 'Domeinen with email gedeactiveerd'
 'Total users': 'Totaal aantal gebruikers'
-'used of': 'gebruikt'
+'used of': gebruikt
 'Email domain usage': 'Email domein verbruik'
 purchase: aanschaffen
 'contact us': 'neem contact met ons op'
@@ -230,7 +230,7 @@ Title: Titel
 Note: Notitie
 Client: Client
 Group: Groep
-'User Group': 'Gebruikersgroep'
+'User Group': Gebruikersgroep
 'Created on': 'Aangemaakt op'
 'Last Login': 'Laatste Login'
 Subject: Onderwerp
@@ -243,7 +243,7 @@ High: Hoog
 ID: ID
 'Date Submitted': 'Datum ingestuurd'
 Frequency: Frequentie
-Destination: Verzonden Aan
+Destination: 'Verzonden Aan'
 monitors: monitors
 Servers: Servers
 'Last Sent': 'Laatst Verzonden'
@@ -367,7 +367,7 @@ Timezone: Tijdzone
 'Are you sure you want to CANCEL server': 'Weet u zeker dat u deze server wilt ANNULEREN'
 'All data related to the server (including files, databases, etc) will be permanently lost.': 'Alle data gerelateerd aan deze server (inclusief bestanden, databases etc) zullen permanent worden gewist.'
 'Please be sure to back-up all your files': 'Zorg voor een backup van al uw bestanden'
-'Please, provide an explanation for the cancellation. Feedback is key for us to improve our service':  'Voer alstublieft een reden in voor uw annuleren. Deze terugkoppeling zorgt ervoor dat wij onze service kunnen verbeteren'
+'Please, provide an explanation for the cancellation. Feedback is key for us to improve our service': 'Voer alstublieft een reden in voor uw annuleren. Deze terugkoppeling zorgt ervoor dat wij onze service kunnen verbeteren'
 'YES, I am sure. CANCEL': 'JA, ik ben zeker. ANNULEER'
 'Please, confirm once again you would like to cancel this server': 'Bevestig nogmaals dat u deze server wilt annuleren'
 'Submitting cancellation': 'Verzoek tot annulering wordt doorgestuurd'
@@ -383,7 +383,7 @@ details: details
 '%server%''s Monitors': '%server%''s Monitors'
 Monitors: Monitors
 'Are you sure you want to remove this alert?': 'Weet u zeker dat u deze alarmering wilt verwijderen?'
-'Installing a new image will wipe out all your current files. <u>Please be sure to back-up all your files.</u>':  'Installatie van een nieuwe image zal alle bestanden verloren doen gaan. <u>Maak er zeker van dat u al uw bestanden heeft geback-upped.</u>'
+'Installing a new image will wipe out all your current files. <u>Please be sure to back-up all your files.</u>': 'Installatie van een nieuwe image zal alle bestanden verloren doen gaan. <u>Maak er zeker van dat u al uw bestanden heeft geback-upped.</u>'
 'Are you sure you want to reset your VPS?': 'Weet u zeker dat u uw VPS wilt herstarten?'
 'Current Operating System': 'Huidige Besturings Systeem'
 'New root password': 'Nieuw root wachtwoord'
@@ -397,11 +397,10 @@ Terminal: Terminal
 'Home Directory': 'Home Directory'
 'Edit User': 'Wijzig Gebruiker'
 'No users': 'Geen gebruikers'
-'New User': 'Nieuwe Gebruiker'
 'Change Server Hostname': 'Wijzig Server Hostnaam'
 'Server Hostname (ie. server.example.com)': 'Server Hostnaam (bv. server.example.com)'
 'We haven''t heard from you in a while so we stopped the live charts. To reactivate just move your mouse around.': 'We hebben al even niets meer van u gehoord, dus we hebben onze live updates stopgezet. Beweeg met uw muis om deze opnieuw te activeren.'
-'The System section allows you to monitor and control your system. This is the section you are on right now.':  'Via het systeem selectie kunt u uw system monitoring en controleren.'
+'The System section allows you to monitor and control your system. This is the section you are on right now.': 'Via het systeem selectie kunt u uw system monitoring en controleren.'
 'The Memory, CPU tab will provide you with information about your system.': 'Het Geheugen & CPU tabblad biedt informatie over uw systeem.'
 'It also contains the reboot, shutdown and startup controls for your system.': 'Het bevat tevens de herstart, in- en uitschakel functionaliteit voor uw systeem.'
 'Use the Sync server button to sync your control panel with your server if you made changes to your server using SSH while also logged in to your control panel': 'Gebruikt de Synchronizeer knop om het controle paneel te synchronizeren met uw server indien uw veranderingen heeft aangebracht via SSH terwijl u ook in het controle paneel bent ingelogd'
@@ -423,7 +422,7 @@ Terminal: Terminal
 'Plan information': 'Plan informatie'
 'Select the plan for the new server. You can upgrade / downgrade your plan at any time without even rebooting your VPS.': 'Selecteer een plan voor de neiuwe server. U kunt uw plan altijd verhogen of verlagen zonder uw VPS te herstarten.'
 'Order new %typeName% Server': 'Bestel een nieuwe %typeName% Server'
-'Payment Method': 'Betaalwijze'
+'Payment Method': Betaalwijze
 'App Control': 'App Control'
 Start: Start
 'Are you sure you want to stop this server?': 'Weet u zeker dat u deze server wilt stoppen?'
@@ -652,7 +651,6 @@ Search: Zoeken
 'Search Support': 'Doorzoek Support'
 'View Active': 'Bekijk actieve'
 'View All': 'Bekijk alle'
-'VPS Services': 'VPS Services'
 Refreshing...: Vernieuwen...
 manage: beheer
 'Add a MongoDB server': 'Toevoegen MongoDB server'
@@ -704,7 +702,7 @@ Frameworks: Frameworks
 'Apache Modules': 'Apache Modules'
 'Virtual Hosts': 'Virtuele Hosts'
 'Virtual Host': 'Virtuele Host'
-'File Name': 'Bestandsnaam'
+'File Name': Bestandsnaam
 'Reset Root Password': 'Herstel Root Wachtwoord'
 'Enter new MySQL root password': 'Voer een nieuwe MySQL root wachtwoord in'
 'Confirm new password': 'Bevestig nieuwe wachtwoord'
@@ -715,7 +713,7 @@ Frameworks: Frameworks
 'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.': 'Indien uw applicaties met de MySQL server verbind via het root wachtwoord, dan zullen deze niet meer werken. U dient uw applicatie configuratie aan te passen met het nieuwe wachtwoord.'
 'Please enter a password': 'Geef een wachtwoord'
 'Password does not match': 'Wachtwoorden komen niet overeen'
-'You are about to change the MySQL root password. Are you sure this is what you want to do?':  'U staat op het punt om het MySQL root wachtwoord te veranderen. Weet u zeker dat u dit wilt doen?'
+'You are about to change the MySQL root password. Are you sure this is what you want to do?': 'U staat op het punt om het MySQL root wachtwoord te veranderen. Weet u zeker dat u dit wilt doen?'
 'Read more': 'Lees meer'
 Saving: Opslaan
 'Extended Status': 'Uitgebreide Status'
@@ -829,7 +827,6 @@ On: Aan
 'Domain already exists in system.': 'Domein bestaat reeds in het systeem.'
 'Domain has been added': 'Domein is toegevoegd'
 'Domain has been updated': 'Domein is bewerkt'
-'Domain name not valid.': 'Domein naam is niet geldig.'
 'Domain name not valid.': 'Domein naam is niet geldig.'
 'Parent domain not found': 'Ouder domein niet gevonden'
 'Domain alias has been added': 'Domein alias is toegevoegd'
@@ -999,7 +996,7 @@ Indexes: Indexen
 'Index Name': 'Index Naam'
 optional: optioneen
 'Unique Index': 'Unieke Index'
-'Drop Duplicates': 'Ontdubbel'
+'Drop Duplicates': Ontdubbel
 Keys: Sleutels
 'add key': 'sleutel toevegen'
 ASC: ASC
@@ -1084,3 +1081,5 @@ change: wijzig
 'New password and confirmation must be the same.': 'Wachtwoord is niet gelijk.'
 'Are you sure you want to unlock this domain?': 'Weet u zeker dat u dit domein wilt unlocken?'
 'Are you sure you want to lock this domain?': 'Weet u zeker dat u dit domein wilt locken?'
+'new user': 'nieuwe gebruiker'
+'Sorry, we currently don''t support IE.': 'Sorry, we ondersteunen geen IE.'
