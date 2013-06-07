@@ -151,8 +151,8 @@ Save: Speichere
 Cancel: Abbruch
 'Current Version': 'Derzeitige Version'
 'Are you sure you want to delete': 'Sind Sie sicher dass Sie löschen möchten'
-'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.': 'Alle Daten die mit der Domain zu tun haben (einschließlich Dateien, E-Mail-Accounts, E-Mail-Nachrichten, usw.) werden permanent gelöscht sein.'
-'YES, I am sure. Delete': 'Ja, ich bin sicher. Löschen'
+'All data related to the domain (including files, email accounts, email messages, etc) will be permanently lost.': 'Alle Daten die mit der Domain zu tun haben (einschließlich Dateien, E-Mail-Accounts, E-Mail-Nachrichten, usw.) werden permanent gelöscht.'
+'YES, I am sure. Delete': 'Ja, ich bin sicher. Lösche'
 Settings: Einstellungen
 Disabled: Ausgestellt
 disable: ausstellen
@@ -370,7 +370,7 @@ Timezone: Zeitzone
 'All data related to the server (including files, databases, etc) will be permanently lost.': 'Alle Dateien, die mit dem Server zu tun haben (inklusive Dateien, Datenbanken, usw.) werden dauerhaft verloren sein.'
 'Please be sure to back-up all your files': 'Bitte stellen Sie sicher, dass alle Ihre Dateien gesichert wurden'
 'Please, provide an explanation for the cancellation. Feedback is key for us to improve our service': 'Bitte teilen Sie uns den Grund Ihrer Kündigung mit. Ihre Meinung ist der Schlüssel dazu, unseren Service zu verbessern'
-'YES, I am sure. CANCEL': 'JA, ich bin sicher. KÜNDIGEN'
+'YES, I am sure. CANCEL': 'JA, ich bin sicher. KÜNDIGE'
 'Please, confirm once again you would like to cancel this server': 'Bitte bestätigen Sie zur Sicherheit noch einmal, dass Sie diesen Server kündigen möchten'
 'Submitting cancellation': 'Reiche Kündigung ein'
 'Sending cancellation request': 'Sende Kündigungsanfrage'
@@ -693,7 +693,7 @@ Unpaid: Unbezahlt
 Paid: Bezahlt
 Cancelled: Abgebrochen
 Stopped: Gestoppt
-Running: Laufend
+Running: in Betrieb
 N/A: nicht verfügbar
 'Web Servers': 'Web-Server'
 'DNS Servers': 'DNS-Server'
