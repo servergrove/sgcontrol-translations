@@ -24,7 +24,7 @@ Current: Huidig
 'Forwarding Email': 'Doorgestuurde E-mail'
 'Post Email': 'Verstuur E-mail'
 'All Domains': 'Alle Domeinen'
-'Contact Support': 'Neem contact met support op'
+'Contact Support': 'Ondersteuning'
 'New Collection': 'Nieuwe Collectie'
 'Traffic summary for': 'Overzicht dataverkeer voor'
 'Total allotted': 'Totaal toegestaan'
@@ -564,7 +564,7 @@ Upgrade/Downgrade: Upgrade/Downgrade
 'Update Credit Card': 'Hernieuw Creditcard'
 'update credit card': 'hernieuw creditcard'
 'Invoices for': 'Facturen voor'
-'Unpaid Invoices': 'Onbepaalde Facturen'
+'Unpaid Invoices': 'Onbetaalde Facturen'
 'Show All Invoices': 'Toon Alle Facturen'
 'Invoice num': 'Factuur #'
 'Date Paid': 'Datum Betaald'
@@ -641,7 +641,7 @@ ticket: ticket
 'My Servers': 'Mijn Servers'
 Support: Support
 Logout: Uitloggen
-Profile: Profile
+Profile: Profiel
 'API Docs': 'API Docs'
 Billing: Facturatie
 Blog: Blog
